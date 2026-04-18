@@ -1,0 +1,10 @@
+{
+  "$schema": "https://w3id.org/bih/schema/issuer-info.schema.json",
+  "issuer": "example",
+  "title": "Example BIH collections",
+  "description": "Edit `public/info.json` and `public/index.json` to configure this issuer.",
+  "homepage_url": null,
+  "repository_url": null,
+  "w3id_issuer_url": null,
+  "collections_index_url": "./index.json"
+}

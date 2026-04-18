@@ -1,0 +1,171 @@
+{
+  "properties": [
+    {
+      "property": "bih:hasBihId",
+      "subproperty_of": "dcterms:identifier",
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "identifier_prefix": "bih:",
+      "label": "BIH ID",
+      "order": 10
+    },
+    {
+      "property": "bih:hasDOI",
+      "subproperty_of": "dcterms:identifier",
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "identifier_prefix": "doi:",
+      "label": "DOI",
+      "order": 20
+    },
+    {
+      "property": "bih:hasISBN",
+      "subproperty_of": "dcterms:identifier",
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "identifier_prefix": "isbn:",
+      "label": "ISBN",
+      "order": 30
+    },
+    {
+      "property": "bih:hasCRID",
+      "subproperty_of": "dcterms:identifier",
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "identifier_prefix": "crid:",
+      "label": "CRID",
+      "order": 40
+    },
+    {
+      "property": "bih:hasOpenAlexId",
+      "subproperty_of": "dcterms:identifier",
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "identifier_prefix": "openalex:",
+      "label": "OpenAlex ID",
+      "order": 50
+    },
+    {
+      "property": "bih:hasOCLC",
+      "subproperty_of": "dcterms:identifier",
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "identifier_prefix": "oclc:",
+      "label": "OCLC",
+      "order": 55
+    },
+    {
+      "property": "bih:hasNDLBibID",
+      "subproperty_of": "dcterms:identifier",
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "identifier_prefix": "NDLBibID:",
+      "label": "NDLBibID",
+      "order": 57
+    },
+    {
+      "property": "dcterms:identifier",
+      "subproperty_of": null,
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "label": "Identifier",
+      "order": 60
+    },
+    {
+      "property": "cito:cites",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "cites",
+      "order": 100
+    },
+    {
+      "property": "cito:isCitedBy",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "is cited by",
+      "order": 110
+    },
+    {
+      "property": "dcterms:isPartOf",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "part of",
+      "order": 115
+    },
+    {
+      "property": "owl:sameAs",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "same as",
+      "order": 120
+    },
+    {
+      "property": "schema:url",
+      "subproperty_of": null,
+      "identifier": true,
+      "primary_identifier_candidate": true,
+      "label": "URL",
+      "order": 125
+    },
+    {
+      "property": "foaf:page",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "page",
+      "order": 130
+    },
+    {
+      "property": "bih:hasBibTeX",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "BibTeX",
+      "order": 135
+    },
+    {
+      "property": "bibSource",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "Bib source",
+      "order": 140
+    },
+    {
+      "property": "bih:hasCSLJSON",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "CSL JSON",
+      "order": 150
+    },
+    {
+      "property": "annotationSource",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "annotation source",
+      "order": 160
+    },
+    {
+      "property": "citationSource",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "citation source",
+      "order": 170
+    },
+    {
+      "property": "archiveSource",
+      "subproperty_of": null,
+      "identifier": false,
+      "primary_identifier_candidate": false,
+      "label": "archive source",
+      "order": 180
+    }
+  ]
+}
