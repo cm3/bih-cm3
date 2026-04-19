@@ -101,7 +101,7 @@ export function computePrimaryIdentifierValue(
   property = entry.primary_id_property,
   catalog: PropertyCatalogEntry[] = DEFAULT_PROPERTY_CATALOG,
 ): string {
-  const sourceValue = property === 'bih:hasBihId' ? entry.hub_id : null;
+  const sourceValue = property === 'bih:hasBihId' ? entry.hub_id.replace(/^bih:/, '') : null;
 
   const matchedLink = entry.links.find(
     (link) => link.property === property && isIdentifierProperty(link.property, link.target_type, catalog),

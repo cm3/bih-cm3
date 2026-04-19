@@ -353,7 +353,7 @@ function buildDisplayIdentifier(
   if (resourceUrl) {
     return { property: 'schema:url', value: resourceUrl };
   }
-  return { property: 'bih:hasBihId', value: hubId };
+  return { property: 'bih:hasBihId', value: hubId.replace(/^bih:/, '') };
 }
 
 function appendSearchTokens(tokens: string[], value: unknown): void {
