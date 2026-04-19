@@ -186,7 +186,9 @@ export class BihIssuer extends LitElement {
   }
 
   private get publicRootUrl(): URL {
-    return new URL('../', window.location.href);
+    return import.meta.env.DEV
+      ? new URL('/', window.location.href)
+      : new URL(/* @vite-ignore */ '../', import.meta.url);
   }
 
   private resolvePublicUrl(relativePath: string): string {
