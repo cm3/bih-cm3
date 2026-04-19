@@ -27,6 +27,14 @@ Static viewer and dev-time editor for small Bibliographic Information Hub collec
 - `npm run preview`: local preview of the built viewer
 - `npm run sync-collection -- --collection ... --source-bib ...`: local sync step that normalizes BibTeX/BibLaTeX through `citation-js`
 
+## Deployment
+- This repository is designed to be forked.
+- The fork owns the data under `public/` and any issuer-specific customization.
+- `npm run dev` and `npm run sync-collection` are authoring-time steps run locally by the fork owner.
+- On push to `main`, `.github/workflows/deploy.yml` runs `npm run build` and publishes `dist/` to GitHub Pages.
+- The deployed site is a static viewer; it does not run `sync-collection` or the dev save endpoints.
+- For a hosted editor that does not require running `npm run dev` (e.g. non-technical contributors), see the separate `bih-hosting` service rather than deploying this app in editor mode.
+
 ## Editing Model
 - `public/{collection}/all.bib` is the bibliographic source of truth.
 - `public/{collection}/hub.json` stores BIH-side hub metadata such as `viewer_category`, `contextual_description`, display identifier overrides, and hub links.
