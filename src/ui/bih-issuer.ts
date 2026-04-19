@@ -462,24 +462,28 @@ export class BihIssuer extends LitElement {
               : ''}
           </div>
           <div class="topbar-right">
-            <div class="mode-switch">
-              <button
-                ?selected=${this.currentMode === 'editor'}
-                @click=${() => {
-                  this.setMode('editor');
-                }}
-              >
-                Editor
-              </button>
-              <button
-                ?selected=${this.currentMode === 'viewer'}
-                @click=${() => {
-                  this.setMode('viewer');
-                }}
-              >
-                Viewer
-              </button>
-            </div>
+            ${this.isDevRuntime
+              ? html`
+                  <div class="mode-switch">
+                    <button
+                      ?selected=${this.currentMode === 'editor'}
+                      @click=${() => {
+                        this.setMode('editor');
+                      }}
+                    >
+                      Editor
+                    </button>
+                    <button
+                      ?selected=${this.currentMode === 'viewer'}
+                      @click=${() => {
+                        this.setMode('viewer');
+                      }}
+                    >
+                      Viewer
+                    </button>
+                  </div>
+                `
+              : ''}
             <span class="bih-mark" aria-label="BIH issuer mark">
               <img class="bih-logo" src=${this.resolvePublicUrl('./assets/logo.png')} alt="BIH" />
               <span class="bih-mark-link bih-mark-static">${this.info?.issuer ?? '...'}</span>
