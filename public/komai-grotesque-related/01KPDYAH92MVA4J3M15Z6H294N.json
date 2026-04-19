@@ -1,0 +1,134 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH92MVA4J3M15Z6H294N",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1515/9780824866730-012",
+  "contextual_description": "書籍の編者はJulia C. Bullock, Ayako Kano, James Welker",
+  "record_cache": {
+    "title": "Dangerous Women and Dangerous Stories: Gendered Narration in Kirino Natsuo’s Grotesque and Real World",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Hemmann",
+        "given": "Kathryn",
+        "literal": null
+      }
+    ],
+    "issued_year": null,
+    "issued_date": "nd",
+    "container_title": "Rethinking Modern Japanese Feminisms",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "University of Hawai‘i Press",
+    "volume": null,
+    "issue": null,
+    "pages": "170-184",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "書籍の編者はJulia C. Bullock, Ayako Kano, James Welker",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "chapter",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "hemmannnd-dangerous-women-dangerous",
+          "fields": {
+            "title": "Dangerous {Women} and {Dangerous} {Stories}: {Gendered} {Narration} in {Kirino} {Natsuo}’s {Grotesque} and {Real} {World}",
+            "booktitle": "Rethinking {Modern} {Japanese} {Feminisms}",
+            "publisher": "University of Hawai‘i Press",
+            "author": "Hemmann, Kathryn",
+            "doi": "10.1515/9780824866730-012",
+            "note": "書籍の編者はJulia C. Bullock, Ayako Kano, James Welker",
+            "pages": "170--184",
+            "ids": "hemmann_dangerous_nodate"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Kathryn",
+              "family": "Hemmann"
+            }
+          ],
+          "container-title": "Rethinking Modern Japanese Feminisms",
+          "DOI": "10.1515/9780824866730-012",
+          "type": "chapter",
+          "id": "hemmannnd-dangerous-women-dangerous",
+          "citation-key": "hemmannnd-dangerous-women-dangerous",
+          "note": "書籍の編者はJulia C. Bullock, Ayako Kano, James Welker",
+          "page": "170-184",
+          "publisher": "University of Hawai‘i Press",
+          "title": "Dangerous Women and Dangerous Stories: Gendered Narration in Kirino Natsuo’s Grotesque and Real World"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "24cab21f-8a24-49d4-a9c4-535e121d1807",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH92MVA4J3M15Z6H294N.bib",
+      "normalized_target": "./01KPDYAH92MVA4J3M15Z6H294N.bib",
+      "source": "generated",
+      "url": "./01KPDYAH92MVA4J3M15Z6H294N.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "9d19707b-4da2-455d-9336-71014e8f0f36",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH92MVA4J3M15Z6H294N.csl.json",
+      "normalized_target": "./01KPDYAH92MVA4J3M15Z6H294N.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH92MVA4J3M15Z6H294N.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "2ac23a83-9986-4a13-9a1f-cbc29441fc6c",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1515/9780824866730-012",
+      "normalized_target": "10.1515/9780824866730-012",
+      "source": "generated",
+      "url": "https://doi.org/10.1515%2F9780824866730-012",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "01KPDYAHABD5PCVA6A3GK9E5GN",
+      "property": "foaf:page",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://citation.doi.org/metadata?doi=10.1515%2F9780824866730-012",
+      "normalized_target": "https://citation.doi.org/metadata?doi=10.1515%2F9780824866730-012",
+      "source": "hub",
+      "url": "https://citation.doi.org/metadata?doi=10.1515%2F9780824866730-012",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Inferred from source metadata."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "$schema": "https://w3id.org/bih/schema/hub-import.schema.json",
+  "default_viewer_category": "references",
+  "entries": {
+    "hemmannnd-dangerous-women-dangerous": {
+      "contextual_description": "書籍の編者はJulia C. Bullock, Ayako Kano, James Welker",
+      "links": [
+        {
+          "link_id": "01KPDYAHABD5PCVA6A3GK9E5GN",
+          "property": "foaf:page",
+          "target_type": "page",
+          "target_value": "https://citation.doi.org/metadata?doi=10.1515%2F9780824866730-012",
+          "note": "Inferred from source metadata."
+        }
+      ]
+    },
+    "item2003": {
+      "viewer_category": "target-literature",
+      "contextual_description": "単行本版",
+      "links": [
+        {
+          "link_id": "01KPDYAHACSY72MFWXTVE1YX4N",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "000004168170",
+          "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern."
+        }
+      ]
+    },
+    "item2003-2": {
+      "links": [
+        {
+          "link_id": "01KPDYAHACWQFNJ6EZJ862BZZ4",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "6620609",
+          "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern."
+        }
+      ]
+    },
+    "item2004-vs": {
+      "links": [
+        {
+          "link_id": "01KPDYAHADSV1NFJ2WXY0TGZ0F",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "7004881",
+          "note": "Manual NDLBibID and NDL bib link."
+        }
+      ]
+    },
+    "item2006": {
+      "viewer_category": "target-literature",
+      "contextual_description": "文庫版",
+      "links": [
+        {
+          "link_id": "01KPDYAHADZBMY0Q62RHXS2EZ3",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "000008287782",
+          "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern."
+        },
+        {
+          "link_id": "01KPDYAHADZ5PN03W922C1DB21",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "000008287891",
+          "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern. This entry currently aggregates upper and lower bunko volumes."
+        }
+      ]
+    },
+    "item2009": {
+      "links": [
+        {
+          "link_id": "01KPDYAHAE5R7H8VR3EBXF2SVR",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "10505995",
+          "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern."
+        }
+      ]
+    },
+    "item2010": {
+      "links": [
+        {
+          "link_id": "01KPDYAHAED8CKG0BN3KJVYP8V",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "000011018876",
+          "note": "Manual NDLBibID and NDL bib link."
+        }
+      ]
+    },
+    "itemnd": {
+      "viewer_category": "target-literature",
+      "contextual_description": "初出。連載期間は [『週刊文春』](https://search.worldcat.org/title/835539974) 2001年2月1日号～2002年9月12日号."
+    },
+    "itemnd-2": {
+      "contextual_description": "『グロテスク』（下）（文春文庫、2006）に「解説」として収録されているもの。",
+      "links": [
+        {
+          "link_id": "01KPDYAHAFGNSD9M27SKWFZ475",
+          "property": "dcterms:isPartOf",
+          "target_type": "entry",
+          "target_value": "item2006",
+          "note": "Manual relation linking the commentary chapter to the bunko edition entry."
+        }
+      ]
+    },
+    "itemnd-out": {
+      "links": [
+        {
+          "link_id": "01KPDYAHAG2D9SNZJGPK8QHTGK",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "030699295",
+          "note": "Manual NDLBibID and NDL bib link."
+        }
+      ]
+    },
+    "kirino2007-grotesque": {
+      "viewer_category": "target-literature",
+      "contextual_description": "レベッカ・コープランドによる、桐野夏生『グロテスク』の英訳版"
+    },
+    "qiao2019-women-maze-space": {
+      "links": [
+        {
+          "link_id": "01KPDYAHAGX50QWX3J4TJWPVAS",
+          "property": "bih:hasNDLBibID",
+          "target_type": "identifier",
+          "target_value": "030178193",
+          "note": "Manual NDLBibID and NDL bib link."
+        }
+      ]
+    }
+  }
+}

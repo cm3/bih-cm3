@@ -1,0 +1,22 @@
+{
+  "issuer": "cm3",
+  "collection": "komai-grotesque-related",
+  "title": "桐野夏生『グロテスク』関連文献",
+  "description": "桐野夏生の『グロテスク』についての対談や評論、研究を集めたリスト",
+  "metadata_source_label": "BibTeX file uploaded by the issuer",
+  "viewer_categories": [
+    {
+      "id": "references",
+      "visible_by_default": true
+    },
+    {
+      "id": "target-literature",
+      "visible_by_default": false
+    }
+  ],
+  "manifest_url": "./manifest.json",
+  "collection_bib_url": "./all.bib",
+  "notes_url": null,
+  "index_url": "./index.json",
+  "item_base_url": "./"
+}

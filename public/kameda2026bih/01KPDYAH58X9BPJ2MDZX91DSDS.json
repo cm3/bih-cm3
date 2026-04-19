@@ -1,0 +1,174 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH58X9BPJ2MDZX91DSDS",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1162/qss_a_00292",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "A Fully Automated Bibliographic Metadata Retrieval and Management System in OpenCitations Meta",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Massari",
+        "given": "Arcangelo",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Mariani",
+        "given": "Diego",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Peroni",
+        "given": "Silvio",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Shotton",
+        "given": "David",
+        "literal": null
+      }
+    ],
+    "issued_year": 2024,
+    "issued_date": "2024",
+    "container_title": "Quantitative Science Studies",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "5",
+    "issue": "1",
+    "pages": "50-75",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "massari2024-fully-automated-bibliographic",
+          "fields": {
+            "title": "A Fully Automated Bibliographic Metadata Retrieval and Management System in OpenCitations Meta",
+            "author": "Massari, Arcangelo and Mariani, Diego and Peroni, Silvio and Shotton, David",
+            "journal": "Quantitative Science Studies",
+            "year": "2024",
+            "volume": "5",
+            "number": "1",
+            "pages": "50--75",
+            "doi": "10.1162/qss_a_00292",
+            "url": "https://doi.org/10.1162/qss_a_00292",
+            "ids": "massari-etal2024"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Quantitative Science Studies",
+          "author": [
+            {
+              "given": "Arcangelo",
+              "family": "Massari"
+            },
+            {
+              "given": "Diego",
+              "family": "Mariani"
+            },
+            {
+              "given": "Silvio",
+              "family": "Peroni"
+            },
+            {
+              "given": "David",
+              "family": "Shotton"
+            }
+          ],
+          "DOI": "10.1162/qss_a_00292",
+          "type": "article-journal",
+          "id": "massari2024-fully-automated-bibliographic",
+          "citation-key": "massari2024-fully-automated-bibliographic",
+          "issue": "1",
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "page": "50-75",
+          "title": "A Fully Automated Bibliographic Metadata Retrieval and Management System in OpenCitations Meta",
+          "URL": "https://doi.org/10.1162/qss_a_00292",
+          "volume": "5"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "8732344a-d19a-47a3-ba39-eaa6e29d73d2",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH58X9BPJ2MDZX91DSDS.bib",
+      "normalized_target": "./01KPDYAH58X9BPJ2MDZX91DSDS.bib",
+      "source": "generated",
+      "url": "./01KPDYAH58X9BPJ2MDZX91DSDS.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "2d55fab0-33ba-4058-b2d5-72acbdfbfe3f",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH58X9BPJ2MDZX91DSDS.csl.json",
+      "normalized_target": "./01KPDYAH58X9BPJ2MDZX91DSDS.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH58X9BPJ2MDZX91DSDS.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "3f270744-cc5a-4553-82c6-e82ea495bf13",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1162/qss_a_00292",
+      "normalized_target": "10.1162/qss_a_00292",
+      "source": "generated",
+      "url": "https://doi.org/10.1162%2Fqss_a_00292",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "f39e827a-6dd2-4010-b3f3-42e2544db1d1",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://doi.org/10.1162/qss_a_00292",
+      "normalized_target": "https://doi.org/10.1162/qss_a_00292",
+      "source": "generated",
+      "url": "https://doi.org/10.1162/qss_a_00292",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

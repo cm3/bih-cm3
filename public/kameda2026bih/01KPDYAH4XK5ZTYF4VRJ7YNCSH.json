@@ -1,0 +1,131 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH4XK5ZTYF4VRJ7YNCSH",
+  "primary_id_property": "schema:url",
+  "primary_id_value": "https://www.zotero.org/support/creating_bibliographies",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "Creating Bibliographies",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Corporation for Digital Scholarship",
+        "given": null,
+        "literal": null
+      }
+    ],
+    "issued_year": 2025,
+    "issued_date": "2025",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "Zotero",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "webpage",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "corporation-for-digital-scholarship2025-creating-bibliographies",
+          "fields": {
+            "title": "Creating Bibliographies",
+            "author": "{Corporation for Digital Scholarship}",
+            "year": "2025",
+            "url": "https://www.zotero.org/support/creating_bibliographies",
+            "urldate": "2026-03-19",
+            "organization": "Zotero",
+            "ids": "zotero-bibliographies2025"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "accessed": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                19
+              ]
+            ]
+          },
+          "author": [
+            {
+              "family": "Corporation for Digital Scholarship"
+            }
+          ],
+          "type": "webpage",
+          "id": "corporation-for-digital-scholarship2025-creating-bibliographies",
+          "citation-key": "corporation-for-digital-scholarship2025-creating-bibliographies",
+          "issued": {
+            "date-parts": [
+              [
+                2025
+              ]
+            ]
+          },
+          "publisher": "Zotero",
+          "title": "Creating Bibliographies",
+          "URL": "https://www.zotero.org/support/creating_bibliographies"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "e2a23c45-8758-4542-ba20-a0024bd5edaa",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH4XK5ZTYF4VRJ7YNCSH.bib",
+      "normalized_target": "./01KPDYAH4XK5ZTYF4VRJ7YNCSH.bib",
+      "source": "generated",
+      "url": "./01KPDYAH4XK5ZTYF4VRJ7YNCSH.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "8f1a98e5-84a8-4816-a88b-3a6f39340684",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH4XK5ZTYF4VRJ7YNCSH.csl.json",
+      "normalized_target": "./01KPDYAH4XK5ZTYF4VRJ7YNCSH.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH4XK5ZTYF4VRJ7YNCSH.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "493c516f-a3d0-40d9-b772-8ed097f13030",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://www.zotero.org/support/creating_bibliographies",
+      "normalized_target": "https://www.zotero.org/support/creating_bibliographies",
+      "source": "generated",
+      "url": "https://www.zotero.org/support/creating_bibliographies",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

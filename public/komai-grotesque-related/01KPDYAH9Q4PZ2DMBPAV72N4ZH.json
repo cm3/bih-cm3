@@ -1,0 +1,117 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9Q4PZ2DMBPAV72N4ZH",
+  "primary_id_property": "bih:hasNDLBibID",
+  "primary_id_value": "030699295",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "桐野夏生とその時代――『OUT』『グロテスク』『メタボラ』について",
+    "creators": [
+      {
+        "role": "author",
+        "family": "白井",
+        "given": "聡",
+        "literal": null
+      }
+    ],
+    "issued_year": null,
+    "issued_date": "nd",
+    "container_title": "思想",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": null,
+    "issue": "1159",
+    "pages": "8-28",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "itemnd-out",
+          "fields": {
+            "title": "桐野夏生とその時代――『{OUT}』『グロテスク』『メタボラ』について",
+            "number": "1159",
+            "journal": "思想",
+            "author": "白井, 聡",
+            "pages": "8--28",
+            "ndlbibid": "030699295",
+            "ids": "_out_nodate"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "思想",
+          "author": [
+            {
+              "given": "聡",
+              "family": "白井"
+            }
+          ],
+          "type": "article-journal",
+          "id": "itemnd-out",
+          "citation-key": "itemnd-out",
+          "issue": "1159",
+          "page": "8-28",
+          "title": "桐野夏生とその時代――『OUT』『グロテスク』『メタボラ』について"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "c5aad49b-dc0a-4ef0-b08f-9b9e1c723334",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9Q4PZ2DMBPAV72N4ZH.bib",
+      "normalized_target": "./01KPDYAH9Q4PZ2DMBPAV72N4ZH.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9Q4PZ2DMBPAV72N4ZH.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "5990c373-7826-4dea-aef2-a9fe69f0d80d",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9Q4PZ2DMBPAV72N4ZH.csl.json",
+      "normalized_target": "./01KPDYAH9Q4PZ2DMBPAV72N4ZH.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9Q4PZ2DMBPAV72N4ZH.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "16bfbd63-93e6-4dec-a316-364aba8ac344",
+      "property": "bih:hasNDLBibID",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "030699295",
+      "normalized_target": "030699295",
+      "source": "hub",
+      "url": "http://id.ndl.go.jp/bib/030699295",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual NDLBibID and NDL bib link."
+    }
+  ]
+}

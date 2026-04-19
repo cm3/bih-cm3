@@ -1,0 +1,131 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH4SWQKRDTV56B3ZP06P",
+  "primary_id_property": "schema:url",
+  "primary_id_value": "https://www.zotero.org/support/groups",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "Zotero Groups",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Corporation for Digital Scholarship",
+        "given": null,
+        "literal": null
+      }
+    ],
+    "issued_year": 2024,
+    "issued_date": "2024",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "Zotero",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "webpage",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "corporation-for-digital-scholarship2024-zotero-groups",
+          "fields": {
+            "title": "Zotero Groups",
+            "author": "{Corporation for Digital Scholarship}",
+            "year": "2024",
+            "url": "https://www.zotero.org/support/groups",
+            "urldate": "2026-03-19",
+            "organization": "Zotero",
+            "ids": "zotero2026"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "accessed": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                19
+              ]
+            ]
+          },
+          "author": [
+            {
+              "family": "Corporation for Digital Scholarship"
+            }
+          ],
+          "type": "webpage",
+          "id": "corporation-for-digital-scholarship2024-zotero-groups",
+          "citation-key": "corporation-for-digital-scholarship2024-zotero-groups",
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "publisher": "Zotero",
+          "title": "Zotero Groups",
+          "URL": "https://www.zotero.org/support/groups"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "f96f6496-b269-42e4-ad18-880abf5a0c00",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH4SWQKRDTV56B3ZP06P.bib",
+      "normalized_target": "./01KPDYAH4SWQKRDTV56B3ZP06P.bib",
+      "source": "generated",
+      "url": "./01KPDYAH4SWQKRDTV56B3ZP06P.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "167d9d74-1b1e-464b-ad35-f3662317c999",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH4SWQKRDTV56B3ZP06P.csl.json",
+      "normalized_target": "./01KPDYAH4SWQKRDTV56B3ZP06P.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH4SWQKRDTV56B3ZP06P.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "2f3259ea-47b2-464b-b631-05a1216a9f47",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://www.zotero.org/support/groups",
+      "normalized_target": "https://www.zotero.org/support/groups",
+      "source": "generated",
+      "url": "https://www.zotero.org/support/groups",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

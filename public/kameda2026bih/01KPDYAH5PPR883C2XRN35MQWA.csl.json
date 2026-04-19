@@ -1,0 +1,84 @@
+{
+  "container-title": "Data Science",
+  "author": [
+    {
+      "given": "Stian",
+      "family": "Soiland-Reyes"
+    },
+    {
+      "given": "Peter",
+      "family": "Sefton"
+    },
+    {
+      "given": "Mercè",
+      "family": "Crosas"
+    },
+    {
+      "given": "Leyla Jael",
+      "family": "Castro"
+    },
+    {
+      "given": "Frederik",
+      "family": "Coppens"
+    },
+    {
+      "given": "José M.",
+      "family": "Fernández"
+    },
+    {
+      "given": "Daniel",
+      "family": "Garijo"
+    },
+    {
+      "given": "Björn",
+      "family": "Grüning"
+    },
+    {
+      "given": "Marco",
+      "family": "La Rosa"
+    },
+    {
+      "given": "Simone",
+      "family": "Leo"
+    },
+    {
+      "given": "Eoghan",
+      "family": "Ó Carragáin"
+    },
+    {
+      "given": "Marc",
+      "family": "Portier"
+    },
+    {
+      "given": "Ana",
+      "family": "Trisovic"
+    },
+    {
+      "family": "RO-Crate Community"
+    },
+    {
+      "given": "Paul",
+      "family": "Groth"
+    },
+    {
+      "given": "Carole",
+      "family": "Goble"
+    }
+  ],
+  "DOI": "10.3233/DS-210053",
+  "type": "article-journal",
+  "id": "soiland-reyes2022-packaging-research-artefacts",
+  "citation-key": "soiland-reyes2022-packaging-research-artefacts",
+  "issue": "2",
+  "issued": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "page": "97-138",
+  "title": "Packaging research artefacts with RO-Crate",
+  "URL": "https://doi.org/10.3233/DS-210053",
+  "volume": "5"
+}

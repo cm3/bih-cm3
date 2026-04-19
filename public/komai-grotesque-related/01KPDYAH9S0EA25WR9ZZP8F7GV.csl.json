@@ -1,0 +1,27 @@
+{
+  "author": [
+    {
+      "given": "Natsuo",
+      "family": "Kirino"
+    }
+  ],
+  "type": "book",
+  "id": "kirino2007-grotesque",
+  "citation-key": "kirino2007-grotesque",
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "note": "レベッカ・コープランドによる、桐野夏生『グロテスク』の英訳版",
+  "publisher": "Harvill Secker",
+  "title": "Grotesque",
+  "translator": [
+    {
+      "given": "Rebecca",
+      "family": "Copeland"
+    }
+  ]
+}

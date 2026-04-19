@@ -1,0 +1,28 @@
+{
+  "container-title": "本の話",
+  "author": [
+    {
+      "given": "夏生",
+      "family": "桐野"
+    },
+    {
+      "given": "敦",
+      "family": "佐々木"
+    }
+  ],
+  "type": "article-journal",
+  "id": "item2003-2",
+  "citation-key": "item2003-2",
+  "issue": "7",
+  "issued": {
+    "date-parts": [
+      [
+        2003,
+        7
+      ]
+    ]
+  },
+  "page": "3-6",
+  "title": "著者に聞く この世の差別のすべてを書く――桐野夏生",
+  "volume": "9"
+}

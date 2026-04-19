@@ -1,0 +1,22 @@
+{
+  "issuer": "cm3",
+  "collection": "oc341",
+  "title": "ウィトゲンシュタイン『確実性について』§ 341 について語っている文献",
+  "description": "Dataset `oc341` generated from BibTeX source.",
+  "viewer_categories": [
+    {
+      "id": "references",
+      "visible_by_default": true
+    },
+    {
+      "id": "cited-work",
+      "visible_by_default": false
+    }
+  ],
+  "manifest_url": "./manifest.json",
+  "collection_bib_url": "./all.bib",
+  "notes_url": null,
+  "index_url": "./index.json",
+  "item_base_url": "./",
+  "metadata_source_label": "BibTeX file uploaded by the issuer"
+}

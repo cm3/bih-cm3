@@ -1,0 +1,118 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9NZ4WH9MBK8Q8Z0KTZ",
+  "primary_id_property": "bih:hasBihId",
+  "primary_id_value": "bih:cm3/komai-grotesque-related/01KPDYAH9NZ4WH9MBK8Q8Z0KTZ",
+  "contextual_description": "『グロテスク』（下）（文春文庫、2006）に「解説」として収録されているもの。",
+  "record_cache": {
+    "title": "解説",
+    "creators": [
+      {
+        "role": "author",
+        "family": "斎藤",
+        "given": "美奈子",
+        "literal": null
+      }
+    ],
+    "issued_year": null,
+    "issued_date": "nd",
+    "container_title": "グロテスク（下）",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "文春文庫",
+    "volume": null,
+    "issue": null,
+    "pages": "447-453",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "『グロテスク』（下）（文春文庫、2006）に「解説」として収録されているもの。",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "chapter",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "itemnd-2",
+          "fields": {
+            "title": "解説",
+            "booktitle": "グロテスク（下）",
+            "publisher": "文春文庫",
+            "author": "斎藤, 美奈子",
+            "note": "『グロテスク』（下）（文春文庫、2006）に「解説」として収録されているもの。",
+            "pages": "447--453",
+            "ids": "__nodate-1"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "美奈子",
+              "family": "斎藤"
+            }
+          ],
+          "container-title": "グロテスク（下）",
+          "type": "chapter",
+          "id": "itemnd-2",
+          "citation-key": "itemnd-2",
+          "note": "『グロテスク』（下）（文春文庫、2006）に「解説」として収録されているもの。",
+          "page": "447-453",
+          "publisher": "文春文庫",
+          "title": "解説"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "2dfcbb34-b9aa-495c-af54-518f319fa161",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9NZ4WH9MBK8Q8Z0KTZ.bib",
+      "normalized_target": "./01KPDYAH9NZ4WH9MBK8Q8Z0KTZ.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9NZ4WH9MBK8Q8Z0KTZ.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "9afa1dca-8241-4d01-8e13-4ebb66615eec",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9NZ4WH9MBK8Q8Z0KTZ.csl.json",
+      "normalized_target": "./01KPDYAH9NZ4WH9MBK8Q8Z0KTZ.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9NZ4WH9MBK8Q8Z0KTZ.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "01KPDYAHAFGNSD9M27SKWFZ475",
+      "property": "dcterms:isPartOf",
+      "label": null,
+      "description": null,
+      "target_type": "entry",
+      "target_value": "bih:cm3/komai-grotesque-related/01KPDYAH9BF1XR16AFV170YA3Z",
+      "normalized_target": "bih:cm3/komai-grotesque-related/01KPDYAH9BF1XR16AFV170YA3Z",
+      "source": "hub",
+      "url": null,
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual relation linking the commentary chapter to the bunko edition entry."
+    }
+  ]
+}

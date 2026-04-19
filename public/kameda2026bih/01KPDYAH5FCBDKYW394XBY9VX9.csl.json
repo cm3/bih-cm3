@@ -1,0 +1,29 @@
+{
+  "container-title": "Quantitative Science Studies",
+  "author": [
+    {
+      "given": "Silvio",
+      "family": "Peroni"
+    },
+    {
+      "given": "David",
+      "family": "Shotton"
+    }
+  ],
+  "DOI": "10.1162/qss_a_00023",
+  "type": "article-journal",
+  "id": "peroni2020-opencitations-infrastructure-organization",
+  "citation-key": "peroni2020-opencitations-infrastructure-organization",
+  "issue": "1",
+  "issued": {
+    "date-parts": [
+      [
+        2020
+      ]
+    ]
+  },
+  "page": "428-444",
+  "title": "OpenCitations, an infrastructure organization for open scholarship",
+  "URL": "https://doi.org/10.1162/qss_a_00023",
+  "volume": "1"
+}

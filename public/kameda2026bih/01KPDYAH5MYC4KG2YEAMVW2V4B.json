@@ -1,0 +1,164 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH5MYC4KG2YEAMVW2V4B",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1002/meet.14504901245",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "Integrating collaborative bibliography and research",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Shaw",
+        "given": "Ryan",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Golden",
+        "given": "Patrick",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Buckland",
+        "given": "Michael",
+        "literal": null
+      }
+    ],
+    "issued_year": 2012,
+    "issued_date": "2012",
+    "container_title": "Proceedings of the American Society for Information Science and Technology",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "49",
+    "issue": "1",
+    "pages": "1-4",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "shaw2012-explorations-bibliography-zotero",
+          "fields": {
+            "title": "Integrating collaborative bibliography and research",
+            "author": "Shaw, Ryan and Golden, Patrick and Buckland, Michael",
+            "journal": "Proceedings of the American Society for Information Science and Technology",
+            "year": "2012",
+            "volume": "49",
+            "number": "1",
+            "pages": "1--4",
+            "doi": "10.1002/meet.14504901245",
+            "url": "https://doi.org/10.1002/meet.14504901245",
+            "ids": "shaw-golden-buckland2012"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Proceedings of the American Society for Information Science and Technology",
+          "author": [
+            {
+              "given": "Ryan",
+              "family": "Shaw"
+            },
+            {
+              "given": "Patrick",
+              "family": "Golden"
+            },
+            {
+              "given": "Michael",
+              "family": "Buckland"
+            }
+          ],
+          "DOI": "10.1002/meet.14504901245",
+          "type": "article-journal",
+          "id": "shaw2012-explorations-bibliography-zotero",
+          "citation-key": "shaw2012-explorations-bibliography-zotero",
+          "issue": "1",
+          "issued": {
+            "date-parts": [
+              [
+                2012
+              ]
+            ]
+          },
+          "page": "1-4",
+          "title": "Integrating collaborative bibliography and research",
+          "URL": "https://doi.org/10.1002/meet.14504901245",
+          "volume": "49"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "ce8bdd3b-4332-41d7-85c7-1620ed290a24",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5MYC4KG2YEAMVW2V4B.bib",
+      "normalized_target": "./01KPDYAH5MYC4KG2YEAMVW2V4B.bib",
+      "source": "generated",
+      "url": "./01KPDYAH5MYC4KG2YEAMVW2V4B.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "840fbfeb-ae3b-4970-b01c-9160aba44096",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5MYC4KG2YEAMVW2V4B.csl.json",
+      "normalized_target": "./01KPDYAH5MYC4KG2YEAMVW2V4B.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH5MYC4KG2YEAMVW2V4B.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "75168762-92ca-4d91-956d-104a81128de3",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1002/meet.14504901245",
+      "normalized_target": "10.1002/meet.14504901245",
+      "source": "generated",
+      "url": "https://doi.org/10.1002%2Fmeet.14504901245",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "dadbee1f-98c4-45e1-9daa-aedcffd8237c",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://doi.org/10.1002/meet.14504901245",
+      "normalized_target": "https://doi.org/10.1002/meet.14504901245",
+      "source": "generated",
+      "url": "https://doi.org/10.1002/meet.14504901245",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

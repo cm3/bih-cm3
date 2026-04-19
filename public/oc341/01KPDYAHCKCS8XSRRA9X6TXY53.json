@@ -1,0 +1,146 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCKCS8XSRRA9X6TXY53",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1515/krt-2015-290205",
+  "contextual_description": "Open access. Explicitly discusses OC §§341--343.",
+  "record_cache": {
+    "title": "Wittgensteinian Epistemology and Cartesian Skepticism",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Salvatore",
+        "given": "Nicola Claudio",
+        "literal": null
+      }
+    ],
+    "issued_year": 2015,
+    "issued_date": "2015",
+    "container_title": "KRITERION – Journal of Philosophy",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "29",
+    "issue": "2",
+    "pages": "53-80",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Open access. Explicitly discusses OC §§341--343.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "salvatore2015-wittgensteinian-epistemology-cartesian",
+          "fields": {
+            "author": "Salvatore, Nicola Claudio",
+            "title": "Wittgensteinian Epistemology and Cartesian Skepticism",
+            "journal": "KRITERION -- Journal of Philosophy",
+            "year": "2015",
+            "volume": "29",
+            "number": "2",
+            "pages": "53--80",
+            "doi": "10.1515/krt-2015-290205",
+            "url": "https://www.degruyter.com/document/doi/10.1515/krt-2015-290205/pdf",
+            "note": "Open access. Explicitly discusses OC §§341--343.",
+            "ids": "Salvatore2015WittgensteinianEpistemology"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "KRITERION – Journal of Philosophy",
+          "author": [
+            {
+              "given": "Nicola Claudio",
+              "family": "Salvatore"
+            }
+          ],
+          "DOI": "10.1515/krt-2015-290205",
+          "type": "article-journal",
+          "id": "salvatore2015-wittgensteinian-epistemology-cartesian",
+          "citation-key": "salvatore2015-wittgensteinian-epistemology-cartesian",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2015
+              ]
+            ]
+          },
+          "note": "Open access. Explicitly discusses OC §§341–343.",
+          "page": "53-80",
+          "title": "Wittgensteinian Epistemology and Cartesian Skepticism",
+          "URL": "https://www.degruyter.com/document/doi/10.1515/krt-2015-290205/pdf",
+          "volume": "29"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "a3ef8727-b50e-42af-9bc8-6e2b5a1f210c",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCKCS8XSRRA9X6TXY53.bib",
+      "normalized_target": "./01KPDYAHCKCS8XSRRA9X6TXY53.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCKCS8XSRRA9X6TXY53.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "0cf67643-da59-4c1e-8555-3088307a4387",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCKCS8XSRRA9X6TXY53.csl.json",
+      "normalized_target": "./01KPDYAHCKCS8XSRRA9X6TXY53.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCKCS8XSRRA9X6TXY53.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "235ff2be-f532-4bdf-97b2-9028404e1430",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1515/krt-2015-290205",
+      "normalized_target": "10.1515/krt-2015-290205",
+      "source": "generated",
+      "url": "https://doi.org/10.1515%2Fkrt-2015-290205",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "7a81a67a-8a8c-4eb3-9f93-128ff2c53cc1",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://www.degruyter.com/document/doi/10.1515/krt-2015-290205/pdf",
+      "normalized_target": "https://www.degruyter.com/document/doi/10.1515/krt-2015-290205/pdf",
+      "source": "generated",
+      "url": "https://www.degruyter.com/document/doi/10.1515/krt-2015-290205/pdf",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

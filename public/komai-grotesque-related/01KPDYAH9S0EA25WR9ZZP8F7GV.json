@@ -1,0 +1,136 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9S0EA25WR9ZZP8F7GV",
+  "primary_id_property": "bih:hasOCLC",
+  "primary_id_value": "123293449",
+  "contextual_description": "レベッカ・コープランドによる、桐野夏生『グロテスク』の英訳版",
+  "record_cache": {
+    "title": "Grotesque",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Kirino",
+        "given": "Natsuo",
+        "literal": null
+      },
+      {
+        "role": "translator",
+        "family": "Copeland",
+        "given": "Rebecca",
+        "literal": null
+      }
+    ],
+    "issued_year": 2007,
+    "issued_date": "2007",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "Harvill Secker",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "レベッカ・コープランドによる、桐野夏生『グロテスク』の英訳版",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "book",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "kirino2007-grotesque",
+          "fields": {
+            "title": "Grotesque",
+            "publisher": "Harvill Secker",
+            "author": "Kirino, Natsuo",
+            "translator": "Copeland, Rebecca",
+            "year": "2007",
+            "oclc": "123293449",
+            "note": "レベッカ・コープランドによる、桐野夏生『グロテスク』の英訳版",
+            "ids": "kirino_grotesque_2007"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Natsuo",
+              "family": "Kirino"
+            }
+          ],
+          "type": "book",
+          "id": "kirino2007-grotesque",
+          "citation-key": "kirino2007-grotesque",
+          "issued": {
+            "date-parts": [
+              [
+                2007
+              ]
+            ]
+          },
+          "note": "レベッカ・コープランドによる、桐野夏生『グロテスク』の英訳版",
+          "publisher": "Harvill Secker",
+          "title": "Grotesque",
+          "translator": [
+            {
+              "given": "Rebecca",
+              "family": "Copeland"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "f12154be-dec8-4f70-a0c2-da600ab4b00d",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9S0EA25WR9ZZP8F7GV.bib",
+      "normalized_target": "./01KPDYAH9S0EA25WR9ZZP8F7GV.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9S0EA25WR9ZZP8F7GV.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "2a294696-c644-4b67-b1c5-8b706fa30af5",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9S0EA25WR9ZZP8F7GV.csl.json",
+      "normalized_target": "./01KPDYAH9S0EA25WR9ZZP8F7GV.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9S0EA25WR9ZZP8F7GV.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "3359164d-2eb9-4df1-8da3-40622d9f091c",
+      "property": "bih:hasOCLC",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "123293449",
+      "normalized_target": "123293449",
+      "source": "generated",
+      "url": "https://search.worldcat.org/title/123293449",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

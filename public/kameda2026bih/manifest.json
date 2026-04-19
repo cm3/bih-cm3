@@ -1,0 +1,67 @@
+{
+  "$schema": "https://w3id.org/bih/schema/manifest.schema.json",
+  "issuer": "cm3",
+  "collection": "kameda2026bih",
+  "entries": [
+    {
+      "source_citation_key": "corporation-for-digital-scholarship2024-zotero-groups",
+      "ulid": "01KPDYAH4SWQKRDTV56B3ZP06P"
+    },
+    {
+      "source_citation_key": "corporation-for-digital-scholarship2025-creating-bibliographies",
+      "ulid": "01KPDYAH4XK5ZTYF4VRJ7YNCSH"
+    },
+    {
+      "source_citation_key": "corporation-for-digital-scholarshipnd-zotero-web-api",
+      "ulid": "01KPDYAH4ZDSZBG0EFM0VQXRD4"
+    },
+    {
+      "source_citation_key": "doi-foundation2025-doi-handbook",
+      "ulid": "01KPDYAH51FEY3JRDQHWRBC0SS"
+    },
+    {
+      "source_citation_key": "kameda2026-bibliographic-information-hub",
+      "ulid": "01KPDYAH54YP2ND6B5BZ3FW0AH"
+    },
+    {
+      "source_citation_key": "liuzzo2017-eagle-bibliography-data",
+      "ulid": "01KPDYAH566XRR9CCJFY6NPW4H"
+    },
+    {
+      "source_citation_key": "massari2024-fully-automated-bibliographic",
+      "ulid": "01KPDYAH58X9BPJ2MDZX91DSDS"
+    },
+    {
+      "source_citation_key": "morrison2019-networks-bibliographies-collaborative",
+      "ulid": "01KPDYAH5B90JS4A9WKHZK6BYM"
+    },
+    {
+      "source_citation_key": "national-institute-of-informaticsnd-about-cinii-research",
+      "ulid": "01KPDYAH5DFWMQS29TH2C1MQPZ"
+    },
+    {
+      "source_citation_key": "peroni2020-opencitations-infrastructure-organization",
+      "ulid": "01KPDYAH5FCBDKYW394XBY9VX9"
+    },
+    {
+      "source_citation_key": "research-center-for-open-science-and-data-platformnd-jairo-cloud-public",
+      "ulid": "01KPDYAH5J3BGPM4HVZ63HCNSP"
+    },
+    {
+      "source_citation_key": "shaw2012-explorations-bibliography-zotero",
+      "ulid": "01KPDYAH5MYC4KG2YEAMVW2V4B"
+    },
+    {
+      "source_citation_key": "soiland-reyes2022-packaging-research-artefacts",
+      "ulid": "01KPDYAH5PPR883C2XRN35MQWA"
+    },
+    {
+      "source_citation_key": "the-europeana-network-of-ancient-greek-and-latin-epigraphy2016-collaborative-bibliography-zotero",
+      "ulid": "01KPDYAH5SXJ9PKBP58RNNFJP0"
+    },
+    {
+      "source_citation_key": "zaagsma2023-dhjewish-jewish-studies",
+      "ulid": "01KPDYAH5VRYN823Q5TNZ49Q0Y"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHC721NGCSZPSPXSAV4Z",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.5840/symposion20185214",
+  "contextual_description": "Aikin は §341 をウィトゲンシュタイン解釈の中心として精読しているのではなく、Fogelin の “deep disagreement” 論を支えるための hinge の定式化として使っている。つまり、§341 は彼にとって「深い不一致では、そもそも議論が噛み合わなくなる理由」を説明する導入点になっている。\n\nAikin はまず Fogelin に従って、通常の不一致では共有された事実・手続き・権威に訴えられるのに対し、deep disagreement ではその共有基盤が足りないと言っている。その直後に Wittgenstein の §341 を引いて、私たちの問いや疑いは、疑いから免除された命題に依存していると述べている。ここで §341 は、「議論を動かすためには、そもそも動かさない前提がある」という hinge 的な絵を与える役割を担っている。\n\nそのうえで Aikin が強調するのは、その hinge / framework propositions は万人に共有されているわけではないという点。彼は §341 に続けて OC §401 も持ち出し、こうした hinges は「思考や言語運用の基礎」をなすので、それを疑う側は、信じている側から見ると「そもそも意味をなしていない」ように見える、と述べる。ここで OC §341 は、単に「基礎命題がある」という話ではなく、基礎命題の非共有が相互理解の崩壊を生むという議論の入口になっている。\n\nこの点から Aikin は、deep disagreement を 正当化の無限後退問題の特殊形 として組み直します。彼の要約はかなり明快で、\n\n1. framework propositions は、それを信じる人にとってだけ後退を止める\n2. 信じられていなければ後退を止めない\n3. deep disagreement とは非共有の framework propositions をめぐる不一致である\n4. したがって deep disagreement には、共有された「後退停止理由」がない、\n\nという流れ。ここで §341 は、Aikin の議論全体の中では **「後退を止める基礎が、相手には基礎として働かない」**ことを示すための主要テキストになっている。\n\nただし、Aikin の本当に独自な点はそこから先で、彼は問題の核心を、単なる epistemic backing ではなく、dialectical backing に置く。つまり、よい議論であるためには、前提が真であるだけでなく、相手にも理由として承認されるか、少なくとも承認可能でなければならないと考えます。彼はこれを Dialecticality Requirement と呼び、「議論はその聴衆に対して弁証論的に十分でなければならない」と定式化します。 deep disagreement では hinges がまさに共有されていないので、hinge propositions をめぐる議論は dialectically successful になりえない、というのが彼の結論である。\n\nこの意味で、Aikin における §341 は、“議論不能性の診断” の根拠 であって、“解決策” の根拠ではありません。むしろ論文末尾では、深い不一致の問題は hinge propositions の衝突として記述される以上、hinge epistemology そのものの見通しにも懐疑的になる理由があるかもしれない、とまで言っている。なので Aikin は、§341 を用いて hinge epistemology を積極的に擁護しているというより、それを使って deep disagreement の悲観的構造を示していると読んだほうが正確。",
+  "record_cache": {
+    "title": "Dialecticality and Deep Disagreement",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Aikin",
+        "given": "Scott F.",
+        "literal": null
+      }
+    ],
+    "issued_year": 2018,
+    "issued_date": "2018",
+    "container_title": "Symposion: Theoretical and Applied Inquiries in Philosophy and Social Sciences",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "5",
+    "issue": "2",
+    "pages": "173-179",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Open-access PDF available via PhilArchive. Uses OC §341 in discussion of deep disagreement.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "aikin2018-dialecticality-deep-disagreement",
+          "fields": {
+            "author": "Aikin, Scott F.",
+            "title": "Dialecticality and Deep Disagreement",
+            "journal": "Symposion: Theoretical and Applied Inquiries in Philosophy and Social Sciences",
+            "year": "2018",
+            "volume": "5",
+            "number": "2",
+            "pages": "173--179",
+            "doi": "10.5840/symposion20185214",
+            "url": "https://philarchive.org/archive/AIKDAD-2",
+            "note": "Open-access PDF available via PhilArchive. Uses OC §341 in discussion of deep disagreement.",
+            "ids": "Aikin2018Dialecticality"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Symposion: Theoretical and Applied Inquiries in Philosophy and Social Sciences",
+          "author": [
+            {
+              "given": "Scott F.",
+              "family": "Aikin"
+            }
+          ],
+          "DOI": "10.5840/symposion20185214",
+          "type": "article-journal",
+          "id": "aikin2018-dialecticality-deep-disagreement",
+          "citation-key": "aikin2018-dialecticality-deep-disagreement",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2018
+              ]
+            ]
+          },
+          "note": "Open-access PDF available via PhilArchive. Uses OC §341 in discussion of deep disagreement.",
+          "page": "173-179",
+          "title": "Dialecticality and Deep Disagreement",
+          "URL": "https://philarchive.org/archive/AIKDAD-2",
+          "volume": "5"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "d7cbc4c6-d0f6-4d14-99f5-9c4de7ae4e06",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHC721NGCSZPSPXSAV4Z.bib",
+      "normalized_target": "./01KPDYAHC721NGCSZPSPXSAV4Z.bib",
+      "source": "generated",
+      "url": "./01KPDYAHC721NGCSZPSPXSAV4Z.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "f332a859-0122-4e86-a6cf-7f6b5aeca798",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHC721NGCSZPSPXSAV4Z.csl.json",
+      "normalized_target": "./01KPDYAHC721NGCSZPSPXSAV4Z.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHC721NGCSZPSPXSAV4Z.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "b73a7d9a-d524-410c-99c2-1e3c16ddb112",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.5840/symposion20185214",
+      "normalized_target": "10.5840/symposion20185214",
+      "source": "generated",
+      "url": "https://doi.org/10.5840%2Fsymposion20185214",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "80fb3f34-13fa-4716-b200-b193b1f47ef0",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://philarchive.org/archive/AIKDAD-2",
+      "normalized_target": "https://philarchive.org/archive/AIKDAD-2",
+      "source": "generated",
+      "url": "https://philarchive.org/archive/AIKDAD-2",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

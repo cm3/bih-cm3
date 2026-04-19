@@ -1,0 +1,122 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCZ19JEAVVNS25J2KC6",
+  "primary_id_property": "schema:url",
+  "primary_id_value": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf",
+  "contextual_description": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.",
+  "record_cache": {
+    "title": "What is Wittgenstein's View of Knowledge?: An Analysis of the Context Dependency of Knowledge",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Yamada",
+        "given": "Keiichi",
+        "literal": null
+      }
+    ],
+    "issued_year": 2016,
+    "issued_date": "2016",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "document",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "yamada2016-what-is-wittgenstein",
+          "fields": {
+            "author": "Yamada, Keiichi",
+            "title": "What is Wittgenstein's View of Knowledge?: An Analysis of the Context Dependency of Knowledge",
+            "year": "2016",
+            "url": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf",
+            "note": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.",
+            "ids": "Yamada2016WhatIsWittgensteinsView"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Keiichi",
+              "family": "Yamada"
+            }
+          ],
+          "type": "document",
+          "id": "yamada2016-what-is-wittgenstein",
+          "citation-key": "yamada2016-what-is-wittgenstein",
+          "issued": {
+            "date-parts": [
+              [
+                2016
+              ]
+            ]
+          },
+          "note": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.",
+          "title": "What is Wittgenstein's View of Knowledge?: An Analysis of the Context Dependency of Knowledge",
+          "URL": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "a9ded5bd-e092-43b2-8ed5-3b119a657bc4",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCZ19JEAVVNS25J2KC6.bib",
+      "normalized_target": "./01KPDYAHCZ19JEAVVNS25J2KC6.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCZ19JEAVVNS25J2KC6.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "69787418-8276-457f-b15a-c649b9a0bde0",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCZ19JEAVVNS25J2KC6.csl.json",
+      "normalized_target": "./01KPDYAHCZ19JEAVVNS25J2KC6.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCZ19JEAVVNS25J2KC6.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "e738d9a7-db60-44c6-9abd-60666835a338",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf",
+      "normalized_target": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf",
+      "source": "generated",
+      "url": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHC949T3SXJBEVASS0MD",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1017/epi.2021.40",
+  "contextual_description": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.",
+  "record_cache": {
+    "title": "Prejudice in Testimonial Justification: A Hinge Account",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Boncompagni",
+        "given": "Anna",
+        "literal": null
+      }
+    ],
+    "issued_year": 2024,
+    "issued_date": "2024",
+    "container_title": "Episteme",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "21",
+    "issue": "1",
+    "pages": "286-303",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "boncompagni2024-prejudice-testimonial-justification",
+          "fields": {
+            "author": "Boncompagni, Anna",
+            "title": "Prejudice in Testimonial Justification: A Hinge Account",
+            "journal": "Episteme",
+            "year": "2024",
+            "volume": "21",
+            "number": "1",
+            "pages": "286--303",
+            "doi": "10.1017/epi.2021.40",
+            "url": "https://philarchive.org/rec/BONPIT-4",
+            "note": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.",
+            "ids": "Boncompagni2024PrejudiceHinge"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Episteme",
+          "author": [
+            {
+              "given": "Anna",
+              "family": "Boncompagni"
+            }
+          ],
+          "DOI": "10.1017/epi.2021.40",
+          "type": "article-journal",
+          "id": "boncompagni2024-prejudice-testimonial-justification",
+          "citation-key": "boncompagni2024-prejudice-testimonial-justification",
+          "issue": "1",
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "note": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.",
+          "page": "286-303",
+          "title": "Prejudice in Testimonial Justification: A Hinge Account",
+          "URL": "https://philarchive.org/rec/BONPIT-4",
+          "volume": "21"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "90e4adfd-238e-4af0-82e3-46eba5b6d3d2",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHC949T3SXJBEVASS0MD.bib",
+      "normalized_target": "./01KPDYAHC949T3SXJBEVASS0MD.bib",
+      "source": "generated",
+      "url": "./01KPDYAHC949T3SXJBEVASS0MD.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "d60406d8-25ce-470e-8672-4295d2ff7b1e",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHC949T3SXJBEVASS0MD.csl.json",
+      "normalized_target": "./01KPDYAHC949T3SXJBEVASS0MD.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHC949T3SXJBEVASS0MD.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "9fbb29b0-9ff2-468f-9560-31a93d35a562",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1017/epi.2021.40",
+      "normalized_target": "10.1017/epi.2021.40",
+      "source": "generated",
+      "url": "https://doi.org/10.1017%2Fepi.2021.40",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "ef00ff5e-68da-490a-8a11-23d491e79dd3",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://philarchive.org/rec/BONPIT-4",
+      "normalized_target": "https://philarchive.org/rec/BONPIT-4",
+      "source": "generated",
+      "url": "https://philarchive.org/rec/BONPIT-4",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

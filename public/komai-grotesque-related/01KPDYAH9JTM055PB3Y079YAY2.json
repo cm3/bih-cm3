@@ -1,0 +1,102 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9JTM055PB3Y079YAY2",
+  "primary_id_property": "bih:hasBihId",
+  "primary_id_value": "bih:cm3/komai-grotesque-related/01KPDYAH9JTM055PB3Y079YAY2",
+  "contextual_description": "初出。連載期間は [『週刊文春』](https://search.worldcat.org/title/835539974) 2001年2月1日号～2002年9月12日号.",
+  "record_cache": {
+    "title": "グロテスク",
+    "creators": [
+      {
+        "role": "author",
+        "family": "桐野",
+        "given": "夏生",
+        "literal": null
+      }
+    ],
+    "issued_year": null,
+    "issued_date": "nd",
+    "container_title": "週刊文春",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "文藝春秋",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "初出。連載期間は [『週刊文春』](https://search.worldcat.org/title/835539974) 2001年2月1日号～2002年9月12日号.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "itemnd",
+          "fields": {
+            "title": "グロテスク",
+            "journal": "週刊文春",
+            "publisher": "文藝春秋",
+            "author": "桐野, 夏生",
+            "note": "初出。連載期間は [『週刊文春』](https://search.worldcat.org/title/835539974) 2001年2月1日号～2002年9月12日号.",
+            "ids": "__nodate"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "週刊文春",
+          "author": [
+            {
+              "given": "夏生",
+              "family": "桐野"
+            }
+          ],
+          "type": "article-journal",
+          "id": "itemnd",
+          "citation-key": "itemnd",
+          "note": "初出。連載期間は [『週刊文春』](https://search.worldcat.org/title/835539974) 2001年2月1日号～2002年9月12日号.",
+          "publisher": "文藝春秋",
+          "title": "グロテスク"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "75f8bb1b-e6e1-4ff6-8dd2-8a19bc08d246",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9JTM055PB3Y079YAY2.bib",
+      "normalized_target": "./01KPDYAH9JTM055PB3Y079YAY2.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9JTM055PB3Y079YAY2.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "316aade0-4e06-4635-8ada-3a06091ce61c",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9JTM055PB3Y079YAY2.csl.json",
+      "normalized_target": "./01KPDYAH9JTM055PB3Y079YAY2.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9JTM055PB3Y079YAY2.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

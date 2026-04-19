@@ -1,0 +1,63 @@
+{
+  "$schema": "https://w3id.org/bih/schema/manifest.schema.json",
+  "issuer": "cm3",
+  "collection": "komai-grotesque-related",
+  "entries": [
+    {
+      "source_citation_key": "copeland2018-lost-grottos-subversive",
+      "ulid": "01KPDYAH90BG0588C5SS4ET5WM"
+    },
+    {
+      "source_citation_key": "hemmannnd-dangerous-women-dangerous",
+      "ulid": "01KPDYAH92MVA4J3M15Z6H294N"
+    },
+    {
+      "source_citation_key": "item2003",
+      "ulid": "01KPDYAH958P1ZN7VK2V3FEKY7"
+    },
+    {
+      "source_citation_key": "item2003-2",
+      "ulid": "01KPDYAH97WMP9NRYND7E84C3P"
+    },
+    {
+      "source_citation_key": "item2004-vs",
+      "ulid": "01KPDYAH99M42N58P1VESRFWHH"
+    },
+    {
+      "source_citation_key": "item2006",
+      "ulid": "01KPDYAH9BF1XR16AFV170YA3Z"
+    },
+    {
+      "source_citation_key": "item2009",
+      "ulid": "01KPDYAH9ECWS261KCY1VJ1ND5"
+    },
+    {
+      "source_citation_key": "item2010",
+      "ulid": "01KPDYAH9GT58DG7TVGD515F54"
+    },
+    {
+      "source_citation_key": "itemnd",
+      "ulid": "01KPDYAH9JTM055PB3Y079YAY2"
+    },
+    {
+      "source_citation_key": "itemnd-2",
+      "ulid": "01KPDYAH9NZ4WH9MBK8Q8Z0KTZ"
+    },
+    {
+      "source_citation_key": "itemnd-out",
+      "ulid": "01KPDYAH9Q4PZ2DMBPAV72N4ZH"
+    },
+    {
+      "source_citation_key": "kirino2007-grotesque",
+      "ulid": "01KPDYAH9S0EA25WR9ZZP8F7GV"
+    },
+    {
+      "source_citation_key": "qiao2019-women-maze-space",
+      "ulid": "01KPDYAH9VYBRE0JVH0RTH3G84"
+    },
+    {
+      "source_citation_key": "unsriana2012-perbedaan-kelas-sosial",
+      "ulid": "01KPDYAH9YD67GAZS8KGWT4HSD"
+    }
+  ]
+}

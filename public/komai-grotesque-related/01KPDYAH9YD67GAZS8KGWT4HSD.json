@@ -1,0 +1,128 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9YD67GAZS8KGWT4HSD",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.21512/HUMANIORA.V3I2.3359",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "PERBEDAAN KELAS SOSIAL SEBAGAI PENYEBAB IJIME DALAM NOVEL GROTESQUE",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Unsriana",
+        "given": "Linda",
+        "literal": null
+      }
+    ],
+    "issued_year": 2012,
+    "issued_date": "2012",
+    "container_title": "Humaniora",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "3",
+    "issue": "2",
+    "pages": "523-531",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "unsriana2012-perbedaan-kelas-sosial",
+          "fields": {
+            "title": "{PERBEDAAN} {KELAS} {SOSIAL} {SEBAGAI} {PENYEBAB} {IJIME} {DALAM} {NOVEL} {GROTESQUE}",
+            "volume": "3",
+            "number": "2",
+            "journal": "Humaniora",
+            "author": "Unsriana, Linda",
+            "year": "2012",
+            "doi": "10.21512/HUMANIORA.V3I2.3359",
+            "pages": "523--531",
+            "ids": "unsriana_perbedaan_2012"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Humaniora",
+          "author": [
+            {
+              "given": "Linda",
+              "family": "Unsriana"
+            }
+          ],
+          "DOI": "10.21512/HUMANIORA.V3I2.3359",
+          "type": "article-journal",
+          "id": "unsriana2012-perbedaan-kelas-sosial",
+          "citation-key": "unsriana2012-perbedaan-kelas-sosial",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2012
+              ]
+            ]
+          },
+          "page": "523-531",
+          "title": "PERBEDAAN KELAS SOSIAL SEBAGAI PENYEBAB IJIME DALAM NOVEL GROTESQUE",
+          "volume": "3"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "eab45d45-0312-4ed4-a22f-8ec814d6b821",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9YD67GAZS8KGWT4HSD.bib",
+      "normalized_target": "./01KPDYAH9YD67GAZS8KGWT4HSD.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9YD67GAZS8KGWT4HSD.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "e3ecf266-8556-49a6-a402-4258792823b5",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9YD67GAZS8KGWT4HSD.csl.json",
+      "normalized_target": "./01KPDYAH9YD67GAZS8KGWT4HSD.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9YD67GAZS8KGWT4HSD.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "90d36414-5127-4d45-9542-6cb013efafaa",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.21512/HUMANIORA.V3I2.3359",
+      "normalized_target": "10.21512/HUMANIORA.V3I2.3359",
+      "source": "generated",
+      "url": "https://doi.org/10.21512%2FHUMANIORA.V3I2.3359",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

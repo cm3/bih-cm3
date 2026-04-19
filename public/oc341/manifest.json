@@ -1,0 +1,59 @@
+{
+  "$schema": "https://w3id.org/bih/schema/manifest.schema.json",
+  "issuer": "cm3",
+  "collection": "oc341",
+  "entries": [
+    {
+      "source_citation_key": "aikin2018-dialecticality-deep-disagreement",
+      "ulid": "01KPDYAHC721NGCSZPSPXSAV4Z"
+    },
+    {
+      "source_citation_key": "boncompagni2024-prejudice-testimonial-justification",
+      "ulid": "01KPDYAHC949T3SXJBEVASS0MD"
+    },
+    {
+      "source_citation_key": "deininger2024-certainties-bedrock-moral",
+      "ulid": "01KPDYAHCBSHHQZN58SBDSYMPD"
+    },
+    {
+      "source_citation_key": "item2022-205",
+      "ulid": "01KPDYAHCDSVKGFW4FA0A4BFV7"
+    },
+    {
+      "source_citation_key": "kusch2016-wittgenstein-mathematics-certainties",
+      "ulid": "01KPDYAHCF0Z564D1NX9B0GJH8"
+    },
+    {
+      "source_citation_key": "miragoli2025-hinge-epistemology-limits",
+      "ulid": "01KPDYAHCHN02AANFDC8R374Q3"
+    },
+    {
+      "source_citation_key": "salvatore2015-wittgensteinian-epistemology-cartesian",
+      "ulid": "01KPDYAHCKCS8XSRRA9X6TXY53"
+    },
+    {
+      "source_citation_key": "salvatore2016-moore-anists-wittgenstein",
+      "ulid": "01KPDYAHCPJSFBB3MW9TTH83NG"
+    },
+    {
+      "source_citation_key": "tr-achtler2022-doubt-despair-wittgensteinian",
+      "ulid": "01KPDYAHCRGFEE6D2CY9GWYW1X"
+    },
+    {
+      "source_citation_key": "wittgenstein1969-certainty-341",
+      "ulid": "01KPDYAHCT8EQM0EKVGTS8M1ES"
+    },
+    {
+      "source_citation_key": "wittgenstein1969-on-certainty",
+      "ulid": "01KPDYAHCXZ385NHXDSE2H8MTX"
+    },
+    {
+      "source_citation_key": "yamada2016-what-is-wittgenstein",
+      "ulid": "01KPDYAHCZ19JEAVVNS25J2KC6"
+    },
+    {
+      "source_citation_key": "zhang2020-wittgensteinian-approach-reconsidering",
+      "ulid": "01KPDYAHD1AW420NWNTHRPC34R"
+    }
+  ]
+}

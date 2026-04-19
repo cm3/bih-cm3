@@ -1,0 +1,22 @@
+{
+  "author": [
+    {
+      "given": "Pietro Maria",
+      "family": "Liuzzo"
+    }
+  ],
+  "DOI": "10.5281/zenodo.345276",
+  "type": "document",
+  "id": "liuzzo2017-eagle-bibliography-data",
+  "citation-key": "liuzzo2017-eagle-bibliography-data",
+  "issued": {
+    "date-parts": [
+      [
+        2017
+      ]
+    ]
+  },
+  "publisher": "Zenodo",
+  "title": "An EAGLE Bibliography, Data Available in Zotero",
+  "URL": "https://doi.org/10.5281/zenodo.345276"
+}

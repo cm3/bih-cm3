@@ -1,0 +1,26 @@
+{
+  "author": [
+    {
+      "given": "Gerben",
+      "family": "Zaagsma"
+    },
+    {
+      "given": "Rebecca",
+      "family": "Margolis"
+    }
+  ],
+  "DOI": "10.5281/zenodo.7493479",
+  "type": "document",
+  "id": "zaagsma2023-dhjewish-jewish-studies",
+  "citation-key": "zaagsma2023-dhjewish-jewish-studies",
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "publisher": "Zenodo",
+  "title": "DHJewish: Jewish Studies Bibliography 2019–2022",
+  "URL": "https://doi.org/10.5281/zenodo.7493479"
+}

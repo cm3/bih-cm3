@@ -1,0 +1,37 @@
+{
+  "container-title": "Quantitative Science Studies",
+  "author": [
+    {
+      "given": "Arcangelo",
+      "family": "Massari"
+    },
+    {
+      "given": "Diego",
+      "family": "Mariani"
+    },
+    {
+      "given": "Silvio",
+      "family": "Peroni"
+    },
+    {
+      "given": "David",
+      "family": "Shotton"
+    }
+  ],
+  "DOI": "10.1162/qss_a_00292",
+  "type": "article-journal",
+  "id": "massari2024-fully-automated-bibliographic",
+  "citation-key": "massari2024-fully-automated-bibliographic",
+  "issue": "1",
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "page": "50-75",
+  "title": "A Fully Automated Bibliographic Metadata Retrieval and Management System in OpenCitations Meta",
+  "URL": "https://doi.org/10.1162/qss_a_00292",
+  "volume": "5"
+}

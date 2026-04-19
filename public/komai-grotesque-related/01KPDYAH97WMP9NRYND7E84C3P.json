@@ -1,0 +1,139 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH97WMP9NRYND7E84C3P",
+  "primary_id_property": "bih:hasNDLBibID",
+  "primary_id_value": "6620609",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "著者に聞く この世の差別のすべてを書く――桐野夏生",
+    "creators": [
+      {
+        "role": "author",
+        "family": "桐野",
+        "given": "夏生",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "佐々木",
+        "given": "敦",
+        "literal": null
+      }
+    ],
+    "issued_year": 2003,
+    "issued_date": "2003-07",
+    "container_title": "本の話",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "9",
+    "issue": "7",
+    "pages": "3-6",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "item2003-2",
+          "fields": {
+            "title": "著者に聞く この世の差別のすべてを書く――桐野夏生",
+            "volume": "9",
+            "number": "7",
+            "journal": "本の話",
+            "author": "桐野, 夏生 and 佐々木, 敦",
+            "month": "jul",
+            "year": "2003",
+            "pages": "3--6",
+            "ndlbibid": "6620609",
+            "ids": "__2003-1"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "本の話",
+          "author": [
+            {
+              "given": "夏生",
+              "family": "桐野"
+            },
+            {
+              "given": "敦",
+              "family": "佐々木"
+            }
+          ],
+          "type": "article-journal",
+          "id": "item2003-2",
+          "citation-key": "item2003-2",
+          "issue": "7",
+          "issued": {
+            "date-parts": [
+              [
+                2003,
+                7
+              ]
+            ]
+          },
+          "page": "3-6",
+          "title": "著者に聞く この世の差別のすべてを書く――桐野夏生",
+          "volume": "9"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "4c033304-0379-41a4-a547-e08fb4b64126",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH97WMP9NRYND7E84C3P.bib",
+      "normalized_target": "./01KPDYAH97WMP9NRYND7E84C3P.bib",
+      "source": "generated",
+      "url": "./01KPDYAH97WMP9NRYND7E84C3P.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "ad82f264-25c8-43ac-9749-a45754e9611b",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH97WMP9NRYND7E84C3P.csl.json",
+      "normalized_target": "./01KPDYAH97WMP9NRYND7E84C3P.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH97WMP9NRYND7E84C3P.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "0a74ef94-8f18-4be7-96b9-799ed931a1eb",
+      "property": "bih:hasNDLBibID",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "6620609",
+      "normalized_target": "6620609",
+      "source": "hub",
+      "url": "http://id.ndl.go.jp/bib/6620609",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern."
+    }
+  ]
+}

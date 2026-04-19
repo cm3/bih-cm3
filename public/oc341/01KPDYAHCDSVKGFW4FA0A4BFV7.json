@@ -1,0 +1,122 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCDSVKGFW4FA0A4BFV7",
+  "primary_id_property": "schema:url",
+  "primary_id_value": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf",
+  "contextual_description": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.",
+  "record_cache": {
+    "title": "疑い得ないものは真ではないのか？: ウィトゲンシュタイン著『確実性について』の第205節という落とし穴",
+    "creators": [
+      {
+        "role": "author",
+        "family": "橋本",
+        "given": "正吾",
+        "literal": null
+      }
+    ],
+    "issued_year": 2022,
+    "issued_date": "2022",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "document",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "item2022-205",
+          "fields": {
+            "author": "橋本, 正吾",
+            "title": "疑い得ないものは真ではないのか？: ウィトゲンシュタイン著『確実性について』の第205節という落とし穴",
+            "year": "2022",
+            "url": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf",
+            "note": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.",
+            "ids": "Hashimoto2022UtaigatainaiMono"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "正吾",
+              "family": "橋本"
+            }
+          ],
+          "type": "document",
+          "id": "item2022-205",
+          "citation-key": "item2022-205",
+          "issued": {
+            "date-parts": [
+              [
+                2022
+              ]
+            ]
+          },
+          "note": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.",
+          "title": "疑い得ないものは真ではないのか？: ウィトゲンシュタイン著『確実性について』の第205節という落とし穴",
+          "URL": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "588a7e4f-7672-49e0-b53e-2498c5fd6292",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCDSVKGFW4FA0A4BFV7.bib",
+      "normalized_target": "./01KPDYAHCDSVKGFW4FA0A4BFV7.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCDSVKGFW4FA0A4BFV7.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "4f86fd32-5132-48ae-9a4e-59643a5c1b1f",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCDSVKGFW4FA0A4BFV7.csl.json",
+      "normalized_target": "./01KPDYAHCDSVKGFW4FA0A4BFV7.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCDSVKGFW4FA0A4BFV7.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "74701b15-9436-43e2-b7c2-77c93d3c9a3c",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf",
+      "normalized_target": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf",
+      "source": "generated",
+      "url": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

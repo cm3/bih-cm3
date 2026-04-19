@@ -1,0 +1,20 @@
+{
+  "$schema": "https://w3id.org/bih/schema/hub-import.schema.json",
+  "default_viewer_category": "references",
+  "entries": {
+    "kameda2026-bibliographic-information-hub": {
+      "viewer_category": "citing-work"
+    },
+    "morrison2019-networks-bibliographies-collaborative": {
+      "links": [
+        {
+          "link_id": "01KPDYAH6DX01CFP2SRFPRYY2A",
+          "property": "foaf:page",
+          "target_type": "page",
+          "target_value": "https://serials.atla.com/proceedings/article/view/1613",
+          "note": "Inferred from source metadata."
+        }
+      ]
+    }
+  }
+}

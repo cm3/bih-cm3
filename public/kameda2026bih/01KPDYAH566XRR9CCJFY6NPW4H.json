@@ -1,0 +1,138 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH566XRR9CCJFY6NPW4H",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.5281/zenodo.345276",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "An EAGLE Bibliography, Data Available in Zotero",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Liuzzo",
+        "given": "Pietro Maria",
+        "literal": null
+      }
+    ],
+    "issued_year": 2017,
+    "issued_date": "2017",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "Zenodo",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "document",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "liuzzo2017-eagle-bibliography-data",
+          "fields": {
+            "title": "An EAGLE Bibliography, Data Available in Zotero",
+            "author": "Liuzzo, Pietro Maria",
+            "year": "2017",
+            "doi": "10.5281/zenodo.345276",
+            "url": "https://doi.org/10.5281/zenodo.345276",
+            "publisher": "Zenodo",
+            "ids": "liuzzo2017"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Pietro Maria",
+              "family": "Liuzzo"
+            }
+          ],
+          "DOI": "10.5281/zenodo.345276",
+          "type": "document",
+          "id": "liuzzo2017-eagle-bibliography-data",
+          "citation-key": "liuzzo2017-eagle-bibliography-data",
+          "issued": {
+            "date-parts": [
+              [
+                2017
+              ]
+            ]
+          },
+          "publisher": "Zenodo",
+          "title": "An EAGLE Bibliography, Data Available in Zotero",
+          "URL": "https://doi.org/10.5281/zenodo.345276"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "f1804989-99da-48c6-bc70-ef67aae81c59",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH566XRR9CCJFY6NPW4H.bib",
+      "normalized_target": "./01KPDYAH566XRR9CCJFY6NPW4H.bib",
+      "source": "generated",
+      "url": "./01KPDYAH566XRR9CCJFY6NPW4H.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "6578fee0-cfad-4aca-8f46-f1c4dab991b1",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH566XRR9CCJFY6NPW4H.csl.json",
+      "normalized_target": "./01KPDYAH566XRR9CCJFY6NPW4H.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH566XRR9CCJFY6NPW4H.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "9bdeaf16-2b50-4173-b197-f2f88207c91a",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.5281/zenodo.345276",
+      "normalized_target": "10.5281/zenodo.345276",
+      "source": "generated",
+      "url": "https://doi.org/10.5281%2Fzenodo.345276",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "f15400a3-9fb4-493c-9a34-7bf96282b08a",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://doi.org/10.5281/zenodo.345276",
+      "normalized_target": "https://doi.org/10.5281/zenodo.345276",
+      "source": "generated",
+      "url": "https://doi.org/10.5281/zenodo.345276",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCPJSFBB3MW9TTH83NG",
+  "primary_id_property": "schema:url",
+  "primary_id_value": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
+  "contextual_description": "Open access (CC BY). Explicitly discusses OC §§341--343.",
+  "record_cache": {
+    "title": "Moore(anists) and Wittgenstein on Radical Scepticism",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Salvatore",
+        "given": "Nicola Claudio",
+        "literal": null
+      }
+    ],
+    "issued_year": 2016,
+    "issued_date": "2016",
+    "container_title": "Nordic Wittgenstein Review",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "5",
+    "issue": "2",
+    "pages": "153-182",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Open access (CC BY). Explicitly discusses OC §§341--343.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "salvatore2016-moore-anists-wittgenstein",
+          "fields": {
+            "author": "Salvatore, Nicola Claudio",
+            "title": "Moore(anists) and Wittgenstein on Radical Scepticism",
+            "journal": "Nordic Wittgenstein Review",
+            "year": "2016",
+            "volume": "5",
+            "number": "2",
+            "pages": "153--182",
+            "url": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
+            "note": "Open access (CC BY). Explicitly discusses OC §§341--343.",
+            "ids": "Salvatore2016Mooreanists"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Nordic Wittgenstein Review",
+          "author": [
+            {
+              "given": "Nicola Claudio",
+              "family": "Salvatore"
+            }
+          ],
+          "type": "article-journal",
+          "id": "salvatore2016-moore-anists-wittgenstein",
+          "citation-key": "salvatore2016-moore-anists-wittgenstein",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2016
+              ]
+            ]
+          },
+          "note": "Open access (CC BY). Explicitly discusses OC §§341–343.",
+          "page": "153-182",
+          "title": "Moore(anists) and Wittgenstein on Radical Scepticism",
+          "URL": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
+          "volume": "5"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "f61349a0-31e1-417a-96a1-ef8d6f965947",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCPJSFBB3MW9TTH83NG.bib",
+      "normalized_target": "./01KPDYAHCPJSFBB3MW9TTH83NG.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCPJSFBB3MW9TTH83NG.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "4229918a-e8a3-4a8f-9824-8e99f6cc165c",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCPJSFBB3MW9TTH83NG.csl.json",
+      "normalized_target": "./01KPDYAHCPJSFBB3MW9TTH83NG.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCPJSFBB3MW9TTH83NG.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "99cd247c-1768-422c-a6e2-4b4bdd1200fb",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
+      "normalized_target": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
+      "source": "generated",
+      "url": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH5SXJ9PKBP58RNNFJP0",
+  "primary_id_property": "schema:url",
+  "primary_id_value": "https://www.eagle-network.eu/resources/deliverables/",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "A Collaborative Bibliography in Zotero: The EAGLE Biblio",
+    "creators": [
+      {
+        "role": "author",
+        "family": "The Europeana Network of Ancient Greek and Latin Epigraphy",
+        "given": null,
+        "literal": null
+      }
+    ],
+    "issued_year": 2016,
+    "issued_date": "2016",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "EAGLE",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "webpage",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "the-europeana-network-of-ancient-greek-and-latin-epigraphy2016-collaborative-bibliography-zotero",
+          "fields": {
+            "title": "A Collaborative Bibliography in Zotero: The EAGLE Biblio",
+            "author": "{The Europeana Network of Ancient Greek and Latin Epigraphy}",
+            "year": "2016",
+            "url": "https://www.eagle-network.eu/resources/deliverables/",
+            "urldate": "2026-03-19",
+            "organization": "EAGLE",
+            "ids": "eagle-deliverable2016"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "accessed": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                19
+              ]
+            ]
+          },
+          "author": [
+            {
+              "family": "The Europeana Network of Ancient Greek and Latin Epigraphy"
+            }
+          ],
+          "type": "webpage",
+          "id": "the-europeana-network-of-ancient-greek-and-latin-epigraphy2016-collaborative-bibliography-zotero",
+          "citation-key": "the-europeana-network-of-ancient-greek-and-latin-epigraphy2016-collaborative-bibliography-zotero",
+          "issued": {
+            "date-parts": [
+              [
+                2016
+              ]
+            ]
+          },
+          "publisher": "EAGLE",
+          "title": "A Collaborative Bibliography in Zotero: The EAGLE Biblio",
+          "URL": "https://www.eagle-network.eu/resources/deliverables/"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "a96a09eb-f7dc-4800-978f-376f6efc4687",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5SXJ9PKBP58RNNFJP0.bib",
+      "normalized_target": "./01KPDYAH5SXJ9PKBP58RNNFJP0.bib",
+      "source": "generated",
+      "url": "./01KPDYAH5SXJ9PKBP58RNNFJP0.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "99076e2d-c65d-45ef-927e-ac41ad328e46",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5SXJ9PKBP58RNNFJP0.csl.json",
+      "normalized_target": "./01KPDYAH5SXJ9PKBP58RNNFJP0.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH5SXJ9PKBP58RNNFJP0.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "b382239d-7cc4-4e1f-a053-677d433446dd",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://www.eagle-network.eu/resources/deliverables/",
+      "normalized_target": "https://www.eagle-network.eu/resources/deliverables/",
+      "source": "generated",
+      "url": "https://www.eagle-network.eu/resources/deliverables/",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

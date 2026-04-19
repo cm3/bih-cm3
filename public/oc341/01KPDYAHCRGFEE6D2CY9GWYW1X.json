@@ -1,0 +1,142 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCRGFEE6D2CY9GWYW1X",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.15845/nwr.v11.3632",
+  "contextual_description": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.",
+  "record_cache": {
+    "title": "From Doubt to Despair: A Wittgensteinian Perspective on Gaslighting",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Trächtler",
+        "given": "Jasmin",
+        "literal": null
+      }
+    ],
+    "issued_year": 2022,
+    "issued_date": "2022",
+    "container_title": "Nordic Wittgenstein Review",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": null,
+    "issue": null,
+    "pages": "75-102",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "tr-achtler2022-doubt-despair-wittgensteinian",
+          "fields": {
+            "author": "Tr{\\\"a}chtler, Jasmin",
+            "title": "From Doubt to Despair: A Wittgensteinian Perspective on Gaslighting",
+            "journal": "Nordic Wittgenstein Review",
+            "year": "2022",
+            "pages": "75--102",
+            "doi": "10.15845/nwr.v11.3632",
+            "url": "https://www.nordicwittgensteinreview.com/article/download/3632/13/9587",
+            "note": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.",
+            "ids": "Traechtler2022Gaslighting"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Nordic Wittgenstein Review",
+          "author": [
+            {
+              "given": "Jasmin",
+              "family": "Trächtler"
+            }
+          ],
+          "DOI": "10.15845/nwr.v11.3632",
+          "type": "article-journal",
+          "id": "tr-achtler2022-doubt-despair-wittgensteinian",
+          "citation-key": "tr-achtler2022-doubt-despair-wittgensteinian",
+          "issued": {
+            "date-parts": [
+              [
+                2022
+              ]
+            ]
+          },
+          "note": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.",
+          "page": "75-102",
+          "title": "From Doubt to Despair: A Wittgensteinian Perspective on Gaslighting",
+          "URL": "https://www.nordicwittgensteinreview.com/article/download/3632/13/9587"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "b14af898-24ee-4026-aea2-d498517c4cc7",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCRGFEE6D2CY9GWYW1X.bib",
+      "normalized_target": "./01KPDYAHCRGFEE6D2CY9GWYW1X.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCRGFEE6D2CY9GWYW1X.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "d6d445b4-2d5b-4a01-b526-2f2189259647",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCRGFEE6D2CY9GWYW1X.csl.json",
+      "normalized_target": "./01KPDYAHCRGFEE6D2CY9GWYW1X.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCRGFEE6D2CY9GWYW1X.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "2e673b00-7e4a-4b59-a585-16899e5f60c4",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.15845/nwr.v11.3632",
+      "normalized_target": "10.15845/nwr.v11.3632",
+      "source": "generated",
+      "url": "https://doi.org/10.15845%2Fnwr.v11.3632",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "47333724-72f1-4200-81e4-d94d811b731c",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://www.nordicwittgensteinreview.com/article/download/3632/13/9587",
+      "normalized_target": "https://www.nordicwittgensteinreview.com/article/download/3632/13/9587",
+      "source": "generated",
+      "url": "https://www.nordicwittgensteinreview.com/article/download/3632/13/9587",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

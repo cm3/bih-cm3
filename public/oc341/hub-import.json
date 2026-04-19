@@ -1,0 +1,65 @@
+{
+  "$schema": "https://w3id.org/bih/schema/hub-import.schema.json",
+  "default_viewer_category": "references",
+  "entries": {
+    "aikin2018-dialecticality-deep-disagreement": {
+      "contextual_description": "Aikin は §341 をウィトゲンシュタイン解釈の中心として精読しているのではなく、Fogelin の “deep disagreement” 論を支えるための hinge の定式化として使っている。つまり、§341 は彼にとって「深い不一致では、そもそも議論が噛み合わなくなる理由」を説明する導入点になっている。\n\nAikin はまず Fogelin に従って、通常の不一致では共有された事実・手続き・権威に訴えられるのに対し、deep disagreement ではその共有基盤が足りないと言っている。その直後に Wittgenstein の §341 を引いて、私たちの問いや疑いは、疑いから免除された命題に依存していると述べている。ここで §341 は、「議論を動かすためには、そもそも動かさない前提がある」という hinge 的な絵を与える役割を担っている。\n\nそのうえで Aikin が強調するのは、その hinge / framework propositions は万人に共有されているわけではないという点。彼は §341 に続けて OC §401 も持ち出し、こうした hinges は「思考や言語運用の基礎」をなすので、それを疑う側は、信じている側から見ると「そもそも意味をなしていない」ように見える、と述べる。ここで OC §341 は、単に「基礎命題がある」という話ではなく、基礎命題の非共有が相互理解の崩壊を生むという議論の入口になっている。\n\nこの点から Aikin は、deep disagreement を 正当化の無限後退問題の特殊形 として組み直します。彼の要約はかなり明快で、\n\n1. framework propositions は、それを信じる人にとってだけ後退を止める\n2. 信じられていなければ後退を止めない\n3. deep disagreement とは非共有の framework propositions をめぐる不一致である\n4. したがって deep disagreement には、共有された「後退停止理由」がない、\n\nという流れ。ここで §341 は、Aikin の議論全体の中では **「後退を止める基礎が、相手には基礎として働かない」**ことを示すための主要テキストになっている。\n\nただし、Aikin の本当に独自な点はそこから先で、彼は問題の核心を、単なる epistemic backing ではなく、dialectical backing に置く。つまり、よい議論であるためには、前提が真であるだけでなく、相手にも理由として承認されるか、少なくとも承認可能でなければならないと考えます。彼はこれを Dialecticality Requirement と呼び、「議論はその聴衆に対して弁証論的に十分でなければならない」と定式化します。 deep disagreement では hinges がまさに共有されていないので、hinge propositions をめぐる議論は dialectically successful になりえない、というのが彼の結論である。\n\nこの意味で、Aikin における §341 は、“議論不能性の診断” の根拠 であって、“解決策” の根拠ではありません。むしろ論文末尾では、深い不一致の問題は hinge propositions の衝突として記述される以上、hinge epistemology そのものの見通しにも懐疑的になる理由があるかもしれない、とまで言っている。なので Aikin は、§341 を用いて hinge epistemology を積極的に擁護しているというより、それを使って deep disagreement の悲観的構造を示していると読んだほうが正確。"
+    },
+    "boncompagni2024-prejudice-testimonial-justification": {
+      "contextual_description": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341."
+    },
+    "deininger2024-certainties-bedrock-moral": {
+      "contextual_description": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341."
+    },
+    "item2022-205": {
+      "contextual_description": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341."
+    },
+    "kusch2016-wittgenstein-mathematics-certainties": {
+      "contextual_description": "Open-access PDF available via PhilArchive. Discusses OC §341."
+    },
+    "miragoli2025-hinge-epistemology-limits": {
+      "contextual_description": "Open access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology."
+    },
+    "salvatore2015-wittgensteinian-epistemology-cartesian": {
+      "contextual_description": "Open access. Explicitly discusses OC §§341--343."
+    },
+    "salvatore2016-moore-anists-wittgenstein": {
+      "contextual_description": "Open access (CC BY). Explicitly discusses OC §§341--343."
+    },
+    "tr-achtler2022-doubt-despair-wittgensteinian": {
+      "contextual_description": "Open access. Applies OC §341 to gaslighting and epistemic destabilization."
+    },
+    "wittgenstein1969-certainty-341": {
+      "viewer_category": "cited-work",
+      "contextual_description": "Target passage around which this dataset is organized.",
+      "links": [
+        {
+          "link_id": "01KPDYAHD9NGPFXVVJ79QPA0T2",
+          "property": "dcterms:isPartOf",
+          "target_type": "entry",
+          "target_value": "wittgenstein1969-on-certainty",
+          "note": "Manual relation linking the cited section to the whole work."
+        }
+      ]
+    },
+    "wittgenstein1969-on-certainty": {
+      "viewer_category": "cited-work",
+      "contextual_description": "Whole work containing the cited section §341.",
+      "links": [
+        {
+          "link_id": "01KPDYAHD9HD2ST6AWFGNWNJPJ",
+          "property": "bih:hasOCLC",
+          "target_type": "identifier",
+          "target_value": "47957",
+          "note": "Manual OCLC identifier and WorldCat link."
+        }
+      ]
+    },
+    "yamada2016-what-is-wittgenstein": {
+      "contextual_description": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here."
+    },
+    "zhang2020-wittgensteinian-approach-reconsidering": {
+      "contextual_description": "Open access. Refers to OC §§341--343 in a note and uses hinge-style background considerations."
+    }
+  }
+}

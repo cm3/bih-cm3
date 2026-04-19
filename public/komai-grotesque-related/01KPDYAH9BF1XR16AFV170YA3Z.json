@@ -1,0 +1,139 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9BF1XR16AFV170YA3Z",
+  "primary_id_property": "bih:hasNDLBibID",
+  "primary_id_value": "000008287782",
+  "contextual_description": "文庫版",
+  "record_cache": {
+    "title": "グロテスク",
+    "creators": [
+      {
+        "role": "author",
+        "family": "桐野",
+        "given": "夏生",
+        "literal": null
+      }
+    ],
+    "issued_year": 2006,
+    "issued_date": "2006",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "文春文庫",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": "日本語",
+    "abstract": null,
+    "note": "文庫版",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "book",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "item2006",
+          "fields": {
+            "title": "グロテスク",
+            "language": "日本語",
+            "publisher": "文春文庫",
+            "author": "桐野, 夏生",
+            "year": "2006",
+            "ndlbibid": "000008287782, 000008287891",
+            "note": "文庫版",
+            "ids": "__2006"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "夏生",
+              "family": "桐野"
+            }
+          ],
+          "type": "book",
+          "id": "item2006",
+          "citation-key": "item2006",
+          "issued": {
+            "date-parts": [
+              [
+                2006
+              ]
+            ]
+          },
+          "language": "日本語",
+          "note": "文庫版",
+          "publisher": "文春文庫",
+          "title": "グロテスク"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "9328b55c-c3fe-458c-98c2-78976e7d062d",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9BF1XR16AFV170YA3Z.bib",
+      "normalized_target": "./01KPDYAH9BF1XR16AFV170YA3Z.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9BF1XR16AFV170YA3Z.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "8668839a-16f9-4f78-a9f4-873b07394725",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9BF1XR16AFV170YA3Z.csl.json",
+      "normalized_target": "./01KPDYAH9BF1XR16AFV170YA3Z.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9BF1XR16AFV170YA3Z.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "c8d46620-956a-43e7-9dcc-c5a9c1382ca6",
+      "property": "bih:hasNDLBibID",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "000008287782",
+      "normalized_target": "000008287782",
+      "source": "hub",
+      "url": "http://id.ndl.go.jp/bib/000008287782",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern."
+    },
+    {
+      "link_id": "01KPDYAHADZ5PN03W922C1DB21",
+      "property": "bih:hasNDLBibID",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "000008287891",
+      "normalized_target": "000008287891",
+      "source": "hub",
+      "url": "http://id.ndl.go.jp/bib/000008287891",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual NDLBibID and inferred NDL bib link based on the id.ndl.go.jp/bib/{NDLBibID} pattern. This entry currently aggregates upper and lower bunko volumes."
+    }
+  ]
+}

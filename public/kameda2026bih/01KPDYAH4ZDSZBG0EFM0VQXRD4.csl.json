@@ -1,0 +1,22 @@
+{
+  "accessed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        19
+      ]
+    ]
+  },
+  "author": [
+    {
+      "family": "Corporation for Digital Scholarship"
+    }
+  ],
+  "type": "webpage",
+  "id": "corporation-for-digital-scholarshipnd-zotero-web-api",
+  "citation-key": "corporation-for-digital-scholarshipnd-zotero-web-api",
+  "publisher": "Zotero",
+  "title": "Zotero Web API v3 Basics",
+  "URL": "https://www.zotero.org/support/dev/web_api/v3/basics"
+}

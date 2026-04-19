@@ -1,3 +1,37 @@
 {
-  "collections": []
+  "collections": [
+    {
+      "collection": "kameda2026bih",
+      "info_url": "./kameda2026bih/info.json",
+      "title": "References of BIH paper",
+      "description": "[亀田 尭宙; 駒居 幸:「 Bibliographic Information Hub: 分散した書誌情報を接続し発見・活用を支える軽量基盤の提案」](\nbih:cm3/kameda2026bih/01KPDYAH54YP2ND6B5BZ3FW0AH)の参考文献",
+      "manifest_url": "./kameda2026bih/manifest.json",
+      "collection_bib_url": "./kameda2026bih/all.bib",
+      "notes_url": null,
+      "index_url": "./kameda2026bih/index.json",
+      "item_base_url": "./kameda2026bih/"
+    },
+    {
+      "collection": "komai-grotesque-related",
+      "info_url": "./komai-grotesque-related/info.json",
+      "title": "桐野夏生『グロテスク』関連文献",
+      "description": "桐野夏生の『グロテスク』についての対談や評論、研究を集めたリスト",
+      "manifest_url": "./komai-grotesque-related/manifest.json",
+      "collection_bib_url": "./komai-grotesque-related/all.bib",
+      "notes_url": null,
+      "index_url": "./komai-grotesque-related/index.json",
+      "item_base_url": "./komai-grotesque-related/"
+    },
+    {
+      "collection": "oc341",
+      "info_url": "./oc341/info.json",
+      "title": "ウィトゲンシュタイン『確実性について』§ 341 について語っている文献",
+      "description": "Dataset `oc341` generated from BibTeX source.",
+      "manifest_url": "./oc341/manifest.json",
+      "collection_bib_url": "./oc341/all.bib",
+      "notes_url": null,
+      "index_url": "./oc341/index.json",
+      "item_base_url": "./oc341/"
+    }
+  ]
 }

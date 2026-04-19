@@ -1,0 +1,26 @@
+{
+  "container-title": "Episteme",
+  "author": [
+    {
+      "given": "Anna",
+      "family": "Boncompagni"
+    }
+  ],
+  "DOI": "10.1017/epi.2021.40",
+  "type": "article-journal",
+  "id": "boncompagni2024-prejudice-testimonial-justification",
+  "citation-key": "boncompagni2024-prejudice-testimonial-justification",
+  "issue": "1",
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "note": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.",
+  "page": "286-303",
+  "title": "Prejudice in Testimonial Justification: A Hinge Account",
+  "URL": "https://philarchive.org/rec/BONPIT-4",
+  "volume": "21"
+}

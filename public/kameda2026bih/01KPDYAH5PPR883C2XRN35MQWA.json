@@ -1,0 +1,293 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH5PPR883C2XRN35MQWA",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.3233/DS-210053",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "Packaging research artefacts with RO-Crate",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Soiland-Reyes",
+        "given": "Stian",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Sefton",
+        "given": "Peter",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Crosas",
+        "given": "Mercè",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Castro",
+        "given": "Leyla Jael",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Coppens",
+        "given": "Frederik",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Fernández",
+        "given": "José M.",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Garijo",
+        "given": "Daniel",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Grüning",
+        "given": "Björn",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "La Rosa",
+        "given": "Marco",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Leo",
+        "given": "Simone",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Ó Carragáin",
+        "given": "Eoghan",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Portier",
+        "given": "Marc",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Trisovic",
+        "given": "Ana",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "RO-Crate Community",
+        "given": null,
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Groth",
+        "given": "Paul",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Goble",
+        "given": "Carole",
+        "literal": null
+      }
+    ],
+    "issued_year": 2022,
+    "issued_date": "2022",
+    "container_title": "Data Science",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "5",
+    "issue": "2",
+    "pages": "97-138",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "soiland-reyes2022-packaging-research-artefacts",
+          "fields": {
+            "title": "Packaging research artefacts with RO-Crate",
+            "author": "Soiland-Reyes, Stian and Sefton, Peter and Crosas, Merc{\\`e} and Castro, Leyla Jael and Coppens, Frederik and Fern{\\'a}ndez, Jos{\\'e} M. and Garijo, Daniel and Gr{\\\"u}ning, Bj{\\\"o}rn and La Rosa, Marco and Leo, Simone and {\\'O} Carrag{\\'a}in, Eoghan and Portier, Marc and Trisovic, Ana and {RO-Crate Community} and Groth, Paul and Goble, Carole",
+            "journal": "Data Science",
+            "year": "2022",
+            "volume": "5",
+            "number": "2",
+            "pages": "97--138",
+            "doi": "10.3233/DS-210053",
+            "url": "https://doi.org/10.3233/DS-210053",
+            "ids": "soiland-reyes-etal2022"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Data Science",
+          "author": [
+            {
+              "given": "Stian",
+              "family": "Soiland-Reyes"
+            },
+            {
+              "given": "Peter",
+              "family": "Sefton"
+            },
+            {
+              "given": "Mercè",
+              "family": "Crosas"
+            },
+            {
+              "given": "Leyla Jael",
+              "family": "Castro"
+            },
+            {
+              "given": "Frederik",
+              "family": "Coppens"
+            },
+            {
+              "given": "José M.",
+              "family": "Fernández"
+            },
+            {
+              "given": "Daniel",
+              "family": "Garijo"
+            },
+            {
+              "given": "Björn",
+              "family": "Grüning"
+            },
+            {
+              "given": "Marco",
+              "family": "La Rosa"
+            },
+            {
+              "given": "Simone",
+              "family": "Leo"
+            },
+            {
+              "given": "Eoghan",
+              "family": "Ó Carragáin"
+            },
+            {
+              "given": "Marc",
+              "family": "Portier"
+            },
+            {
+              "given": "Ana",
+              "family": "Trisovic"
+            },
+            {
+              "family": "RO-Crate Community"
+            },
+            {
+              "given": "Paul",
+              "family": "Groth"
+            },
+            {
+              "given": "Carole",
+              "family": "Goble"
+            }
+          ],
+          "DOI": "10.3233/DS-210053",
+          "type": "article-journal",
+          "id": "soiland-reyes2022-packaging-research-artefacts",
+          "citation-key": "soiland-reyes2022-packaging-research-artefacts",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2022
+              ]
+            ]
+          },
+          "page": "97-138",
+          "title": "Packaging research artefacts with RO-Crate",
+          "URL": "https://doi.org/10.3233/DS-210053",
+          "volume": "5"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "fc479e72-ecaf-4ace-8323-5b4c1c19d1d1",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5PPR883C2XRN35MQWA.bib",
+      "normalized_target": "./01KPDYAH5PPR883C2XRN35MQWA.bib",
+      "source": "generated",
+      "url": "./01KPDYAH5PPR883C2XRN35MQWA.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "050def97-20b6-4d3a-b7ee-1ff56e1c3559",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5PPR883C2XRN35MQWA.csl.json",
+      "normalized_target": "./01KPDYAH5PPR883C2XRN35MQWA.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH5PPR883C2XRN35MQWA.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "500de1f0-c45d-4437-a001-151d3f3ff8d2",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.3233/DS-210053",
+      "normalized_target": "10.3233/DS-210053",
+      "source": "generated",
+      "url": "https://doi.org/10.3233%2FDS-210053",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "4688874f-4060-4119-9ce9-515eaaa6039c",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://doi.org/10.3233/DS-210053",
+      "normalized_target": "https://doi.org/10.3233/DS-210053",
+      "source": "generated",
+      "url": "https://doi.org/10.3233/DS-210053",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

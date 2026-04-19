@@ -1,0 +1,22 @@
+{
+  "issuer": "cm3",
+  "title": "References of BIH paper",
+  "description": "[亀田 尭宙; 駒居 幸:「 Bibliographic Information Hub: 分散した書誌情報を接続し発見・活用を支える軽量基盤の提案」](\nbih:cm3/kameda2026bih/01KPDYAH54YP2ND6B5BZ3FW0AH)の参考文献",
+  "metadata_source_label": "BibTeX file uploaded by the issuer",
+  "manifest_url": "./manifest.json",
+  "notes_url": null,
+  "item_base_url": "./",
+  "index_url": "./index.json",
+  "viewer_categories": [
+    {
+      "id": "references",
+      "visible_by_default": true
+    },
+    {
+      "id": "citing-work",
+      "visible_by_default": false
+    }
+  ],
+  "collection": "kameda2026bih",
+  "collection_bib_url": "./all.bib"
+}

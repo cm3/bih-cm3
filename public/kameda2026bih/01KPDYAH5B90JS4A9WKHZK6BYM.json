@@ -1,0 +1,154 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/kameda2026bih/01KPDYAH5B90JS4A9WKHZK6BYM",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.31046/proceedings.2019.1613",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "Explorations in Bibliography: Zotero Goes Public",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Morrison",
+        "given": "Greg",
+        "literal": null
+      }
+    ],
+    "issued_year": 2020,
+    "issued_date": "2020",
+    "container_title": "Atla Summary of Proceedings",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": null,
+    "issue": null,
+    "pages": "218-221",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "morrison2019-networks-bibliographies-collaborative",
+          "fields": {
+            "title": "Explorations in Bibliography: Zotero Goes Public",
+            "author": "Morrison, Greg",
+            "journal": "Atla Summary of Proceedings",
+            "year": "2020",
+            "pages": "218--221",
+            "doi": "10.31046/proceedings.2019.1613",
+            "url": "https://serials.atla.com/proceedings/article/view/1613",
+            "ids": "morrison2019"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Atla Summary of Proceedings",
+          "author": [
+            {
+              "given": "Greg",
+              "family": "Morrison"
+            }
+          ],
+          "DOI": "10.31046/proceedings.2019.1613",
+          "type": "article-journal",
+          "id": "morrison2019-networks-bibliographies-collaborative",
+          "citation-key": "morrison2019-networks-bibliographies-collaborative",
+          "issued": {
+            "date-parts": [
+              [
+                2020
+              ]
+            ]
+          },
+          "page": "218-221",
+          "title": "Explorations in Bibliography: Zotero Goes Public",
+          "URL": "https://serials.atla.com/proceedings/article/view/1613"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "ef2d2e3b-9418-45ab-9c03-7287e74d88ed",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5B90JS4A9WKHZK6BYM.bib",
+      "normalized_target": "./01KPDYAH5B90JS4A9WKHZK6BYM.bib",
+      "source": "generated",
+      "url": "./01KPDYAH5B90JS4A9WKHZK6BYM.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "5fef92d6-6fc7-43a1-b767-46bef748cf7e",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH5B90JS4A9WKHZK6BYM.csl.json",
+      "normalized_target": "./01KPDYAH5B90JS4A9WKHZK6BYM.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH5B90JS4A9WKHZK6BYM.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "3f026f53-3dd7-4361-af60-63c06389c09e",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.31046/proceedings.2019.1613",
+      "normalized_target": "10.31046/proceedings.2019.1613",
+      "source": "generated",
+      "url": "https://doi.org/10.31046%2Fproceedings.2019.1613",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "59d8160f-da56-43db-8221-e62f55f41ad7",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://serials.atla.com/proceedings/article/view/1613",
+      "normalized_target": "https://serials.atla.com/proceedings/article/view/1613",
+      "source": "generated",
+      "url": "https://serials.atla.com/proceedings/article/view/1613",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "01KPDYAH6DX01CFP2SRFPRYY2A",
+      "property": "foaf:page",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://serials.atla.com/proceedings/article/view/1613",
+      "normalized_target": "https://serials.atla.com/proceedings/article/view/1613",
+      "source": "hub",
+      "url": "https://serials.atla.com/proceedings/article/view/1613",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Inferred from source metadata."
+    }
+  ]
+}

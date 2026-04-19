@@ -1,0 +1,123 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCXZ385NHXDSE2H8MTX",
+  "primary_id_property": "bih:hasOCLC",
+  "primary_id_value": "47957",
+  "contextual_description": "Whole work containing the cited section §341.",
+  "record_cache": {
+    "title": "On Certainty",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Wittgenstein",
+        "given": "Ludwig",
+        "literal": null
+      }
+    ],
+    "issued_year": 1969,
+    "issued_date": "1969",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "Basil Blackwell",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Whole work containing the cited section §341.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "book",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "wittgenstein1969-on-certainty",
+          "fields": {
+            "author": "Wittgenstein, Ludwig",
+            "title": "On Certainty",
+            "year": "1969",
+            "publisher": "Basil Blackwell",
+            "oclc": "47957",
+            "note": "Whole work containing the cited section §341.",
+            "ids": "Wittgenstein1969OnCertainty"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Ludwig",
+              "family": "Wittgenstein"
+            }
+          ],
+          "type": "book",
+          "id": "wittgenstein1969-on-certainty",
+          "citation-key": "wittgenstein1969-on-certainty",
+          "issued": {
+            "date-parts": [
+              [
+                1969
+              ]
+            ]
+          },
+          "note": "Whole work containing the cited section §341.",
+          "publisher": "Basil Blackwell",
+          "title": "On Certainty"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "5ddc556a-0648-4dea-9341-8ec8abe263f2",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCXZ385NHXDSE2H8MTX.bib",
+      "normalized_target": "./01KPDYAHCXZ385NHXDSE2H8MTX.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCXZ385NHXDSE2H8MTX.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "92fe24c6-5338-48e9-b0d9-823224c02d25",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCXZ385NHXDSE2H8MTX.csl.json",
+      "normalized_target": "./01KPDYAHCXZ385NHXDSE2H8MTX.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCXZ385NHXDSE2H8MTX.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "99a5ef5e-2e27-4b48-8f6e-9e4a3c09779b",
+      "property": "bih:hasOCLC",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "47957",
+      "normalized_target": "47957",
+      "source": "hub",
+      "url": "https://search.worldcat.org/title/47957",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual OCLC identifier and WorldCat link."
+    }
+  ]
+}

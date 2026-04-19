@@ -1,0 +1,33 @@
+{
+  "container-title": "Proceedings of the American Society for Information Science and Technology",
+  "author": [
+    {
+      "given": "Ryan",
+      "family": "Shaw"
+    },
+    {
+      "given": "Patrick",
+      "family": "Golden"
+    },
+    {
+      "given": "Michael",
+      "family": "Buckland"
+    }
+  ],
+  "DOI": "10.1002/meet.14504901245",
+  "type": "article-journal",
+  "id": "shaw2012-explorations-bibliography-zotero",
+  "citation-key": "shaw2012-explorations-bibliography-zotero",
+  "issue": "1",
+  "issued": {
+    "date-parts": [
+      [
+        2012
+      ]
+    ]
+  },
+  "page": "1-4",
+  "title": "Integrating collaborative bibliography and research",
+  "URL": "https://doi.org/10.1002/meet.14504901245",
+  "volume": "49"
+}

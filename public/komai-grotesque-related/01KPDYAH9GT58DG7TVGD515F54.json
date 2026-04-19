@@ -1,0 +1,121 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9GT58DG7TVGD515F54",
+  "primary_id_property": "bih:hasNDLBibID",
+  "primary_id_value": "000011018876",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "女ぎらい――ニッポンのミソジニ―",
+    "creators": [
+      {
+        "role": "author",
+        "family": "上野",
+        "given": "千鶴子",
+        "literal": null
+      }
+    ],
+    "issued_year": 2010,
+    "issued_date": "2010",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "紀伊國屋書店",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "book",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "item2010",
+          "fields": {
+            "title": "女ぎらい――ニッポンのミソジニ―",
+            "publisher": "紀伊國屋書店",
+            "author": "上野, 千鶴子",
+            "year": "2010",
+            "ndlbibid": "000011018876",
+            "ids": "__2010"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "千鶴子",
+              "family": "上野"
+            }
+          ],
+          "type": "book",
+          "id": "item2010",
+          "citation-key": "item2010",
+          "issued": {
+            "date-parts": [
+              [
+                2010
+              ]
+            ]
+          },
+          "publisher": "紀伊國屋書店",
+          "title": "女ぎらい――ニッポンのミソジニ―"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "5e5ad2ba-447f-4121-9ad3-63c5e9760ef1",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9GT58DG7TVGD515F54.bib",
+      "normalized_target": "./01KPDYAH9GT58DG7TVGD515F54.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9GT58DG7TVGD515F54.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "91a9baf8-f208-4e43-b408-da9ec77eafbf",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9GT58DG7TVGD515F54.csl.json",
+      "normalized_target": "./01KPDYAH9GT58DG7TVGD515F54.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9GT58DG7TVGD515F54.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "04d46c07-2a96-436f-92bb-295b06302f9b",
+      "property": "bih:hasNDLBibID",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "000011018876",
+      "normalized_target": "000011018876",
+      "source": "hub",
+      "url": "http://id.ndl.go.jp/bib/000011018876",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual NDLBibID and NDL bib link."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES",
+  "primary_id_property": "bih:hasBihId",
+  "primary_id_value": "bih:cm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES",
+  "contextual_description": "Target passage around which this dataset is organized.",
+  "record_cache": {
+    "title": "On Certainty, §341",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Wittgenstein",
+        "given": "Ludwig",
+        "literal": null
+      }
+    ],
+    "issued_year": 1969,
+    "issued_date": "1969",
+    "container_title": "On Certainty",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": "Basil Blackwell",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Target passage around which this dataset is organized.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "chapter",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "wittgenstein1969-certainty-341",
+          "fields": {
+            "author": "Wittgenstein, Ludwig",
+            "title": "On Certainty, §341",
+            "booktitle": "On Certainty",
+            "year": "1969",
+            "publisher": "Basil Blackwell",
+            "note": "Target passage around which this dataset is organized.",
+            "ids": "Wittgenstein1969OnCertainty341, wittgenstein1969-on-certainty-341"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Ludwig",
+              "family": "Wittgenstein"
+            }
+          ],
+          "container-title": "On Certainty",
+          "type": "chapter",
+          "id": "wittgenstein1969-certainty-341",
+          "citation-key": "wittgenstein1969-certainty-341",
+          "issued": {
+            "date-parts": [
+              [
+                1969
+              ]
+            ]
+          },
+          "note": "Target passage around which this dataset is organized.",
+          "publisher": "Basil Blackwell",
+          "title": "On Certainty, §341"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "f3dc0df0-60b3-4c39-985b-a77ee17f81b2",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCT8EQM0EKVGTS8M1ES.bib",
+      "normalized_target": "./01KPDYAHCT8EQM0EKVGTS8M1ES.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCT8EQM0EKVGTS8M1ES.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "b41b56ae-4a8a-49a8-9411-87daac0b09f9",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCT8EQM0EKVGTS8M1ES.csl.json",
+      "normalized_target": "./01KPDYAHCT8EQM0EKVGTS8M1ES.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCT8EQM0EKVGTS8M1ES.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "01KPDYAHD9NGPFXVVJ79QPA0T2",
+      "property": "dcterms:isPartOf",
+      "label": null,
+      "description": null,
+      "target_type": "entry",
+      "target_value": "bih:cm3/oc341/01KPDYAHCXZ385NHXDSE2H8MTX",
+      "normalized_target": "bih:cm3/oc341/01KPDYAHCXZ385NHXDSE2H8MTX",
+      "source": "hub",
+      "url": null,
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual relation linking the cited section to the whole work."
+    }
+  ]
+}

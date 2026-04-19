@@ -1,0 +1,464 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Document rdf:about="https://www.zotero.org/support/groups">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Zotero</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corporation for Digital Scholarship</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Zotero Groups</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/support/groups</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.zotero.org/support/creating_bibliographies">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Zotero</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corporation for Digital Scholarship</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Creating Bibliographies</dc:title>
+        <dc:date>2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.zotero.org/support/creating_bibliographies</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.zotero.org/support/dev/web_api/v3/basics">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Zotero</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corporation for Digital Scholarship</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Zotero Web API v3 Basics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.zotero.org/support/dev/web_api/v3/basics</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.doi.org/hb.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>DOI Foundation</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>DOI Foundation</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>DOI Handbook</dc:title>
+        <dc:date>2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.doi.org/hb.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://doi.org/10.1162/qss_a_00292">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Quantitative Science Studies</dc:title>
+                <dc:identifier>DOI 10.1162/qss_a_00292</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Massari</foaf:surname>
+                        <foaf:givenName>Arcangelo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mariani</foaf:surname>
+                        <foaf:givenName>Diego</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peroni</foaf:surname>
+                        <foaf:givenName>Silvio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shotton</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Fully Automated Bibliographic Metadata Retrieval and Management System in OpenCitations Meta</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1162/qss_a_00292</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>50–75</bib:pages>
+    </bib:Article>
+    <bib:Document rdf:about="https://serials.atla.com/proceedings/article/view/2906">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Atla Summary of Proceedings</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morrison</foaf:surname>
+                        <foaf:givenName>Gregory L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Networks and Bibliographies: Collaborative Zotero in the Library</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://serials.atla.com/proceedings/article/view/2906</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://support.nii.ac.jp/en/cir/manual_outline">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>National Institute of Informatics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>National Institute of Informatics</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>About CiNii Research</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://support.nii.ac.jp/en/cir/manual_outline</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://doi.org/10.1162/qss_a_00023">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Quantitative Science Studies</dc:title>
+                <dc:identifier>DOI 10.1162/qss_a_00023</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peroni</foaf:surname>
+                        <foaf:givenName>Silvio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shotton</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>OpenCitations, an infrastructure organization for open scholarship</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1162/qss_a_00023</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>428–444</bib:pages>
+    </bib:Article>
+    <bib:Document rdf:about="https://rcos.nii.ac.jp/en/service/weko3/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>National Institute of Informatics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Research Center for Open Science and Data Platform</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>JAIRO Cloud (Public Infrastructure)</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://rcos.nii.ac.jp/en/service/weko3/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+    <rdf:Description rdf:about="https://doi.org/10.1002/meet.14504901245">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>49</prism:volume>
+                <dc:title>Proceedings of the American Society for Information Science and Technology</dc:title>
+                <dc:identifier>DOI 10.1002/meet.14504901245</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shaw</foaf:surname>
+                        <foaf:givenName>Ryan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Golden</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buckland</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Explorations in Bibliography: Zotero Goes Public</dc:title>
+        <dc:date>2012</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1002/meet.14504901245</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1–4</bib:pages>
+    </rdf:Description>
+    <bib:Article rdf:about="https://doi.org/10.3233/DS-210053">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Data Science</dc:title>
+                <dc:identifier>DOI 10.3233/DS-210053</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soiland-Reyes</foaf:surname>
+                        <foaf:givenName>Stian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sefton</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crosas</foaf:surname>
+                        <foaf:givenName>Mercè</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Castro</foaf:surname>
+                        <foaf:givenName>Leyla Jael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coppens</foaf:surname>
+                        <foaf:givenName>Frederik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández</foaf:surname>
+                        <foaf:givenName>José M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garijo</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grüning</foaf:surname>
+                        <foaf:givenName>Björn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>La Rosa</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leo</foaf:surname>
+                        <foaf:givenName>Simone</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ó Carragáin</foaf:surname>
+                        <foaf:givenName>Eoghan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Portier</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trisovic</foaf:surname>
+                        <foaf:givenName>Ana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>RO-Crate Community</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Groth</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goble</foaf:surname>
+                        <foaf:givenName>Carole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Packaging research artefacts with RO-Crate</dc:title>
+        <dc:date>2022</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.3233/DS-210053</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>97–138</bib:pages>
+    </bib:Article>
+    <bib:Document rdf:about="https://www.eagle-network.eu/resources/deliverables/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>EAGLE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>The Europeana Network of Ancient Greek and Latin Epigraphy</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Collaborative Bibliography in Zotero: The EAGLE Biblio</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.eagle-network.eu/resources/deliverables/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-03-19</dcterms:dateSubmitted>
+    </bib:Document>
+</rdf:RDF>

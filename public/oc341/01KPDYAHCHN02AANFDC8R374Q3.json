@@ -1,0 +1,144 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCHN02AANFDC8R374Q3",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1017/can.2025.10023",
+  "contextual_description": "Open access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.",
+  "record_cache": {
+    "title": "Hinge Epistemology? Limits and Prospects of a Prominent Formulation of Framework Views",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Miragoli",
+        "given": "Martin",
+        "literal": null
+      }
+    ],
+    "issued_year": 2025,
+    "issued_date": "2025",
+    "container_title": "Canadian Journal of Philosophy",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "54",
+    "issue": null,
+    "pages": "606-622",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Open access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "miragoli2025-hinge-epistemology-limits",
+          "fields": {
+            "author": "Miragoli, Martin",
+            "title": "Hinge Epistemology? Limits and Prospects of a Prominent Formulation of Framework Views",
+            "journal": "Canadian Journal of Philosophy",
+            "year": "2025",
+            "volume": "54",
+            "pages": "606--622",
+            "doi": "10.1017/can.2025.10023",
+            "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf",
+            "note": "Open access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.",
+            "ids": "Miragoli2025HingeEpistemology"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Canadian Journal of Philosophy",
+          "author": [
+            {
+              "given": "Martin",
+              "family": "Miragoli"
+            }
+          ],
+          "DOI": "10.1017/can.2025.10023",
+          "type": "article-journal",
+          "id": "miragoli2025-hinge-epistemology-limits",
+          "citation-key": "miragoli2025-hinge-epistemology-limits",
+          "issued": {
+            "date-parts": [
+              [
+                2025
+              ]
+            ]
+          },
+          "note": "Open access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.",
+          "page": "606-622",
+          "title": "Hinge Epistemology? Limits and Prospects of a Prominent Formulation of Framework Views",
+          "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf",
+          "volume": "54"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "9327664e-f85b-4ab0-a254-868473723969",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCHN02AANFDC8R374Q3.bib",
+      "normalized_target": "./01KPDYAHCHN02AANFDC8R374Q3.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCHN02AANFDC8R374Q3.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "ea3b6539-71ef-478f-847e-2377196a2765",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCHN02AANFDC8R374Q3.csl.json",
+      "normalized_target": "./01KPDYAHCHN02AANFDC8R374Q3.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCHN02AANFDC8R374Q3.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "65985e9a-d3da-467e-b569-f46e915f277b",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1017/can.2025.10023",
+      "normalized_target": "10.1017/can.2025.10023",
+      "source": "generated",
+      "url": "https://doi.org/10.1017%2Fcan.2025.10023",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "4b415f31-c67e-4fcb-828c-269a5fff7024",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf",
+      "normalized_target": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf",
+      "source": "generated",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

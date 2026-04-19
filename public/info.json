@@ -1,8 +1,8 @@
 {
   "$schema": "https://w3id.org/bih/schema/issuer-info.schema.json",
-  "issuer": "example",
-  "title": "Example BIH collections",
-  "description": "Edit `public/info.json` and `public/index.json` to configure this issuer.",
+  "issuer": "cm3",
+  "title": "Akihiro KAMEDA の文献リスト置き場",
+  "description": "Experimental BIH collections published from [Akihiro KAMEDA](https://researchmap.jp/cm3).",
   "homepage_url": null,
   "repository_url": null,
   "w3id_issuer_url": null,

@@ -1,0 +1,146 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCF0Z564D1NX9B0GJH8",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1163/22105700-00603004",
+  "contextual_description": "Open-access PDF available via PhilArchive. Discusses OC §341.",
+  "record_cache": {
+    "title": "Wittgenstein on Mathematics and Certainties",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Kusch",
+        "given": "Martin",
+        "literal": null
+      }
+    ],
+    "issued_year": 2016,
+    "issued_date": "2016",
+    "container_title": "International Journal for the Study of Skepticism",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "6",
+    "issue": "2-3",
+    "pages": "120-142",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Open-access PDF available via PhilArchive. Discusses OC §341.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "kusch2016-wittgenstein-mathematics-certainties",
+          "fields": {
+            "author": "Kusch, Martin",
+            "title": "Wittgenstein on Mathematics and Certainties",
+            "journal": "International Journal for the Study of Skepticism",
+            "year": "2016",
+            "volume": "6",
+            "number": "2-3",
+            "pages": "120--142",
+            "doi": "10.1163/22105700-00603004",
+            "url": "https://philarchive.org/archive/KUSWOM",
+            "note": "Open-access PDF available via PhilArchive. Discusses OC §341.",
+            "ids": "Kusch2016MathematicsCertainties"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "International Journal for the Study of Skepticism",
+          "author": [
+            {
+              "given": "Martin",
+              "family": "Kusch"
+            }
+          ],
+          "DOI": "10.1163/22105700-00603004",
+          "type": "article-journal",
+          "id": "kusch2016-wittgenstein-mathematics-certainties",
+          "citation-key": "kusch2016-wittgenstein-mathematics-certainties",
+          "issue": "2-3",
+          "issued": {
+            "date-parts": [
+              [
+                2016
+              ]
+            ]
+          },
+          "note": "Open-access PDF available via PhilArchive. Discusses OC §341.",
+          "page": "120-142",
+          "title": "Wittgenstein on Mathematics and Certainties",
+          "URL": "https://philarchive.org/archive/KUSWOM",
+          "volume": "6"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "3332e5cc-187b-4969-b6e9-4681766ce8a8",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCF0Z564D1NX9B0GJH8.bib",
+      "normalized_target": "./01KPDYAHCF0Z564D1NX9B0GJH8.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCF0Z564D1NX9B0GJH8.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "f0ec86db-a395-4a59-87da-41350e3a9ee2",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCF0Z564D1NX9B0GJH8.csl.json",
+      "normalized_target": "./01KPDYAHCF0Z564D1NX9B0GJH8.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCF0Z564D1NX9B0GJH8.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "4e9e646b-1530-4baa-bc1a-0358126d8b21",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1163/22105700-00603004",
+      "normalized_target": "10.1163/22105700-00603004",
+      "source": "generated",
+      "url": "https://doi.org/10.1163%2F22105700-00603004",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "935c213b-d68f-4343-aba7-2f8196c5af0c",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://philarchive.org/archive/KUSWOM",
+      "normalized_target": "https://philarchive.org/archive/KUSWOM",
+      "source": "generated",
+      "url": "https://philarchive.org/archive/KUSWOM",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

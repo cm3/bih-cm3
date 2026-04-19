@@ -1,0 +1,27 @@
+{
+  "container-title": "Analytic Philosophy",
+  "author": [
+    {
+      "given": "Konstantin",
+      "family": "Deininger"
+    },
+    {
+      "given": "Herwig",
+      "family": "Grimm"
+    }
+  ],
+  "DOI": "10.1111/phib.12357",
+  "type": "article-journal",
+  "id": "deininger2024-certainties-bedrock-moral",
+  "citation-key": "deininger2024-certainties-bedrock-moral",
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "note": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.",
+  "title": "Certainties and the Bedrock of Moral Reasoning: Three Ways the Spade Turns",
+  "URL": "https://phaidra.vetmeduni.ac.at/api/object/o:4517/get"
+}

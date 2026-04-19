@@ -1,0 +1,21 @@
+{
+  "author": [
+    {
+      "given": "Ludwig",
+      "family": "Wittgenstein"
+    }
+  ],
+  "type": "book",
+  "id": "wittgenstein1969-on-certainty",
+  "citation-key": "wittgenstein1969-on-certainty",
+  "issued": {
+    "date-parts": [
+      [
+        1969
+      ]
+    ]
+  },
+  "note": "Whole work containing the cited section §341.",
+  "publisher": "Basil Blackwell",
+  "title": "On Certainty"
+}

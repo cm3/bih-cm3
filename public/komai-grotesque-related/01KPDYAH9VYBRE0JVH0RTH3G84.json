@@ -1,0 +1,125 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/komai-grotesque-related/01KPDYAH9VYBRE0JVH0RTH3G84",
+  "primary_id_property": "bih:hasNDLBibID",
+  "primary_id_value": "030178193",
+  "contextual_description": null,
+  "record_cache": {
+    "title": "Women in the Maze - Space and Gender in Kirino Natsuo´s Writings",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Qiao",
+        "given": "Mina",
+        "literal": null
+      }
+    ],
+    "issued_year": 2019,
+    "issued_date": "2019",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": "Münchner Schriftenreihe Japanforschung",
+    "publisher": "Bochum",
+    "volume": "5",
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": null,
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "book",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "qiao2019-women-maze-space",
+          "fields": {
+            "series": "Münchner {Schriftenreihe} {Japanforschung}",
+            "title": "Women in the {Maze} - {Space} and {Gender} in {Kirino} {Natsuo}´s {Writings}",
+            "volume": "5",
+            "publisher": "Bochum and Freiburg: projekt verlag",
+            "author": "Qiao, Mina",
+            "year": "2019",
+            "ndlbibid": "030178193",
+            "ids": "qiao_women_2019"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Mina",
+              "family": "Qiao"
+            }
+          ],
+          "collection-title": "Münchner Schriftenreihe Japanforschung",
+          "type": "book",
+          "id": "qiao2019-women-maze-space",
+          "citation-key": "qiao2019-women-maze-space",
+          "issued": {
+            "date-parts": [
+              [
+                2019
+              ]
+            ]
+          },
+          "publisher": "Bochum",
+          "title": "Women in the Maze - Space and Gender in Kirino Natsuo´s Writings",
+          "volume": "5"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "2a015f51-2775-4f4b-a918-6442541fc717",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9VYBRE0JVH0RTH3G84.bib",
+      "normalized_target": "./01KPDYAH9VYBRE0JVH0RTH3G84.bib",
+      "source": "generated",
+      "url": "./01KPDYAH9VYBRE0JVH0RTH3G84.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "c4ea1d5d-6fb1-456a-b7bc-a2ce8cd95a01",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAH9VYBRE0JVH0RTH3G84.csl.json",
+      "normalized_target": "./01KPDYAH9VYBRE0JVH0RTH3G84.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAH9VYBRE0JVH0RTH3G84.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "fc5c7c1d-befc-43a1-a13d-c14b1c5026c4",
+      "property": "bih:hasNDLBibID",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "030178193",
+      "normalized_target": "030178193",
+      "source": "hub",
+      "url": "http://id.ndl.go.jp/bib/030178193",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": "Manual NDLBibID and NDL bib link."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KPDYAHCBSHHQZN58SBDSYMPD",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1111/phib.12357",
+  "contextual_description": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.",
+  "record_cache": {
+    "title": "Certainties and the Bedrock of Moral Reasoning: Three Ways the Spade Turns",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Deininger",
+        "given": "Konstantin",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Grimm",
+        "given": "Herwig",
+        "literal": null
+      }
+    ],
+    "issued_year": 2024,
+    "issued_date": "2024",
+    "container_title": "Analytic Philosophy",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "deininger2024-certainties-bedrock-moral",
+          "fields": {
+            "author": "Deininger, Konstantin and Grimm, Herwig",
+            "title": "Certainties and the Bedrock of Moral Reasoning: Three Ways the Spade Turns",
+            "journal": "Analytic Philosophy",
+            "year": "2024",
+            "doi": "10.1111/phib.12357",
+            "url": "https://phaidra.vetmeduni.ac.at/api/object/o:4517/get",
+            "note": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.",
+            "ids": "DeiningerGrimm2024Bedrock"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Analytic Philosophy",
+          "author": [
+            {
+              "given": "Konstantin",
+              "family": "Deininger"
+            },
+            {
+              "given": "Herwig",
+              "family": "Grimm"
+            }
+          ],
+          "DOI": "10.1111/phib.12357",
+          "type": "article-journal",
+          "id": "deininger2024-certainties-bedrock-moral",
+          "citation-key": "deininger2024-certainties-bedrock-moral",
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "note": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.",
+          "title": "Certainties and the Bedrock of Moral Reasoning: Three Ways the Spade Turns",
+          "URL": "https://phaidra.vetmeduni.ac.at/api/object/o:4517/get"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "78ccba64-28db-42ef-9de6-008cfd58261e",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCBSHHQZN58SBDSYMPD.bib",
+      "normalized_target": "./01KPDYAHCBSHHQZN58SBDSYMPD.bib",
+      "source": "generated",
+      "url": "./01KPDYAHCBSHHQZN58SBDSYMPD.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "c04b7b6e-2e32-4ba0-aa7a-0338197bafc6",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KPDYAHCBSHHQZN58SBDSYMPD.csl.json",
+      "normalized_target": "./01KPDYAHCBSHHQZN58SBDSYMPD.csl.json",
+      "source": "generated",
+      "url": "./01KPDYAHCBSHHQZN58SBDSYMPD.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "a4e9d443-9794-4365-8f47-52f0808fe574",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1111/phib.12357",
+      "normalized_target": "10.1111/phib.12357",
+      "source": "generated",
+      "url": "https://doi.org/10.1111%2Fphib.12357",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "ff7219b7-30c6-448f-b7d2-980810d78d3b",
+      "property": "schema:url",
+      "label": null,
+      "description": null,
+      "target_type": "page",
+      "target_value": "https://phaidra.vetmeduni.ac.at/api/object/o:4517/get",
+      "normalized_target": "https://phaidra.vetmeduni.ac.at/api/object/o:4517/get",
+      "source": "generated",
+      "url": "https://phaidra.vetmeduni.ac.at/api/object/o:4517/get",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

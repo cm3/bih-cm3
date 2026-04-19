@@ -1,0 +1,304 @@
+[
+  {
+    "container-title": "Japanese Language and Literature",
+    "author": [
+      {
+        "given": "Rebecca",
+        "family": "Copeland"
+      }
+    ],
+    "type": "article-journal",
+    "id": "copeland2018-lost-grottos-subversive",
+    "citation-key": "copeland2018-lost-grottos-subversive",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "page": "145-160",
+    "title": "Lost in the Grottos: The Subversive Allure of Kirino Natsuo’s Murder Mysteries",
+    "URL": "https://www.jstor.org/stable/26739446",
+    "volume": "52"
+  },
+  {
+    "author": [
+      {
+        "given": "Kathryn",
+        "family": "Hemmann"
+      }
+    ],
+    "container-title": "Rethinking Modern Japanese Feminisms",
+    "DOI": "10.1515/9780824866730-012",
+    "type": "chapter",
+    "id": "hemmannnd-dangerous-women-dangerous",
+    "citation-key": "hemmannnd-dangerous-women-dangerous",
+    "note": "書籍の編者はJulia C. Bullock, Ayako Kano, James Welker",
+    "page": "170-184",
+    "publisher": "University of Hawai‘i Press",
+    "title": "Dangerous Women and Dangerous Stories: Gendered Narration in Kirino Natsuo’s Grotesque and Real World"
+  },
+  {
+    "author": [
+      {
+        "given": "夏生",
+        "family": "桐野"
+      }
+    ],
+    "type": "book",
+    "id": "item2003",
+    "citation-key": "item2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "note": "単行本版",
+    "publisher": "文藝春秋",
+    "title": "グロテスク"
+  },
+  {
+    "container-title": "本の話",
+    "author": [
+      {
+        "given": "夏生",
+        "family": "桐野"
+      },
+      {
+        "given": "敦",
+        "family": "佐々木"
+      }
+    ],
+    "type": "article-journal",
+    "id": "item2003-2",
+    "citation-key": "item2003-2",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          7
+        ]
+      ]
+    },
+    "page": "3-6",
+    "title": "著者に聞く この世の差別のすべてを書く――桐野夏生",
+    "volume": "9"
+  },
+  {
+    "container-title": "文藝",
+    "author": [
+      {
+        "given": "夏生",
+        "family": "桐野"
+      },
+      {
+        "given": "和重",
+        "family": "阿部"
+      }
+    ],
+    "type": "article-journal",
+    "id": "item2004-vs",
+    "citation-key": "item2004-vs",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "26-43",
+    "title": "無情で酷薄で邪悪で…『グロテスク』vs『シンセミア』",
+    "volume": "43"
+  },
+  {
+    "author": [
+      {
+        "given": "夏生",
+        "family": "桐野"
+      }
+    ],
+    "type": "book",
+    "id": "item2006",
+    "citation-key": "item2006",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "language": "日本語",
+    "note": "文庫版",
+    "publisher": "文春文庫",
+    "title": "グロテスク"
+  },
+  {
+    "container-title": "日本近代文学",
+    "author": [
+      {
+        "given": "和加子",
+        "family": "種田"
+      }
+    ],
+    "type": "article-journal",
+    "id": "item2009",
+    "citation-key": "item2009",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          11
+        ]
+      ]
+    },
+    "page": "239-255",
+    "title": "剥奪の構図――桐野夏生作品から考察する――",
+    "volume": "81"
+  },
+  {
+    "author": [
+      {
+        "given": "千鶴子",
+        "family": "上野"
+      }
+    ],
+    "type": "book",
+    "id": "item2010",
+    "citation-key": "item2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "紀伊國屋書店",
+    "title": "女ぎらい――ニッポンのミソジニ―"
+  },
+  {
+    "container-title": "週刊文春",
+    "author": [
+      {
+        "given": "夏生",
+        "family": "桐野"
+      }
+    ],
+    "type": "article-journal",
+    "id": "itemnd",
+    "citation-key": "itemnd",
+    "note": "初出。連載期間は [『週刊文春』](https://search.worldcat.org/title/835539974) 2001年2月1日号～2002年9月12日号.",
+    "publisher": "文藝春秋",
+    "title": "グロテスク"
+  },
+  {
+    "author": [
+      {
+        "given": "美奈子",
+        "family": "斎藤"
+      }
+    ],
+    "container-title": "グロテスク（下）",
+    "type": "chapter",
+    "id": "itemnd-2",
+    "citation-key": "itemnd-2",
+    "note": "『グロテスク』（下）（文春文庫、2006）に「解説」として収録されているもの。",
+    "page": "447-453",
+    "publisher": "文春文庫",
+    "title": "解説"
+  },
+  {
+    "container-title": "思想",
+    "author": [
+      {
+        "given": "聡",
+        "family": "白井"
+      }
+    ],
+    "type": "article-journal",
+    "id": "itemnd-out",
+    "citation-key": "itemnd-out",
+    "issue": "1159",
+    "page": "8-28",
+    "title": "桐野夏生とその時代――『OUT』『グロテスク』『メタボラ』について"
+  },
+  {
+    "author": [
+      {
+        "given": "Natsuo",
+        "family": "Kirino"
+      }
+    ],
+    "type": "book",
+    "id": "kirino2007-grotesque",
+    "citation-key": "kirino2007-grotesque",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "note": "レベッカ・コープランドによる、桐野夏生『グロテスク』の英訳版",
+    "publisher": "Harvill Secker",
+    "title": "Grotesque",
+    "translator": [
+      {
+        "given": "Rebecca",
+        "family": "Copeland"
+      }
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Mina",
+        "family": "Qiao"
+      }
+    ],
+    "collection-title": "Münchner Schriftenreihe Japanforschung",
+    "type": "book",
+    "id": "qiao2019-women-maze-space",
+    "citation-key": "qiao2019-women-maze-space",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Bochum",
+    "title": "Women in the Maze - Space and Gender in Kirino Natsuo´s Writings",
+    "volume": "5"
+  },
+  {
+    "container-title": "Humaniora",
+    "author": [
+      {
+        "given": "Linda",
+        "family": "Unsriana"
+      }
+    ],
+    "DOI": "10.21512/HUMANIORA.V3I2.3359",
+    "type": "article-journal",
+    "id": "unsriana2012-perbedaan-kelas-sosial",
+    "citation-key": "unsriana2012-perbedaan-kelas-sosial",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "523-531",
+    "title": "PERBEDAAN KELAS SOSIAL SEBAGAI PENYEBAB IJIME DALAM NOVEL GROTESQUE",
+    "volume": "3"
+  }
+]
