@@ -56,6 +56,38 @@
           "note": "The collection is organized around §341 as a locator in On Certainty."
         },
         {
+          "link_id": "01KPDYAHOC341MION2019",
+          "property": "bih:discusses",
+          "label": "Mion 2019",
+          "target_type": "entry",
+          "target_value": "mion2019-on-certainty-wittgenstein-einstein",
+          "note": "Representative entry for postulates and norms of description."
+        },
+        {
+          "link_id": "01KPDYAHOC341PERISSINOTTO2015",
+          "property": "bih:discusses",
+          "label": "Perissinotto 2015",
+          "target_type": "entry",
+          "target_value": "perissinotto2015-how-long-earth-existed",
+          "note": "Representative entry for world-picture and persuasion."
+        },
+        {
+          "link_id": "01KPDYAHOC341MOLLEMA2024",
+          "property": "bih:discusses",
+          "label": "Mollema 2024",
+          "target_type": "entry",
+          "target_value": "mollema2024-on-certainty-left-wittgensteinianism",
+          "note": "Representative entry for conceptual change."
+        },
+        {
+          "link_id": "01KPDYAHOC341MOYALPRITCHARD2024",
+          "property": "bih:discusses",
+          "label": "Moyal-Sharrock and Pritchard 2024",
+          "target_type": "entry",
+          "target_value": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+          "note": "Representative entry for contemporary hinge epistemology."
+        },
+        {
           "link_id": "01KPDYAHOC341BIBTEX",
           "property": "citationSource",
           "label": "Collection BibTeX",

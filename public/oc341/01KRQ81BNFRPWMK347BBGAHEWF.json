@@ -93,7 +93,7 @@
   },
   "links": [
     {
-      "link_id": "b68162a4-f9fb-4f52-bad1-8c07fe39d5d6",
+      "link_id": "dbc5c16b-a7a8-4b35-b88b-f0bd712cf8c2",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -107,7 +107,7 @@
       "note": null
     },
     {
-      "link_id": "c77660b0-3af3-4a93-8bc5-5a251c485123",
+      "link_id": "bcaa1536-3e16-4860-8074-901bbaf53ae9",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -121,7 +121,7 @@
       "note": null
     },
     {
-      "link_id": "1762f106-be1d-475d-8cca-3cc2d3ef1e29",
+      "link_id": "d281fcea-dabf-4798-a001-6710e36bae7c",
       "property": "bih:hasDOI",
       "label": null,
       "description": null,

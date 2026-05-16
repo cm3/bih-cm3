@@ -56,6 +56,38 @@
           "note": "The collection is organized around §341 as a locator in On Certainty."
         },
         {
+          "link_id": "01KPDYAHOC341MION2019",
+          "property": "bih:discusses",
+          "target_type": "entry",
+          "target_value": "bih:cm3/oc341/01KRQ81BNFYN2WWZBPY0A362DM",
+          "label": "Mion 2019",
+          "note": "Representative entry for postulates and norms of description."
+        },
+        {
+          "link_id": "01KPDYAHOC341PERISSINOTTO2015",
+          "property": "bih:discusses",
+          "target_type": "entry",
+          "target_value": "bih:cm3/oc341/01KRQ81BNFV31HZNFX7DNWN0RD",
+          "label": "Perissinotto 2015",
+          "note": "Representative entry for world-picture and persuasion."
+        },
+        {
+          "link_id": "01KPDYAHOC341MOLLEMA2024",
+          "property": "bih:discusses",
+          "target_type": "entry",
+          "target_value": "bih:cm3/oc341/01KRQ81BNFTC6Z7ZZSFAR31FJV",
+          "label": "Mollema 2024",
+          "note": "Representative entry for conceptual change."
+        },
+        {
+          "link_id": "01KPDYAHOC341MOYALPRITCHARD2024",
+          "property": "bih:discusses",
+          "target_type": "entry",
+          "target_value": "bih:cm3/oc341/01KRQ81BNFRPWMK347BBGAHEWF",
+          "label": "Moyal-Sharrock and Pritchard 2024",
+          "note": "Representative entry for contemporary hinge epistemology."
+        },
+        {
           "link_id": "01KPDYAHOC341BIBTEX",
           "property": "citationSource",
           "target_type": "distribution",

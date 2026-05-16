@@ -87,7 +87,7 @@
   },
   "links": [
     {
-      "link_id": "f8e8db2e-b511-45e2-a034-ff17f6774659",
+      "link_id": "834617b9-8e8c-47bb-9257-c9271bdb24e8",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -101,7 +101,7 @@
       "note": null
     },
     {
-      "link_id": "78628455-b0d9-4614-966b-bf3674fc57b8",
+      "link_id": "325f966f-aa42-418b-b905-b5d2df6cf769",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -115,7 +115,7 @@
       "note": null
     },
     {
-      "link_id": "f34fab49-dec9-44f7-81ac-0981e91ae2ed",
+      "link_id": "aaee95f0-1228-476a-8aba-8076057777aa",
       "property": "bih:hasDOI",
       "label": null,
       "description": null,
@@ -129,7 +129,7 @@
       "note": null
     },
     {
-      "link_id": "53e98624-01be-4811-a50d-60d2f8b3899d",
+      "link_id": "873b67e5-9eed-47eb-ae11-fb35b3af3c48",
       "property": "schema:url",
       "label": null,
       "description": null,

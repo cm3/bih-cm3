@@ -60,7 +60,7 @@ export class BihApp extends LitElement {
   private readonly issuerRootUrl = import.meta.env.DEV
     ? new URL('/', window.location.href)
     : new URL(/* @vite-ignore */ '../', import.meta.url);
-  @state() private currentMode: 'editor' | 'viewer' = import.meta.env.DEV ? 'editor' : 'viewer';
+  @state() private currentMode: 'editor' | 'viewer' = 'viewer';
 
   private get isEditorMode(): boolean {
     return this.currentMode === 'editor';
@@ -369,8 +369,18 @@ export class BihApp extends LitElement {
     return new Map(this.indexItems.map((item) => [item.hub_id, item]));
   }
 
+  private get itemByUlid(): Map<string, EntryIndexItem> {
+    return new Map(this.indexItems.map((item) => [item.ulid, item]));
+  }
+
   private resolveLinkedEntry(target: string): EntryIndexItem | null {
-    return this.itemByHubId.get(target) ?? null;
+    const direct = this.itemByHubId.get(target) ?? this.itemByUlid.get(target) ?? null;
+    if (direct) {
+      return direct;
+    }
+
+    const targetUlid = target.split('/').at(-1)?.replace(/\.html$/, '') ?? '';
+    return targetUlid ? this.itemByUlid.get(targetUlid) ?? null : null;
   }
 
   private renderLinkAction(link: LinkItem) {
@@ -470,7 +480,7 @@ export class BihApp extends LitElement {
       return new URL(target, window.location.href).toString();
     }
 
-    const targetUlid = this.ulidByHubId.get(target);
+    const targetUlid = this.resolveLinkedEntry(target)?.ulid ?? null;
     return targetUlid ? this.buildEntryUrl(targetUlid) : null;
   }
 
