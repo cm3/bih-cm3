@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHD1AW420NWNTHRPC34R",
   "primary_id_property": "schema:url",
   "primary_id_value": "https://philosophy-japan.org/wpdata/wp-content/uploads/2020/06/Zhang-Ligeng-2020.pdf",
-  "contextual_description": "Open access. Refers to OC §§341--343 in a note and uses hinge-style background considerations.",
+  "contextual_description": "Open access. Refers to OC §§341--343 in a note and uses hinge-style background considerations.\n\nTags: oc341; oc342; oc343; oc341-343; nishida;",
   "record_cache": {
     "title": "A Wittgensteinian Approach to Reconsidering Nishida's Basho of True Nothing",
     "creators": [
@@ -83,7 +83,7 @@
   },
   "links": [
     {
-      "link_id": "fe40ab10-f542-4c77-93f1-0f5796374ce7",
+      "link_id": "695a3162-0705-4e22-ae96-8e8c277175ac",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -97,7 +97,7 @@
       "note": null
     },
     {
-      "link_id": "384fbd9e-bfbd-4fda-af26-ade445ce0356",
+      "link_id": "da11e3f2-e3da-4824-98bf-faac1ea07960",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -111,7 +111,7 @@
       "note": null
     },
     {
-      "link_id": "d26d65c6-a2d5-4518-a3e4-5bad680a1540",
+      "link_id": "efd5e113-c0ab-4d33-82ba-e703a103988a",
       "property": "schema:url",
       "label": null,
       "description": null,

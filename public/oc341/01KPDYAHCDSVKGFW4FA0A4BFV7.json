@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHCDSVKGFW4FA0A4BFV7",
   "primary_id_property": "schema:url",
   "primary_id_value": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf",
-  "contextual_description": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.",
+  "contextual_description": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.\n\nTags: oc341; hinge;",
   "record_cache": {
     "title": "疑い得ないものは真ではないのか？: ウィトゲンシュタイン著『確実性について』の第205節という落とし穴",
     "creators": [
@@ -77,7 +77,7 @@
   },
   "links": [
     {
-      "link_id": "588a7e4f-7672-49e0-b53e-2498c5fd6292",
+      "link_id": "d1a00819-4aa2-4030-a282-6701bb204975",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -91,7 +91,7 @@
       "note": null
     },
     {
-      "link_id": "4f86fd32-5132-48ae-9a4e-59643a5c1b1f",
+      "link_id": "142f95c6-2a57-4345-9817-64f594ac13b8",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -105,7 +105,7 @@
       "note": null
     },
     {
-      "link_id": "74701b15-9436-43e2-b7c2-77c93d3c9a3c",
+      "link_id": "4da81109-63c0-4234-8745-97ac73a76b3f",
       "property": "schema:url",
       "label": null,
       "description": null,

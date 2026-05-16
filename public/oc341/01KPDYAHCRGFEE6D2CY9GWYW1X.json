@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHCRGFEE6D2CY9GWYW1X",
   "primary_id_property": "bih:hasDOI",
   "primary_id_value": "10.15845/nwr.v11.3632",
-  "contextual_description": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.",
+  "contextual_description": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.\n\nTags: oc341; gaslighting; epistemic-destabilization;",
   "record_cache": {
     "title": "From Doubt to Despair: A Wittgensteinian Perspective on Gaslighting",
     "creators": [
@@ -83,7 +83,7 @@
   },
   "links": [
     {
-      "link_id": "b14af898-24ee-4026-aea2-d498517c4cc7",
+      "link_id": "5e6b1a05-60df-4c70-9da8-ca8f37899c6f",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -97,7 +97,7 @@
       "note": null
     },
     {
-      "link_id": "d6d445b4-2d5b-4a01-b526-2f2189259647",
+      "link_id": "fcab4996-f8ba-4305-ae84-6a688d9468d9",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -111,7 +111,7 @@
       "note": null
     },
     {
-      "link_id": "2e673b00-7e4a-4b59-a585-16899e5f60c4",
+      "link_id": "8bab6f05-6dfb-4434-8142-00230f5ba953",
       "property": "bih:hasDOI",
       "label": null,
       "description": null,
@@ -125,7 +125,7 @@
       "note": null
     },
     {
-      "link_id": "47333724-72f1-4200-81e4-d94d811b731c",
+      "link_id": "9dd3cb16-9e34-4e07-9345-96d911268a3d",
       "property": "schema:url",
       "label": null,
       "description": null,

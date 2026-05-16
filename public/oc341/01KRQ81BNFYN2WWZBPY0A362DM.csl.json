@@ -1,0 +1,25 @@
+{
+  "container-title": "Philosophical Investigations",
+  "author": [
+    {
+      "given": "Giovanni",
+      "family": "Mion"
+    }
+  ],
+  "DOI": "10.1111/phin.12232",
+  "type": "article-journal",
+  "id": "mion2019-on-certainty-wittgenstein-einstein",
+  "citation-key": "mion2019-on-certainty-wittgenstein-einstein",
+  "issue": "2",
+  "issued": {
+    "date-parts": [
+      [
+        2019
+      ]
+    ]
+  },
+  "note": "Connects Wittgenstein's response to scepticism in On Certainty with Einstein's response to the ether.",
+  "page": "163-170",
+  "title": "On Certainty: Wittgenstein and Einstein",
+  "volume": "42"
+}

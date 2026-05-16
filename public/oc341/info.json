@@ -5,6 +5,10 @@
   "description": "Dataset `oc341` generated from BibTeX source.",
   "viewer_categories": [
     {
+      "id": "self",
+      "visible_by_default": true
+    },
+    {
       "id": "references",
       "visible_by_default": true
     },

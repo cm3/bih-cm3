@@ -1,22 +1,21 @@
 {
   "author": [
     {
-      "given": "Ludwig",
-      "family": "Wittgenstein"
+      "given": "Akihiro",
+      "family": "Kameda"
     }
   ],
-  "container-title": "On Certainty",
-  "type": "chapter",
+  "type": "document",
   "id": "wittgenstein1969-certainty-341",
   "citation-key": "wittgenstein1969-certainty-341",
   "issued": {
     "date-parts": [
       [
-        1969
+        2026
       ]
     ]
   },
-  "note": "Target passage around which this dataset is organized.",
-  "publisher": "Basil Blackwell",
-  "title": "On Certainty, §341"
+  "note": "Collection overview for literature discussing On Certainty §341. The passage itself is represented as a locator on Wittgenstein's On Certainty, not as a bibliographic work.",
+  "publisher": "Akihiro Kameda",
+  "title": "OC §341 survey: literature on Wittgenstein's On Certainty §341"
 }

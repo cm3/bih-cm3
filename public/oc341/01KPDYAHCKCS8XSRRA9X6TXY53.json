@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHCKCS8XSRRA9X6TXY53",
   "primary_id_property": "bih:hasDOI",
   "primary_id_value": "10.1515/krt-2015-290205",
-  "contextual_description": "Open access. Explicitly discusses OC §§341--343.",
+  "contextual_description": "Open access. Explicitly discusses OC §§341--343.\n\nTags: oc341; oc342; oc343; oc341-343; radical-skepticism; moore;",
   "record_cache": {
     "title": "Wittgensteinian Epistemology and Cartesian Skepticism",
     "creators": [
@@ -87,7 +87,7 @@
   },
   "links": [
     {
-      "link_id": "a3ef8727-b50e-42af-9bc8-6e2b5a1f210c",
+      "link_id": "4b5d3e13-f95b-40e8-a623-286570a1f2d2",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -101,7 +101,7 @@
       "note": null
     },
     {
-      "link_id": "0cf67643-da59-4c1e-8555-3088307a4387",
+      "link_id": "d39491c1-1b7f-409d-927c-713bc315570e",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -115,7 +115,7 @@
       "note": null
     },
     {
-      "link_id": "235ff2be-f532-4bdf-97b2-9028404e1430",
+      "link_id": "19ea55fd-a913-4972-bbe5-c4581157ec21",
       "property": "bih:hasDOI",
       "label": null,
       "description": null,
@@ -129,7 +129,7 @@
       "note": null
     },
     {
-      "link_id": "7a81a67a-8a8c-4eb3-9f93-128ff2c53cc1",
+      "link_id": "b8127a94-3858-4345-8de5-bc01837c31fb",
       "property": "schema:url",
       "label": null,
       "description": null,

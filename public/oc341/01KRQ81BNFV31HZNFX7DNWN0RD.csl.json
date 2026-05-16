@@ -1,0 +1,25 @@
+{
+  "container-title": "Philosophical Investigations",
+  "author": [
+    {
+      "given": "Luigi",
+      "family": "Perissinotto"
+    }
+  ],
+  "DOI": "10.1111/phin.12095",
+  "type": "article-journal",
+  "id": "perissinotto2015-how-long-earth-existed",
+  "citation-key": "perissinotto2015-how-long-earth-existed",
+  "issue": "2",
+  "issued": {
+    "date-parts": [
+      [
+        2015
+      ]
+    ]
+  },
+  "note": "Discusses persuasion and world-picture in On Certainty through the contrast between Moore and the king.",
+  "page": "154-177",
+  "title": "How Long has the Earth Existed? Persuasion and World-Picture in Wittgenstein's On Certainty",
+  "volume": "39"
+}

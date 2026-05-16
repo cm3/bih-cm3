@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHCPJSFBB3MW9TTH83NG",
   "primary_id_property": "schema:url",
   "primary_id_value": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
-  "contextual_description": "Open access (CC BY). Explicitly discusses OC §§341--343.",
+  "contextual_description": "Open access (CC BY). Explicitly discusses OC §§341--343.\n\nTags: oc341; oc342; oc343; oc341-343; radical-skepticism; moore;",
   "record_cache": {
     "title": "Moore(anists) and Wittgenstein on Radical Scepticism",
     "creators": [
@@ -85,7 +85,7 @@
   },
   "links": [
     {
-      "link_id": "f61349a0-31e1-417a-96a1-ef8d6f965947",
+      "link_id": "b7845be9-b08a-48af-a02e-b358f32d35b3",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -99,7 +99,7 @@
       "note": null
     },
     {
-      "link_id": "4229918a-e8a3-4a8f-9824-8e99f6cc165c",
+      "link_id": "b7978f84-ed0a-4623-9822-b4f3d62df2df",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -113,7 +113,7 @@
       "note": null
     },
     {
-      "link_id": "99cd247c-1768-422c-a6e2-4b4bdd1200fb",
+      "link_id": "ef6f7bae-26f6-4047-8ad1-fb98423eb6bb",
       "property": "schema:url",
       "label": null,
       "description": null,

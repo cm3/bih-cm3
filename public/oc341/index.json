@@ -7,11 +7,11 @@
       "primary_id_property": "bih:hasDOI",
       "primary_id_value": "10.5840/symposion20185214",
       "title": "Dialecticality and Deep Disagreement",
-      "contextual_description_summary": "Aikin は §341 をウィトゲンシュタイン解釈の中心として精読しているのではなく、Fogelin の “deep disagreement” 論を支えるための hinge の定式化として使っている。つまり、§341 は彼にとって「深い不一致では、そもそも議論が噛み合わなくなる理由」を説明する導入点になっている。\n\nAikin はまず Fogelin に従って、通常の不一致では共有された事実・手続き・権威に訴えられるのに対し、deep disagreement ではその共有基盤が足りないと言っている。その直後に Wittgenstein の §341 を引いて、私たちの問いや疑いは、疑いから免除された命題に依存していると述べている。ここで §341 は、「議論を動かすためには、そもそも動かさない前提がある」という hinge 的な絵を与える役割を担っている。\n\nそのうえで Aikin が強調するのは、その hinge / framework propositions は万人に共有されているわけではないという点。彼は §341 に続けて OC §401 も持ち出し、こうした hinges は「思考や言語運用の基礎」をなすので、それを疑う側は、信じている側から見ると「そもそも意味をなしていない」ように見える、と述べる。ここで OC §341 は、単に「基礎命題がある」という話ではなく、基礎命題の非共有が相互理解の崩壊を生むという議論の入口になっている。\n\nこの点から Aikin は、deep disagreement を 正当化の無限後退問題の特殊形 として組み直します。彼の要約はかなり明快で、\n\n1. framework propositions は、それを信じる人にとってだけ後退を止める\n2. 信じられていなければ後退を止めない\n3. deep disagreement とは非共有の framework propositions をめぐる不一致である\n4. したがって deep disagreement には、共有された「後退停止理由」がない、\n\nという流れ。ここで §341 は、Aikin の議論全体の中では **「後退を止める基礎が、相手には基礎として働かない」**ことを示すための主要テキストになっている。\n\nただし、Aikin の本当に独自な点はそこから先で、彼は問題の核心を、単なる epistemic backing ではなく、dialectical backing に置く。つまり、よい議論であるためには、前提が真であるだけでなく、相手にも理由として承認されるか、少なくとも承認可能でなければならないと考えます。彼はこれを Dialecticality Requirement と呼び、「議論はその聴衆に対して弁証論的に十分でなければならない」と定式化します。 deep disagreement では hinges がまさに共有されていないので、hinge propositions をめぐる議論は dialectically successful になりえない、というのが彼の結論である。\n\nこの意味で、Aikin における §341 は、“議論不能性の診断” の根拠 であって、“解決策” の根拠ではありません。むしろ論文末尾では、深い不一致の問題は hinge propositions の衝突として記述される以上、hinge epistemology そのものの見通しにも懐疑的になる理由があるかもしれない、とまで言っている。なので Aikin は、§341 を用いて hinge epistemology を積極的に擁護しているというより、それを使って deep disagreement の悲観的構造を示していると読んだほうが正確。",
+      "contextual_description_summary": "Aikin は §341 をウィトゲンシュタイン解釈の中心として精読しているのではなく、Fogelin の “deep disagreement” 論を支えるための hinge の定式化として使っている。つまり、§341 は彼にとって「深い不一致では、そもそも議論が噛み合わなくなる理由」を説明する導入点になっている。\n\nAikin はまず Fogelin に従って、通常の不一致では共有された事実・手続き・権威に訴えられるのに対し、deep disagreement ではその共有基盤が足りないと言っている。その直後に Wittgenstein の §341 を引いて、私たちの問いや疑いは、疑いから免除された命題に依存していると述べている。ここで §341 は、「議論を動かすためには、そもそも動かさない前提がある」という hinge 的な絵を与える役割を担っている。\n\nそのうえで Aikin が強調するのは、その hinge / framework propositions は万人に共有されているわけではないという点。彼は §341 に続けて OC §401 も持ち出し、こうした hinges は「思考や言語運用の基礎」をなすので、それを疑う側は、信じている側から見ると「そもそも意味をなしていない」ように見える、と述べる。ここで OC §341 は、単に「基礎命題がある」という話ではなく、基礎命題の非共有が相互理解の崩壊を生むという議論の入口になっている。\n\nこの点から Aikin は、deep disagreement を 正当化の無限後退問題の特殊形 として組み直します。彼の要約はかなり明快で、\n\n1. framework propositions は、それを信じる人にとってだけ後退を止める\n2. 信じられていなければ後退を止めない\n3. deep disagreement とは非共有の framework propositions をめぐる不一致である\n4. したがって deep disagreement には、共有された「後退停止理由」がない、\n\nという流れ。ここで §341 は、Aikin の議論全体の中では **「後退を止める基礎が、相手には基礎として働かない」**ことを示すための主要テキストになっている。\n\nただし、Aikin の本当に独自な点はそこから先で、彼は問題の核心を、単なる epistemic backing ではなく、dialectical backing に置く。つまり、よい議論であるためには、前提が真であるだけでなく、相手にも理由として承認されるか、少なくとも承認可能でなければならないと考えます。彼はこれを Dialecticality Requirement と呼び、「議論はその聴衆に対して弁証論的に十分でなければならない」と定式化します。 deep disagreement では hinges がまさに共有されていないので、hinge propositions をめぐる議論は dialectically successful になりえない、というのが彼の結論である。\n\nこの意味で、Aikin における §341 は、“議論不能性の診断” の根拠 であって、“解決策” の根拠ではありません。むしろ論文末尾では、深い不一致の問題は hinge propositions の衝突として記述される以上、hinge epistemology そのものの見通しにも懐疑的になる理由があるかもしれない、とまで言っている。なので Aikin は、§341 を用いて hinge epistemology を積極的に擁護しているというより、それを使って deep disagreement の悲観的構造を示していると読んだほうが正確。\n\nTags: oc341; deep-disagreement; dialecticality; framework-propositions;",
       "creators_summary": "Aikin, Scott F.",
       "issued_year": 2018,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHC721NGCSZPSPXSAV4Z\n01KPDYAHC721NGCSZPSPXSAV4Z\nDialecticality and Deep Disagreement\nAikin は §341 をウィトゲンシュタイン解釈の中心として精読しているのではなく、Fogelin の “deep disagreement” 論を支えるための hinge の定式化として使っている。つまり、§341 は彼にとって「深い不一致では、そもそも議論が噛み合わなくなる理由」を説明する導入点になっている。\n\nAikin はまず Fogelin に従って、通常の不一致では共有された事実・手続き・権威に訴えられるのに対し、deep disagreement ではその共有基盤が足りないと言っている。その直後に Wittgenstein の §341 を引いて、私たちの問いや疑いは、疑いから免除された命題に依存していると述べている。ここで §341 は、「議論を動かすためには、そもそも動かさない前提がある」という hinge 的な絵を与える役割を担っている。\n\nそのうえで Aikin が強調するのは、その hinge / framework propositions は万人に共有されているわけではないという点。彼は §341 に続けて OC §401 も持ち出し、こうした hinges は「思考や言語運用の基礎」をなすので、それを疑う側は、信じている側から見ると「そもそも意味をなしていない」ように見える、と述べる。ここで OC §341 は、単に「基礎命題がある」という話ではなく、基礎命題の非共有が相互理解の崩壊を生むという議論の入口になっている。\n\nこの点から Aikin は、deep disagreement を 正当化の無限後退問題の特殊形 として組み直します。彼の要約はかなり明快で、\n\n1. framework propositions は、それを信じる人にとってだけ後退を止める\n2. 信じられていなければ後退を止めない\n3. deep disagreement とは非共有の framework propositions をめぐる不一致である\n4. したがって deep disagreement には、共有された「後退停止理由」がない、\n\nという流れ。ここで §341 は、Aikin の議論全体の中では **「後退を止める基礎が、相手には基礎として働かない」**ことを示すための主要テキストになっている。\n\nただし、Aikin の本当に独自な点はそこから先で、彼は問題の核心を、単なる epistemic backing ではなく、dialectical backing に置く。つまり、よい議論であるためには、前提が真であるだけでなく、相手にも理由として承認されるか、少なくとも承認可能でなければならないと考えます。彼はこれを Dialecticality Requirement と呼び、「議論はその聴衆に対して弁証論的に十分でなければならない」と定式化します。 deep disagreement では hinges がまさに共有されていないので、hinge propositions をめぐる議論は dialectically successful になりえない、というのが彼の結論である。\n\nこの意味で、Aikin における §341 は、“議論不能性の診断” の根拠 であって、“解決策” の根拠ではありません。むしろ論文末尾では、深い不一致の問題は hinge propositions の衝突として記述される以上、hinge epistemology そのものの見通しにも懐疑的になる理由があるかもしれない、とまで言っている。なので Aikin は、§341 を用いて hinge epistemology を積極的に擁護しているというより、それを使って deep disagreement の悲観的構造を示していると読んだほうが正確。\nbih:hasDOI\n10.5840/symposion20185214\nAikin, Scott F.\nSymposion: Theoretical and Applied Inquiries in Philosophy and Social Sciences\n2018\n5\n2\n173--179\nhttps://philarchive.org/archive/AIKDAD-2\nOpen-access PDF available via PhilArchive. Uses OC §341 in discussion of deep disagreement.\nAikin2018Dialecticality\nScott F.\nAikin\narticle-journal\naikin2018-dialecticality-deep-disagreement\n173-179"
+      "search_text": "bih:cm3/oc341/01KPDYAHC721NGCSZPSPXSAV4Z\n01KPDYAHC721NGCSZPSPXSAV4Z\nDialecticality and Deep Disagreement\nAikin は §341 をウィトゲンシュタイン解釈の中心として精読しているのではなく、Fogelin の “deep disagreement” 論を支えるための hinge の定式化として使っている。つまり、§341 は彼にとって「深い不一致では、そもそも議論が噛み合わなくなる理由」を説明する導入点になっている。\n\nAikin はまず Fogelin に従って、通常の不一致では共有された事実・手続き・権威に訴えられるのに対し、deep disagreement ではその共有基盤が足りないと言っている。その直後に Wittgenstein の §341 を引いて、私たちの問いや疑いは、疑いから免除された命題に依存していると述べている。ここで §341 は、「議論を動かすためには、そもそも動かさない前提がある」という hinge 的な絵を与える役割を担っている。\n\nそのうえで Aikin が強調するのは、その hinge / framework propositions は万人に共有されているわけではないという点。彼は §341 に続けて OC §401 も持ち出し、こうした hinges は「思考や言語運用の基礎」をなすので、それを疑う側は、信じている側から見ると「そもそも意味をなしていない」ように見える、と述べる。ここで OC §341 は、単に「基礎命題がある」という話ではなく、基礎命題の非共有が相互理解の崩壊を生むという議論の入口になっている。\n\nこの点から Aikin は、deep disagreement を 正当化の無限後退問題の特殊形 として組み直します。彼の要約はかなり明快で、\n\n1. framework propositions は、それを信じる人にとってだけ後退を止める\n2. 信じられていなければ後退を止めない\n3. deep disagreement とは非共有の framework propositions をめぐる不一致である\n4. したがって deep disagreement には、共有された「後退停止理由」がない、\n\nという流れ。ここで §341 は、Aikin の議論全体の中では **「後退を止める基礎が、相手には基礎として働かない」**ことを示すための主要テキストになっている。\n\nただし、Aikin の本当に独自な点はそこから先で、彼は問題の核心を、単なる epistemic backing ではなく、dialectical backing に置く。つまり、よい議論であるためには、前提が真であるだけでなく、相手にも理由として承認されるか、少なくとも承認可能でなければならないと考えます。彼はこれを Dialecticality Requirement と呼び、「議論はその聴衆に対して弁証論的に十分でなければならない」と定式化します。 deep disagreement では hinges がまさに共有されていないので、hinge propositions をめぐる議論は dialectically successful になりえない、というのが彼の結論である。\n\nこの意味で、Aikin における §341 は、“議論不能性の診断” の根拠 であって、“解決策” の根拠ではありません。むしろ論文末尾では、深い不一致の問題は hinge propositions の衝突として記述される以上、hinge epistemology そのものの見通しにも懐疑的になる理由があるかもしれない、とまで言っている。なので Aikin は、§341 を用いて hinge epistemology を積極的に擁護しているというより、それを使って deep disagreement の悲観的構造を示していると読んだほうが正確。\n\nTags: oc341; deep-disagreement; dialecticality; framework-propositions;\nbih:hasDOI\n10.5840/symposion20185214\nAikin, Scott F.\nSymposion: Theoretical and Applied Inquiries in Philosophy and Social Sciences\n2018\n5\n2\n173--179\nhttps://philarchive.org/archive/AIKDAD-2\nOpen-access PDF available via PhilArchive. Uses OC §341 in discussion of deep disagreement.\nAikin2018Dialecticality\nScott F.\nAikin\narticle-journal\naikin2018-dialecticality-deep-disagreement\n173-179"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHC949T3SXJBEVASS0MD",
@@ -20,11 +20,24 @@
       "primary_id_property": "bih:hasDOI",
       "primary_id_value": "10.1017/epi.2021.40",
       "title": "Prejudice in Testimonial Justification: A Hinge Account",
-      "contextual_description_summary": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.",
+      "contextual_description_summary": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.\n\nTags: oc341; hinge-epistemology; testimony;",
       "creators_summary": "Boncompagni, Anna",
       "issued_year": 2024,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHC949T3SXJBEVASS0MD\n01KPDYAHC949T3SXJBEVASS0MD\nPrejudice in Testimonial Justification: A Hinge Account\nOA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.\nbih:hasDOI\n10.1017/epi.2021.40\nBoncompagni, Anna\nEpisteme\n2024\n21\n1\n286--303\nhttps://philarchive.org/rec/BONPIT-4\nBoncompagni2024PrejudiceHinge\nAnna\nBoncompagni\narticle-journal\nboncompagni2024-prejudice-testimonial-justification\n286-303"
+      "search_text": "bih:cm3/oc341/01KPDYAHC949T3SXJBEVASS0MD\n01KPDYAHC949T3SXJBEVASS0MD\nPrejudice in Testimonial Justification: A Hinge Account\nOA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.\n\nTags: oc341; hinge-epistemology; testimony;\nbih:hasDOI\n10.1017/epi.2021.40\nBoncompagni, Anna\nEpisteme\n2024\n21\n1\n286--303\nhttps://philarchive.org/rec/BONPIT-4\nOA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.\nBoncompagni2024PrejudiceHinge\nAnna\nBoncompagni\narticle-journal\nboncompagni2024-prejudice-testimonial-justification\n286-303"
+    },
+    {
+      "hub_id": "bih:cm3/oc341/01KRQ81BNFVF4N0MTYE73ZP43K",
+      "ulid": "01KRQ81BNFVF4N0MTYE73ZP43K",
+      "item_json_url": "./01KRQ81BNFVF4N0MTYE73ZP43K.json",
+      "primary_id_property": "bih:hasDOI",
+      "primary_id_value": "10.1007/s11406-012-9385-2",
+      "title": "Mistakes and Mental Disturbances: Pleasants, Wittgenstein, and Basic Moral Certainty",
+      "contextual_description_summary": "外部メモでは，死や殺害に関する基本的な道徳的確実性を，OC §341 の hinge と対応させる文献として位置づけている。§341 はここで，認識論だけでなく道徳的探究にも疑いから免除された背景条件があるかを考えるための入口になる。\n\nTags: oc341; moral-application; moral-certainty; hinge;",
+      "creators_summary": "Brice, Robert Greenleaf",
+      "issued_year": 2013,
+      "viewer_category": "references",
+      "search_text": "bih:cm3/oc341/01KRQ81BNFVF4N0MTYE73ZP43K\n01KRQ81BNFVF4N0MTYE73ZP43K\nMistakes and Mental Disturbances: Pleasants, Wittgenstein, and Basic Moral Certainty\n外部メモでは，死や殺害に関する基本的な道徳的確実性を，OC §341 の hinge と対応させる文献として位置づけている。§341 はここで，認識論だけでなく道徳的探究にも疑いから免除された背景条件があるかを考えるための入口になる。\n\nTags: oc341; moral-application; moral-certainty; hinge;\nbih:hasDOI\n10.1007/s11406-012-9385-2\nBrice, Robert Greenleaf\nPhilosophia\n2013\n41\n2\n477--487\nUses Wittgensteinian certainty in relation to basic moral certainty.\nBrice2013MistakesMentalDisturbances\nRobert Greenleaf\nBrice\narticle-journal\nbrice2013-mistakes-mental-disturbances\n477-487"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCBSHHQZN58SBDSYMPD",
@@ -33,11 +46,11 @@
       "primary_id_property": "bih:hasDOI",
       "primary_id_value": "10.1111/phib.12357",
       "title": "Certainties and the Bedrock of Moral Reasoning: Three Ways the Spade Turns",
-      "contextual_description_summary": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.",
+      "contextual_description_summary": "Open access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341. 外部メモでは，hinge を疑い得ない規則的条件として受け入れつつ，厳密な道徳的岩盤は実質的命題ではなく形式的・超越論的な規則だと論じる文献として整理されている。\n\nTags: oc341; moral-application; moral-certainty; bedrock; rule-grammatical;",
       "creators_summary": "Deininger, Konstantin; Grimm, Herwig",
       "issued_year": 2024,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCBSHHQZN58SBDSYMPD\n01KPDYAHCBSHHQZN58SBDSYMPD\nCertainties and the Bedrock of Moral Reasoning: Three Ways the Spade Turns\nOpen access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.\nbih:hasDOI\n10.1111/phib.12357\nDeininger, Konstantin and Grimm, Herwig\nAnalytic Philosophy\n2024\nhttps://phaidra.vetmeduni.ac.at/api/object/o:4517/get\nDeiningerGrimm2024Bedrock\nKonstantin\nDeininger\nHerwig\nGrimm\narticle-journal\ndeininger2024-certainties-bedrock-moral"
+      "search_text": "bih:cm3/oc341/01KPDYAHCBSHHQZN58SBDSYMPD\n01KPDYAHCBSHHQZN58SBDSYMPD\nCertainties and the Bedrock of Moral Reasoning: Three Ways the Spade Turns\nOpen access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341. 外部メモでは，hinge を疑い得ない規則的条件として受け入れつつ，厳密な道徳的岩盤は実質的命題ではなく形式的・超越論的な規則だと論じる文献として整理されている。\n\nTags: oc341; moral-application; moral-certainty; bedrock; rule-grammatical;\nbih:hasDOI\n10.1111/phib.12357\nDeininger, Konstantin and Grimm, Herwig\nAnalytic Philosophy\n2024\nhttps://phaidra.vetmeduni.ac.at/api/object/o:4517/get\nOpen access. Early online version; final volume/issue pagination may differ. Explicitly cites OC §341.\nDeiningerGrimm2024Bedrock\nKonstantin\nDeininger\nHerwig\nGrimm\narticle-journal\ndeininger2024-certainties-bedrock-moral"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCDSVKGFW4FA0A4BFV7",
@@ -46,11 +59,11 @@
       "primary_id_property": "schema:url",
       "primary_id_value": "https://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf",
       "title": "疑い得ないものは真ではないのか？: ウィトゲンシュタイン著『確実性について』の第205節という落とし穴",
-      "contextual_description_summary": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.",
+      "contextual_description_summary": "Conference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.\n\nTags: oc341; hinge;",
       "creators_summary": "橋本, 正吾",
       "issued_year": 2022,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCDSVKGFW4FA0A4BFV7\n01KPDYAHCDSVKGFW4FA0A4BFV7\n疑い得ないものは真ではないのか？: ウィトゲンシュタイン著『確実性について』の第205節という落とし穴\nConference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.\nschema:url\nhttps://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf\n橋本, 正吾\n2022\nHashimoto2022UtaigatainaiMono\n正吾\n橋本\ndocument\nitem2022-205"
+      "search_text": "bih:cm3/oc341/01KPDYAHCDSVKGFW4FA0A4BFV7\n01KPDYAHCDSVKGFW4FA0A4BFV7\n疑い得ないものは真ではないのか？: ウィトゲンシュタイン著『確実性について』の第205節という落とし穴\nConference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.\n\nTags: oc341; hinge;\nschema:url\nhttps://philosophy-japan.org/wpdata/wp-content/uploads/2022/10/4af2c916b715da05bf49ef630f0f9d7e.pdf\n橋本, 正吾\n2022\nConference abstract / presentation summary (open access). Explicitly mentions the hinge discussed at OC §341.\nHashimoto2022UtaigatainaiMono\n正吾\n橋本\ndocument\nitem2022-205"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCF0Z564D1NX9B0GJH8",
@@ -59,11 +72,24 @@
       "primary_id_property": "bih:hasDOI",
       "primary_id_value": "10.1163/22105700-00603004",
       "title": "Wittgenstein on Mathematics and Certainties",
-      "contextual_description_summary": "Open-access PDF available via PhilArchive. Discusses OC §341.",
+      "contextual_description_summary": "Open-access PDF available via PhilArchive. Discusses OC §341.\n\nTags: oc341; mathematics; certainties;",
       "creators_summary": "Kusch, Martin",
       "issued_year": 2016,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCF0Z564D1NX9B0GJH8\n01KPDYAHCF0Z564D1NX9B0GJH8\nWittgenstein on Mathematics and Certainties\nOpen-access PDF available via PhilArchive. Discusses OC §341.\nbih:hasDOI\n10.1163/22105700-00603004\nKusch, Martin\nInternational Journal for the Study of Skepticism\n2016\n6\n2-3\n120--142\nhttps://philarchive.org/archive/KUSWOM\nKusch2016MathematicsCertainties\nMartin\nKusch\narticle-journal\nkusch2016-wittgenstein-mathematics-certainties\n120-142"
+      "search_text": "bih:cm3/oc341/01KPDYAHCF0Z564D1NX9B0GJH8\n01KPDYAHCF0Z564D1NX9B0GJH8\nWittgenstein on Mathematics and Certainties\nOpen-access PDF available via PhilArchive. Discusses OC §341.\n\nTags: oc341; mathematics; certainties;\nbih:hasDOI\n10.1163/22105700-00603004\nKusch, Martin\nInternational Journal for the Study of Skepticism\n2016\n6\n2-3\n120--142\nhttps://philarchive.org/archive/KUSWOM\nOpen-access PDF available via PhilArchive. Discusses OC §341.\nKusch2016MathematicsCertainties\nMartin\nKusch\narticle-journal\nkusch2016-wittgenstein-mathematics-certainties\n120-142"
+    },
+    {
+      "hub_id": "bih:cm3/oc341/01KRQ81BNFYN2WWZBPY0A362DM",
+      "ulid": "01KRQ81BNFYN2WWZBPY0A362DM",
+      "item_json_url": "./01KRQ81BNFYN2WWZBPY0A362DM.json",
+      "primary_id_property": "bih:hasDOI",
+      "primary_id_value": "10.1111/phin.12232",
+      "title": "On Certainty: Wittgenstein and Einstein",
+      "contextual_description_summary": "外部メモでは，OC §341 を疑いの条件をめぐる反懐疑論的な論点として読み，Moore 的命題を経験的証拠ではなく記述の規範・要請として捉え直す文献として位置づけている。Einstein との対比により，経験的に見える命題が体系内で postulate として機能しうる点が焦点になる。\n\nTags: oc341; oc342; anti-skeptical; moore; postulate; rule-grammatical; einstein;",
+      "creators_summary": "Mion, Giovanni",
+      "issued_year": 2019,
+      "viewer_category": "references",
+      "search_text": "bih:cm3/oc341/01KRQ81BNFYN2WWZBPY0A362DM\n01KRQ81BNFYN2WWZBPY0A362DM\nOn Certainty: Wittgenstein and Einstein\n外部メモでは，OC §341 を疑いの条件をめぐる反懐疑論的な論点として読み，Moore 的命題を経験的証拠ではなく記述の規範・要請として捉え直す文献として位置づけている。Einstein との対比により，経験的に見える命題が体系内で postulate として機能しうる点が焦点になる。\n\nTags: oc341; oc342; anti-skeptical; moore; postulate; rule-grammatical; einstein;\nbih:hasDOI\n10.1111/phin.12232\nMion, Giovanni\nPhilosophical Investigations\n2019\n42\n2\n163--170\nConnects Wittgenstein's response to scepticism in On Certainty with Einstein's response to the ether.\nMion2019OnCertaintyWittgensteinEinstein\nGiovanni\nMion\narticle-journal\nmion2019-on-certainty-wittgenstein-einstein\n163-170"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCHN02AANFDC8R374Q3",
@@ -72,11 +98,50 @@
       "primary_id_property": "bih:hasDOI",
       "primary_id_value": "10.1017/can.2025.10023",
       "title": "Hinge Epistemology? Limits and Prospects of a Prominent Formulation of Framework Views",
-      "contextual_description_summary": "Open access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.",
+      "contextual_description_summary": "Open access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.\n\nTags: oc341; hinge-epistemology;",
       "creators_summary": "Miragoli, Martin",
       "issued_year": 2025,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCHN02AANFDC8R374Q3\n01KPDYAHCHN02AANFDC8R374Q3\nHinge Epistemology? Limits and Prospects of a Prominent Formulation of Framework Views\nOpen access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.\nbih:hasDOI\n10.1017/can.2025.10023\nMiragoli, Martin\nCanadian Journal of Philosophy\n2025\n54\n606--622\nhttps://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf\nMiragoli2025HingeEpistemology\nMartin\nMiragoli\narticle-journal\nmiragoli2025-hinge-epistemology-limits\n606-622"
+      "search_text": "bih:cm3/oc341/01KPDYAHCHN02AANFDC8R374Q3\n01KPDYAHCHN02AANFDC8R374Q3\nHinge Epistemology? Limits and Prospects of a Prominent Formulation of Framework Views\nOpen access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.\n\nTags: oc341; hinge-epistemology;\nbih:hasDOI\n10.1017/can.2025.10023\nMiragoli, Martin\nCanadian Journal of Philosophy\n2025\n54\n606--622\nhttps://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf\nOpen access (CC BY 4.0). Discusses OC §341 in relation to hinge epistemology.\nMiragoli2025HingeEpistemology\nMartin\nMiragoli\narticle-journal\nmiragoli2025-hinge-epistemology-limits\n606-622"
+    },
+    {
+      "hub_id": "bih:cm3/oc341/01KRQ81BNFTC6Z7ZZSFAR31FJV",
+      "ulid": "01KRQ81BNFTC6Z7ZZSFAR31FJV",
+      "item_json_url": "./01KRQ81BNFTC6Z7ZZSFAR31FJV.json",
+      "primary_id_property": "bih:hasDOI",
+      "primary_id_value": "10.1111/theo.12558",
+      "title": "On Certainty, Left Wittgensteinianism and Conceptual Change",
+      "contextual_description_summary": "外部メモでは，OC §341 の hinge を一時的に硬化して探究を可能にするものとして読み，歴史的・実践的変化の中で再び流動化しうるものとして扱う文献として整理されている。§341 は固定的基礎だけでなく，概念変化を考えるための動的モデルにもなる。\n\nTags: oc341; conceptual-change; riverbed; left-wittgensteinianism; framework;",
+      "creators_summary": "Mollema, W. J. T.",
+      "issued_year": 2024,
+      "viewer_category": "references",
+      "search_text": "bih:cm3/oc341/01KRQ81BNFTC6Z7ZZSFAR31FJV\n01KRQ81BNFTC6Z7ZZSFAR31FJV\nOn Certainty, Left Wittgensteinianism and Conceptual Change\n外部メモでは，OC §341 の hinge を一時的に硬化して探究を可能にするものとして読み，歴史的・実践的変化の中で再び流動化しうるものとして扱う文献として整理されている。§341 は固定的基礎だけでなく，概念変化を考えるための動的モデルにもなる。\n\nTags: oc341; conceptual-change; riverbed; left-wittgensteinianism; framework;\nbih:hasDOI\n10.1111/theo.12558\nMollema, W. J. T.\nTheoria\n2024\n90\n6\n603--623\nUses On Certainty and the riverbed analogy to discuss conceptual change.\nMollema2024OnCertaintyLeftWittgensteinianism\nW. J. T.\nMollema\narticle-journal\nmollema2024-on-certainty-left-wittgensteinianism\n603-623"
+    },
+    {
+      "hub_id": "bih:cm3/oc341/01KRQ81BNFRPWMK347BBGAHEWF",
+      "ulid": "01KRQ81BNFRPWMK347BBGAHEWF",
+      "item_json_url": "./01KRQ81BNFRPWMK347BBGAHEWF.json",
+      "primary_id_property": "bih:hasDOI",
+      "primary_id_value": "10.1017/9781108946599",
+      "title": "Wittgenstein on Knowledge and Certainty",
+      "contextual_description_summary": "外部メモでは，hinge certainty を通常の知識命題へ同化しない読み，とくに非命題的・非認識的な確実性をめぐる現代 hinge 論の入口として位置づけている。Pritchard, Wright, Williams, Coliva などとの争点も整理対象になる。\n\nTags: oc341; oc342; hinge-epistemology; non-propositional; non-epistemic; pritchard; wright; williams; coliva;",
+      "creators_summary": "Moyal-Sharrock, Danièle; Pritchard, Duncan",
+      "issued_year": 2024,
+      "viewer_category": "references",
+      "search_text": "bih:cm3/oc341/01KRQ81BNFRPWMK347BBGAHEWF\n01KRQ81BNFRPWMK347BBGAHEWF\nWittgenstein on Knowledge and Certainty\n外部メモでは，hinge certainty を通常の知識命題へ同化しない読み，とくに非命題的・非認識的な確実性をめぐる現代 hinge 論の入口として位置づけている。Pritchard, Wright, Williams, Coliva などとの争点も整理対象になる。\n\nTags: oc341; oc342; hinge-epistemology; non-propositional; non-epistemic; pritchard; wright; williams; coliva;\nbih:hasDOI\n10.1017/9781108946599\nMoyal-Sharrock, Dani{\\`e}le and Pritchard, Duncan\n2024\nCambridge University Press\nElements in the Philosophy of Ludwig Wittgenstein\n9781108931199\nOverview of Wittgenstein's treatment of knowledge and certainty, including non-propositional/non-epistemic and propositional/epistemic readings.\nMoyalSharrockPritchard2024WittgensteinKnowledgeCertainty\nDanièle\nMoyal-Sharrock\nDuncan\nPritchard\nbook\nmoyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty"
+    },
+    {
+      "hub_id": "bih:cm3/oc341/01KRQ81BNFV31HZNFX7DNWN0RD",
+      "ulid": "01KRQ81BNFV31HZNFX7DNWN0RD",
+      "item_json_url": "./01KRQ81BNFV31HZNFX7DNWN0RD.json",
+      "primary_id_property": "bih:hasDOI",
+      "primary_id_value": "10.1111/phin.12095",
+      "title": "How Long has the Earth Existed? Persuasion and World-Picture in Wittgenstein's On Certainty",
+      "contextual_description_summary": "外部メモでは，Moore と王の事例を通じて，争点が経験的事実の不一致ではなく world-picture の違いであることを示す文献として整理されている。OC §341 は，共有されない背景条件が説得や議論の形を変えることを捉える足場になる。\n\nTags: oc341; world-picture; moore; persuasion; framework;",
+      "creators_summary": "Perissinotto, Luigi",
+      "issued_year": 2015,
+      "viewer_category": "references",
+      "search_text": "bih:cm3/oc341/01KRQ81BNFV31HZNFX7DNWN0RD\n01KRQ81BNFV31HZNFX7DNWN0RD\nHow Long has the Earth Existed? Persuasion and World-Picture in Wittgenstein's On Certainty\n外部メモでは，Moore と王の事例を通じて，争点が経験的事実の不一致ではなく world-picture の違いであることを示す文献として整理されている。OC §341 は，共有されない背景条件が説得や議論の形を変えることを捉える足場になる。\n\nTags: oc341; world-picture; moore; persuasion; framework;\nbih:hasDOI\n10.1111/phin.12095\nPerissinotto, Luigi\nPhilosophical Investigations\n2015\n39\n2\n154--177\nDiscusses persuasion and world-picture in On Certainty through the contrast between Moore and the king.\nPerissinotto2015HowLongEarthExisted\nLuigi\nPerissinotto\narticle-journal\nperissinotto2015-how-long-earth-existed\n154-177"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCKCS8XSRRA9X6TXY53",
@@ -85,11 +150,11 @@
       "primary_id_property": "bih:hasDOI",
       "primary_id_value": "10.1515/krt-2015-290205",
       "title": "Wittgensteinian Epistemology and Cartesian Skepticism",
-      "contextual_description_summary": "Open access. Explicitly discusses OC §§341--343.",
+      "contextual_description_summary": "Open access. Explicitly discusses OC §§341--343.\n\nTags: oc341; oc342; oc343; oc341-343; radical-skepticism; moore;",
       "creators_summary": "Salvatore, Nicola Claudio",
       "issued_year": 2015,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCKCS8XSRRA9X6TXY53\n01KPDYAHCKCS8XSRRA9X6TXY53\nWittgensteinian Epistemology and Cartesian Skepticism\nOpen access. Explicitly discusses OC §§341--343.\nbih:hasDOI\n10.1515/krt-2015-290205\nSalvatore, Nicola Claudio\nKRITERION -- Journal of Philosophy\n2015\n29\n2\n53--80\nhttps://www.degruyter.com/document/doi/10.1515/krt-2015-290205/pdf\nSalvatore2015WittgensteinianEpistemology\nKRITERION – Journal of Philosophy\nNicola Claudio\nSalvatore\narticle-journal\nsalvatore2015-wittgensteinian-epistemology-cartesian\nOpen access. Explicitly discusses OC §§341–343.\n53-80"
+      "search_text": "bih:cm3/oc341/01KPDYAHCKCS8XSRRA9X6TXY53\n01KPDYAHCKCS8XSRRA9X6TXY53\nWittgensteinian Epistemology and Cartesian Skepticism\nOpen access. Explicitly discusses OC §§341--343.\n\nTags: oc341; oc342; oc343; oc341-343; radical-skepticism; moore;\nbih:hasDOI\n10.1515/krt-2015-290205\nSalvatore, Nicola Claudio\nKRITERION -- Journal of Philosophy\n2015\n29\n2\n53--80\nhttps://www.degruyter.com/document/doi/10.1515/krt-2015-290205/pdf\nOpen access. Explicitly discusses OC §§341--343.\nSalvatore2015WittgensteinianEpistemology\nKRITERION – Journal of Philosophy\nNicola Claudio\nSalvatore\narticle-journal\nsalvatore2015-wittgensteinian-epistemology-cartesian\nOpen access. Explicitly discusses OC §§341–343.\n53-80"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCPJSFBB3MW9TTH83NG",
@@ -98,11 +163,11 @@
       "primary_id_property": "schema:url",
       "primary_id_value": "https://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416",
       "title": "Moore(anists) and Wittgenstein on Radical Scepticism",
-      "contextual_description_summary": "Open access (CC BY). Explicitly discusses OC §§341--343.",
+      "contextual_description_summary": "Open access (CC BY). Explicitly discusses OC §§341--343.\n\nTags: oc341; oc342; oc343; oc341-343; radical-skepticism; moore;",
       "creators_summary": "Salvatore, Nicola Claudio",
       "issued_year": 2016,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCPJSFBB3MW9TTH83NG\n01KPDYAHCPJSFBB3MW9TTH83NG\nMoore(anists) and Wittgenstein on Radical Scepticism\nOpen access (CC BY). Explicitly discusses OC §§341--343.\nschema:url\nhttps://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416\nSalvatore, Nicola Claudio\nNordic Wittgenstein Review\n2016\n5\n2\n153--182\nSalvatore2016Mooreanists\nNicola Claudio\nSalvatore\narticle-journal\nsalvatore2016-moore-anists-wittgenstein\nOpen access (CC BY). Explicitly discusses OC §§341–343.\n153-182"
+      "search_text": "bih:cm3/oc341/01KPDYAHCPJSFBB3MW9TTH83NG\n01KPDYAHCPJSFBB3MW9TTH83NG\nMoore(anists) and Wittgenstein on Radical Scepticism\nOpen access (CC BY). Explicitly discusses OC §§341--343.\n\nTags: oc341; oc342; oc343; oc341-343; radical-skepticism; moore;\nschema:url\nhttps://www.nordicwittgensteinreview.com/article/download/3392/pdf/8416\nSalvatore, Nicola Claudio\nNordic Wittgenstein Review\n2016\n5\n2\n153--182\nOpen access (CC BY). Explicitly discusses OC §§341--343.\nSalvatore2016Mooreanists\nNicola Claudio\nSalvatore\narticle-journal\nsalvatore2016-moore-anists-wittgenstein\nOpen access (CC BY). Explicitly discusses OC §§341–343.\n153-182"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCRGFEE6D2CY9GWYW1X",
@@ -111,24 +176,24 @@
       "primary_id_property": "bih:hasDOI",
       "primary_id_value": "10.15845/nwr.v11.3632",
       "title": "From Doubt to Despair: A Wittgensteinian Perspective on Gaslighting",
-      "contextual_description_summary": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.",
+      "contextual_description_summary": "Open access. Applies OC §341 to gaslighting and epistemic destabilization.\n\nTags: oc341; gaslighting; epistemic-destabilization;",
       "creators_summary": "Trächtler, Jasmin",
       "issued_year": 2022,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCRGFEE6D2CY9GWYW1X\n01KPDYAHCRGFEE6D2CY9GWYW1X\nFrom Doubt to Despair: A Wittgensteinian Perspective on Gaslighting\nOpen access. Applies OC §341 to gaslighting and epistemic destabilization.\nbih:hasDOI\n10.15845/nwr.v11.3632\nTr{\\\"a}chtler, Jasmin\nNordic Wittgenstein Review\n2022\n75--102\nhttps://www.nordicwittgensteinreview.com/article/download/3632/13/9587\nTraechtler2022Gaslighting\nJasmin\nTrächtler\narticle-journal\ntr-achtler2022-doubt-despair-wittgensteinian\n75-102"
+      "search_text": "bih:cm3/oc341/01KPDYAHCRGFEE6D2CY9GWYW1X\n01KPDYAHCRGFEE6D2CY9GWYW1X\nFrom Doubt to Despair: A Wittgensteinian Perspective on Gaslighting\nOpen access. Applies OC §341 to gaslighting and epistemic destabilization.\n\nTags: oc341; gaslighting; epistemic-destabilization;\nbih:hasDOI\n10.15845/nwr.v11.3632\nTr{\\\"a}chtler, Jasmin\nNordic Wittgenstein Review\n2022\n75--102\nhttps://www.nordicwittgensteinreview.com/article/download/3632/13/9587\nOpen access. Applies OC §341 to gaslighting and epistemic destabilization.\nTraechtler2022Gaslighting\nJasmin\nTrächtler\narticle-journal\ntr-achtler2022-doubt-despair-wittgensteinian\n75-102"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES",
       "ulid": "01KPDYAHCT8EQM0EKVGTS8M1ES",
       "item_json_url": "./01KPDYAHCT8EQM0EKVGTS8M1ES.json",
       "primary_id_property": "bih:hasBihId",
-      "primary_id_value": "bih:cm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES",
-      "title": "On Certainty, §341",
-      "contextual_description_summary": "Target passage around which this dataset is organized.",
-      "creators_summary": "Wittgenstein, Ludwig",
-      "issued_year": 1969,
-      "viewer_category": "cited-work",
-      "search_text": "bih:cm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES\n01KPDYAHCT8EQM0EKVGTS8M1ES\nOn Certainty, §341\nTarget passage around which this dataset is organized.\nbih:hasBihId\nWittgenstein, Ludwig\nOn Certainty\n1969\nBasil Blackwell\nWittgenstein1969OnCertainty341, wittgenstein1969-on-certainty-341\nLudwig\nWittgenstein\nchapter\nwittgenstein1969-certainty-341"
+      "primary_id_value": "cm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES",
+      "title": "OC §341 survey: literature on Wittgenstein's On Certainty §341",
+      "contextual_description_summary": "このエントリは通常の文献アイテムではなく，この文献リスト自身の説明です。\n\nこの文献リストは，[Wittgenstein, On Certainty](bih:cm3/oc341/01KPDYAHCXZ385NHXDSE2H8MTX) の §341 を主題アンカーとして，その箇所を引用・解釈・応用している二次文献を集めます。§341 は独立した書籍や論文ではなく，On Certainty 内の locator です。そのため，ここでは §341 を書誌資料としてではなく，文献リストを組織するための passage anchor として扱います。\n\n§341 は，「問い」や「疑い」がすべてを同時に疑うところから始まるのではなく，現に疑われずに働いている何かを背景にして成り立つ，という論点を示す箇所です。外部から見ればこれは「基礎命題」や「hinge proposition」の話に見えますが，文献ごとに強調点はかなり違います。ある文献では懐疑論への応答として，別の文献では deep disagreement の説明として，さらに別の文献では道徳的推論・証言的不正義・gaslighting などへの応用として読まれます。\n\n§341 だけを切り出してアイテム化すると，On Certainty という著作，そこに含まれる節，その節を参照する二次文献，そしてこの文献リスト自体が同じ階層に並んでしまいます。ここではその混乱を避けるため，On Certainty を cited work として持ち，§341 はその cited work に対する locator として扱います。一方で UI 上では，この文献リスト自身を overview item として表示し，右ペインの description から関心のある文献群へ移動できるようにしています。\n\n近い節として重要なのが OC §342 と §343 です。§342 は，探究が成り立つためには実際には疑われないものがある，という条件を強める箇所です。§343 は，扉が動くには蝶番が固定されていなければならない，という比喩によって，その固定性をより見やすくします。そのため，§341 を論じる文献のなかには，§341 だけでなく §342 と §343 もまとめて扱うものがあります。たとえば [OC §342 も扱う文献](?q=oc342) や [OC §§341--343 をまとめて扱う文献](?q=oc341-343) というリンクから，左のリストを絞り込めます。\n\n代表的な入口として，[Aikin 2018](bih:cm3/oc341/01KPDYAHC721NGCSZPSPXSAV4Z) は §341 を deep disagreement の診断に用います。Aikin にとって §341 は，議論が成立するための背景が共有されていないとき，正当化の後退を止めるはずの前提が相手には前提として働かない，という問題を示すテキストです。この流れの文献は [deep disagreement 関連](?q=deep-disagreement) から見られます。\n\n[Salvatore 2015](bih:cm3/oc341/01KPDYAHCKCS8XSRRA9X6TXY53) と [Salvatore 2016](bih:cm3/oc341/01KPDYAHCPJSFBB3MW9TTH83NG) は，OC §§341--343 を radical skepticism や Moore 的応答との関係で扱います。ここでは §341 は，懐疑論者に対して個別命題を証明するための材料というより，疑いそのものが成立する背景条件を示す箇所として使われます。この流れは [radical skepticism 関連](?q=radical-skepticism) や [Moore 関連](?q=moore) として絞り込めます。\n\n応用的な方向では，[Brice 2013](bih:cm3/oc341/01KRQ81BNFVF4N0MTYE73ZP43K) と [Deininger and Grimm 2024](bih:cm3/oc341/01KPDYAHCBSHHQZN58SBDSYMPD) が moral certainty / moral reasoning の問題へ §341 を接続し，[Trächtler 2022](bih:cm3/oc341/01KPDYAHCRGFEE6D2CY9GWYW1X) が gaslighting における epistemic destabilization として §341 を参照します。これらは [道徳的推論への応用](?q=moral-application) や [gaslighting 関連](?q=gaslighting) から辿れます。\n\n外部メモからは，未収録だった文献もこのリストへ追加しています。[Mion 2019](bih:cm3/oc341/01KRQ81BNFYN2WWZBPY0A362DM) は postulate / 記述の規範，[Perissinotto 2015](bih:cm3/oc341/01KRQ81BNFV31HZNFX7DNWN0RD) は world-picture と説得，[Mollema 2024](bih:cm3/oc341/01KRQ81BNFTC6Z7ZZSFAR31FJV) は conceptual change，[Moyal-Sharrock and Pritchard 2024](bih:cm3/oc341/01KRQ81BNFRPWMK347BBGAHEWF) は現代 hinge 論の整理に接続します。Brice, Deininger, Mion は [道徳的確実性・規則・postulate 関連](?q=moral-certainty) として，Perissinotto と Aikin は [世界像・深い不一致関連](?q=framework) として，Mollema は [概念変化関連](?q=conceptual-change) として，Moyal-Sharrock and Pritchard は [現代 hinge 論関連](?q=hinge-epistemology) として読むと見通しがよいです。\n\nこのように，この overview item は「OC §341 という節そのもの」を文献アイテムにするためのものではありません。むしろ，節番号を locator として維持したまま，文献リスト側の description に構造を持たせ，関連文献への導線を作るための実験です。\n\nTags: oc341; overview; oc342; oc343; oc341-343; deep-disagreement; radical-skepticism; moore; moral-application; moral-certainty; conceptual-change; framework; gaslighting; hinge-epistemology;",
+      "creators_summary": "Kameda, Akihiro",
+      "issued_year": 2026,
+      "viewer_category": "self",
+      "search_text": "bih:cm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES\n01KPDYAHCT8EQM0EKVGTS8M1ES\nOC §341 survey: literature on Wittgenstein's On Certainty §341\nこのエントリは通常の文献アイテムではなく，この文献リスト自身の説明です。\n\nこの文献リストは，[Wittgenstein, On Certainty](bih:cm3/oc341/01KPDYAHCXZ385NHXDSE2H8MTX) の §341 を主題アンカーとして，その箇所を引用・解釈・応用している二次文献を集めます。§341 は独立した書籍や論文ではなく，On Certainty 内の locator です。そのため，ここでは §341 を書誌資料としてではなく，文献リストを組織するための passage anchor として扱います。\n\n§341 は，「問い」や「疑い」がすべてを同時に疑うところから始まるのではなく，現に疑われずに働いている何かを背景にして成り立つ，という論点を示す箇所です。外部から見ればこれは「基礎命題」や「hinge proposition」の話に見えますが，文献ごとに強調点はかなり違います。ある文献では懐疑論への応答として，別の文献では deep disagreement の説明として，さらに別の文献では道徳的推論・証言的不正義・gaslighting などへの応用として読まれます。\n\n§341 だけを切り出してアイテム化すると，On Certainty という著作，そこに含まれる節，その節を参照する二次文献，そしてこの文献リスト自体が同じ階層に並んでしまいます。ここではその混乱を避けるため，On Certainty を cited work として持ち，§341 はその cited work に対する locator として扱います。一方で UI 上では，この文献リスト自身を overview item として表示し，右ペインの description から関心のある文献群へ移動できるようにしています。\n\n近い節として重要なのが OC §342 と §343 です。§342 は，探究が成り立つためには実際には疑われないものがある，という条件を強める箇所です。§343 は，扉が動くには蝶番が固定されていなければならない，という比喩によって，その固定性をより見やすくします。そのため，§341 を論じる文献のなかには，§341 だけでなく §342 と §343 もまとめて扱うものがあります。たとえば [OC §342 も扱う文献](?q=oc342) や [OC §§341--343 をまとめて扱う文献](?q=oc341-343) というリンクから，左のリストを絞り込めます。\n\n代表的な入口として，[Aikin 2018](bih:cm3/oc341/01KPDYAHC721NGCSZPSPXSAV4Z) は §341 を deep disagreement の診断に用います。Aikin にとって §341 は，議論が成立するための背景が共有されていないとき，正当化の後退を止めるはずの前提が相手には前提として働かない，という問題を示すテキストです。この流れの文献は [deep disagreement 関連](?q=deep-disagreement) から見られます。\n\n[Salvatore 2015](bih:cm3/oc341/01KPDYAHCKCS8XSRRA9X6TXY53) と [Salvatore 2016](bih:cm3/oc341/01KPDYAHCPJSFBB3MW9TTH83NG) は，OC §§341--343 を radical skepticism や Moore 的応答との関係で扱います。ここでは §341 は，懐疑論者に対して個別命題を証明するための材料というより，疑いそのものが成立する背景条件を示す箇所として使われます。この流れは [radical skepticism 関連](?q=radical-skepticism) や [Moore 関連](?q=moore) として絞り込めます。\n\n応用的な方向では，[Brice 2013](bih:cm3/oc341/01KRQ81BNFVF4N0MTYE73ZP43K) と [Deininger and Grimm 2024](bih:cm3/oc341/01KPDYAHCBSHHQZN58SBDSYMPD) が moral certainty / moral reasoning の問題へ §341 を接続し，[Trächtler 2022](bih:cm3/oc341/01KPDYAHCRGFEE6D2CY9GWYW1X) が gaslighting における epistemic destabilization として §341 を参照します。これらは [道徳的推論への応用](?q=moral-application) や [gaslighting 関連](?q=gaslighting) から辿れます。\n\n外部メモからは，未収録だった文献もこのリストへ追加しています。[Mion 2019](bih:cm3/oc341/01KRQ81BNFYN2WWZBPY0A362DM) は postulate / 記述の規範，[Perissinotto 2015](bih:cm3/oc341/01KRQ81BNFV31HZNFX7DNWN0RD) は world-picture と説得，[Mollema 2024](bih:cm3/oc341/01KRQ81BNFTC6Z7ZZSFAR31FJV) は conceptual change，[Moyal-Sharrock and Pritchard 2024](bih:cm3/oc341/01KRQ81BNFRPWMK347BBGAHEWF) は現代 hinge 論の整理に接続します。Brice, Deininger, Mion は [道徳的確実性・規則・postulate 関連](?q=moral-certainty) として，Perissinotto と Aikin は [世界像・深い不一致関連](?q=framework) として，Mollema は [概念変化関連](?q=conceptual-change) として，Moyal-Sharrock and Pritchard は [現代 hinge 論関連](?q=hinge-epistemology) として読むと見通しがよいです。\n\nこのように，この overview item は「OC §341 という節そのもの」を文献アイテムにするためのものではありません。むしろ，節番号を locator として維持したまま，文献リスト側の description に構造を持たせ，関連文献への導線を作るための実験です。\n\nTags: oc341; overview; oc342; oc343; oc341-343; deep-disagreement; radical-skepticism; moore; moral-application; moral-certainty; conceptual-change; framework; gaslighting; hinge-epistemology;\nbih:hasBihId\ncm3/oc341/01KPDYAHCT8EQM0EKVGTS8M1ES\nKameda, Akihiro\n2026\nAkihiro Kameda\nCollection overview for literature discussing On Certainty §341. The passage itself is represented as a locator on Wittgenstein's On Certainty, not as a bibliographic work.\nWittgenstein1969OnCertainty341, wittgenstein1969-on-certainty-341\nAkihiro\nKameda\ndocument\nwittgenstein1969-certainty-341"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHCXZ385NHXDSE2H8MTX",
@@ -150,11 +215,11 @@
       "primary_id_property": "schema:url",
       "primary_id_value": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf",
       "title": "What is Wittgenstein's View of Knowledge?: An Analysis of the Context Dependency of Knowledge",
-      "contextual_description_summary": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.",
+      "contextual_description_summary": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.\n\nTags: oc341; japanese;",
       "creators_summary": "Yamada, Keiichi",
       "issued_year": 2016,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHCZ19JEAVVNS25J2KC6\n01KPDYAHCZ19JEAVVNS25J2KC6\nWhat is Wittgenstein's View of Knowledge?: An Analysis of the Context Dependency of Knowledge\nInstitutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.\nschema:url\nhttps://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf\nYamada, Keiichi\n2016\nYamada2016WhatIsWittgensteinsView\nKeiichi\nYamada\ndocument\nyamada2016-what-is-wittgenstein"
+      "search_text": "bih:cm3/oc341/01KPDYAHCZ19JEAVVNS25J2KC6\n01KPDYAHCZ19JEAVVNS25J2KC6\nWhat is Wittgenstein's View of Knowledge?: An Analysis of the Context Dependency of Knowledge\nInstitutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.\n\nTags: oc341; japanese;\nschema:url\nhttps://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf\nYamada, Keiichi\n2016\nInstitutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.\nYamada2016WhatIsWittgensteinsView\nKeiichi\nYamada\ndocument\nyamada2016-what-is-wittgenstein"
     },
     {
       "hub_id": "bih:cm3/oc341/01KPDYAHD1AW420NWNTHRPC34R",
@@ -163,11 +228,11 @@
       "primary_id_property": "schema:url",
       "primary_id_value": "https://philosophy-japan.org/wpdata/wp-content/uploads/2020/06/Zhang-Ligeng-2020.pdf",
       "title": "A Wittgensteinian Approach to Reconsidering Nishida's Basho of True Nothing",
-      "contextual_description_summary": "Open access. Refers to OC §§341--343 in a note and uses hinge-style background considerations.",
+      "contextual_description_summary": "Open access. Refers to OC §§341--343 in a note and uses hinge-style background considerations.\n\nTags: oc341; oc342; oc343; oc341-343; nishida;",
       "creators_summary": "Zhang, Ligeng",
       "issued_year": 2020,
       "viewer_category": "references",
-      "search_text": "bih:cm3/oc341/01KPDYAHD1AW420NWNTHRPC34R\n01KPDYAHD1AW420NWNTHRPC34R\nA Wittgensteinian Approach to Reconsidering Nishida's Basho of True Nothing\nOpen access. Refers to OC §§341--343 in a note and uses hinge-style background considerations.\nschema:url\nhttps://philosophy-japan.org/wpdata/wp-content/uploads/2020/06/Zhang-Ligeng-2020.pdf\nZhang, Ligeng\nTetsugaku\n2020\n4\n56--69\nZhang2020NishidaBasho\nLigeng\nZhang\narticle-journal\nzhang2020-wittgensteinian-approach-reconsidering\nOpen access. Refers to OC §§341–343 in a note and uses hinge-style background considerations.\n56-69"
+      "search_text": "bih:cm3/oc341/01KPDYAHD1AW420NWNTHRPC34R\n01KPDYAHD1AW420NWNTHRPC34R\nA Wittgensteinian Approach to Reconsidering Nishida's Basho of True Nothing\nOpen access. Refers to OC §§341--343 in a note and uses hinge-style background considerations.\n\nTags: oc341; oc342; oc343; oc341-343; nishida;\nschema:url\nhttps://philosophy-japan.org/wpdata/wp-content/uploads/2020/06/Zhang-Ligeng-2020.pdf\nZhang, Ligeng\nTetsugaku\n2020\n4\n56--69\nOpen access. Refers to OC §§341--343 in a note and uses hinge-style background considerations.\nZhang2020NishidaBasho\nLigeng\nZhang\narticle-journal\nzhang2020-wittgensteinian-approach-reconsidering\nOpen access. Refers to OC §§341–343 in a note and uses hinge-style background considerations.\n56-69"
     }
   ]
 }

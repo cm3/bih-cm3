@@ -80,6 +80,7 @@ export class BihApp extends LitElement {
   }
 
   private handlePopState = () => {
+    this.applyFilterStateFromLocation();
     const entryUlid = this.readUlidFromLocation();
     if (!entryUlid) {
       return;
@@ -162,7 +163,73 @@ export class BihApp extends LitElement {
   }
 
   private buildEntryUrl(entryUlid: string): string {
-    return new URL(`${this.activeCollection?.collection}/${entryUlid}`, this.issuerRootUrl).toString();
+    return this.applyCurrentFilterParams(new URL(`${this.activeCollection?.collection}/${entryUlid}`, this.issuerRootUrl)).toString();
+  }
+
+  private get activeFilterParams(): URLSearchParams {
+    const params = new URLSearchParams();
+    const query = this.searchQuery.trim();
+    if (query) {
+      params.set('q', query);
+    }
+
+    const defaults = new Set(this.defaultVisibleViewerCategories);
+    const visible = Array.from(new Set(this.visibleViewerCategories));
+    const differsFromDefault = visible.length !== defaults.size || visible.some((category) => !defaults.has(category));
+    if (differsFromDefault && visible.length > 0) {
+      params.set('category', visible.join(','));
+    }
+
+    return params;
+  }
+
+  private applyCurrentFilterParams(url: URL): URL {
+    url.search = this.activeFilterParams.toString();
+    return url;
+  }
+
+  private applyFilterStateFromUrl(url: URL): void {
+    this.searchQuery = url.searchParams.get('q') ?? '';
+
+    const categoryParam = url.searchParams.get('category');
+    if (!categoryParam) {
+      this.visibleViewerCategories = Array.from(new Set(this.defaultVisibleViewerCategories));
+      return;
+    }
+
+    const knownCategories = new Set(this.viewerCategoryOptions.map((option) => option.id));
+    const categories = categoryParam
+      .split(',')
+      .map((category) => category.trim())
+      .filter((category) => knownCategories.has(category));
+    this.visibleViewerCategories = categories.length > 0 ? Array.from(new Set(categories)) : Array.from(new Set(this.defaultVisibleViewerCategories));
+  }
+
+  private applyFilterStateFromLocation(): void {
+    this.applyFilterStateFromUrl(new URL(window.location.href));
+  }
+
+  private replaceCurrentUrlWithFilters(): void {
+    const url = this.applyCurrentFilterParams(new URL(window.location.href));
+    window.history.replaceState({}, '', url.toString());
+  }
+
+  private applyInternalUrl(targetUrl: string): void {
+    const url = new URL(targetUrl, window.location.href);
+    this.applyFilterStateFromUrl(url);
+    const targetEntryUlid = this.readUlidFromUrl(url);
+    window.history.pushState({}, '', url.toString());
+    if (targetEntryUlid) {
+      void this.selectEntry(targetEntryUlid, false);
+    }
+  }
+
+  private readUlidFromUrl(url: URL): string | null {
+    if (!this.activeCollection) {
+      return null;
+    }
+    const match = url.pathname.match(new RegExp(`/${escapeRegExp(this.activeCollection.collection)}(?:/([^/]+))?/?$`));
+    return match?.[1] ? decodeURIComponent(match[1].replace(/\.html$/, '')) : null;
   }
 
   private buildItemJsonPublicPath(entryUlid: string): string {
@@ -234,6 +301,7 @@ export class BihApp extends LitElement {
         };
       });
       this.visibleViewerCategories = Array.from(new Set(this.defaultVisibleViewerCategories));
+      this.applyFilterStateFromLocation();
       const initialUlid = this.readUlidFromLocation();
       const initial = this.indexItems.find((item) => item.ulid === initialUlid) ?? this.indexItems[0] ?? null;
 
@@ -398,6 +466,10 @@ export class BihApp extends LitElement {
   }
 
   private resolveRichTextTarget(target: string): string | null {
+    if (target.startsWith('?')) {
+      return new URL(target, window.location.href).toString();
+    }
+
     const targetUlid = this.ulidByHubId.get(target);
     return targetUlid ? this.buildEntryUrl(targetUlid) : null;
   }
@@ -406,10 +478,7 @@ export class BihApp extends LitElement {
     return renderRichText(text, {
       resolveInternalTarget: (target) => this.resolveRichTextTarget(target),
       openInternalTarget: (targetUrl) => {
-        const targetEntryUlid = decodeURIComponent(targetUrl.split('/').at(-1) ?? '');
-        if (targetEntryUlid) {
-          void this.selectEntry(targetEntryUlid);
-        }
+        this.applyInternalUrl(targetUrl);
       },
     });
   }
@@ -675,9 +744,11 @@ export class BihApp extends LitElement {
       selectedUlid: this.selectedUlid,
       onSearchInput: (value) => {
         this.searchQuery = value;
+        this.replaceCurrentUrlWithFilters();
       },
       onVisibleViewerCategoriesChange: (value) => {
         this.visibleViewerCategories = value;
+        this.replaceCurrentUrlWithFilters();
       },
       onSelectEntry: (entryUlid) => {
         void this.selectEntry(entryUlid);

@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHCF0Z564D1NX9B0GJH8",
   "primary_id_property": "bih:hasDOI",
   "primary_id_value": "10.1163/22105700-00603004",
-  "contextual_description": "Open-access PDF available via PhilArchive. Discusses OC §341.",
+  "contextual_description": "Open-access PDF available via PhilArchive. Discusses OC §341.\n\nTags: oc341; mathematics; certainties;",
   "record_cache": {
     "title": "Wittgenstein on Mathematics and Certainties",
     "creators": [
@@ -87,7 +87,7 @@
   },
   "links": [
     {
-      "link_id": "3332e5cc-187b-4969-b6e9-4681766ce8a8",
+      "link_id": "f8e8db2e-b511-45e2-a034-ff17f6774659",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -101,7 +101,7 @@
       "note": null
     },
     {
-      "link_id": "f0ec86db-a395-4a59-87da-41350e3a9ee2",
+      "link_id": "78628455-b0d9-4614-966b-bf3674fc57b8",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -115,7 +115,7 @@
       "note": null
     },
     {
-      "link_id": "4e9e646b-1530-4baa-bc1a-0358126d8b21",
+      "link_id": "f34fab49-dec9-44f7-81ac-0981e91ae2ed",
       "property": "bih:hasDOI",
       "label": null,
       "description": null,
@@ -129,7 +129,7 @@
       "note": null
     },
     {
-      "link_id": "935c213b-d68f-4343-aba7-2f8196c5af0c",
+      "link_id": "53e98624-01be-4811-a50d-60d2f8b3899d",
       "property": "schema:url",
       "label": null,
       "description": null,

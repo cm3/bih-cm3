@@ -1,0 +1,130 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KRQ81BNFYN2WWZBPY0A362DM",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1111/phin.12232",
+  "contextual_description": "外部メモでは，OC §341 を疑いの条件をめぐる反懐疑論的な論点として読み，Moore 的命題を経験的証拠ではなく記述の規範・要請として捉え直す文献として位置づけている。Einstein との対比により，経験的に見える命題が体系内で postulate として機能しうる点が焦点になる。\n\nTags: oc341; oc342; anti-skeptical; moore; postulate; rule-grammatical; einstein;",
+  "record_cache": {
+    "title": "On Certainty: Wittgenstein and Einstein",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Mion",
+        "given": "Giovanni",
+        "literal": null
+      }
+    ],
+    "issued_year": 2019,
+    "issued_date": "2019",
+    "container_title": "Philosophical Investigations",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "42",
+    "issue": "2",
+    "pages": "163-170",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Connects Wittgenstein's response to scepticism in On Certainty with Einstein's response to the ether.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "mion2019-on-certainty-wittgenstein-einstein",
+          "fields": {
+            "author": "Mion, Giovanni",
+            "title": "On Certainty: Wittgenstein and Einstein",
+            "journal": "Philosophical Investigations",
+            "year": "2019",
+            "volume": "42",
+            "number": "2",
+            "pages": "163--170",
+            "doi": "10.1111/phin.12232",
+            "note": "Connects Wittgenstein's response to scepticism in On Certainty with Einstein's response to the ether.",
+            "ids": "Mion2019OnCertaintyWittgensteinEinstein"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Philosophical Investigations",
+          "author": [
+            {
+              "given": "Giovanni",
+              "family": "Mion"
+            }
+          ],
+          "DOI": "10.1111/phin.12232",
+          "type": "article-journal",
+          "id": "mion2019-on-certainty-wittgenstein-einstein",
+          "citation-key": "mion2019-on-certainty-wittgenstein-einstein",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2019
+              ]
+            ]
+          },
+          "note": "Connects Wittgenstein's response to scepticism in On Certainty with Einstein's response to the ether.",
+          "page": "163-170",
+          "title": "On Certainty: Wittgenstein and Einstein",
+          "volume": "42"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "01ce3639-1732-4faf-bab5-9e016c2d9b46",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFYN2WWZBPY0A362DM.bib",
+      "normalized_target": "./01KRQ81BNFYN2WWZBPY0A362DM.bib",
+      "source": "generated",
+      "url": "./01KRQ81BNFYN2WWZBPY0A362DM.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "190f8f10-3a31-4645-9185-e9a7091b691c",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFYN2WWZBPY0A362DM.csl.json",
+      "normalized_target": "./01KRQ81BNFYN2WWZBPY0A362DM.csl.json",
+      "source": "generated",
+      "url": "./01KRQ81BNFYN2WWZBPY0A362DM.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "f3a7aae3-afc5-426f-9df2-8c3e89a96420",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1111/phin.12232",
+      "normalized_target": "10.1111/phin.12232",
+      "source": "generated",
+      "url": "https://doi.org/10.1111%2Fphin.12232",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

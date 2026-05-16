@@ -1,0 +1,130 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KRQ81BNFV31HZNFX7DNWN0RD",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1111/phin.12095",
+  "contextual_description": "外部メモでは，Moore と王の事例を通じて，争点が経験的事実の不一致ではなく world-picture の違いであることを示す文献として整理されている。OC §341 は，共有されない背景条件が説得や議論の形を変えることを捉える足場になる。\n\nTags: oc341; world-picture; moore; persuasion; framework;",
+  "record_cache": {
+    "title": "How Long has the Earth Existed? Persuasion and World-Picture in Wittgenstein's On Certainty",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Perissinotto",
+        "given": "Luigi",
+        "literal": null
+      }
+    ],
+    "issued_year": 2015,
+    "issued_date": "2015",
+    "container_title": "Philosophical Investigations",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "39",
+    "issue": "2",
+    "pages": "154-177",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Discusses persuasion and world-picture in On Certainty through the contrast between Moore and the king.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "perissinotto2015-how-long-earth-existed",
+          "fields": {
+            "author": "Perissinotto, Luigi",
+            "title": "How Long has the Earth Existed? Persuasion and World-Picture in Wittgenstein's On Certainty",
+            "journal": "Philosophical Investigations",
+            "year": "2015",
+            "volume": "39",
+            "number": "2",
+            "pages": "154--177",
+            "doi": "10.1111/phin.12095",
+            "note": "Discusses persuasion and world-picture in On Certainty through the contrast between Moore and the king.",
+            "ids": "Perissinotto2015HowLongEarthExisted"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Philosophical Investigations",
+          "author": [
+            {
+              "given": "Luigi",
+              "family": "Perissinotto"
+            }
+          ],
+          "DOI": "10.1111/phin.12095",
+          "type": "article-journal",
+          "id": "perissinotto2015-how-long-earth-existed",
+          "citation-key": "perissinotto2015-how-long-earth-existed",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2015
+              ]
+            ]
+          },
+          "note": "Discusses persuasion and world-picture in On Certainty through the contrast between Moore and the king.",
+          "page": "154-177",
+          "title": "How Long has the Earth Existed? Persuasion and World-Picture in Wittgenstein's On Certainty",
+          "volume": "39"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "4ff82c90-d035-4a3a-ba82-c634ff91bf42",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFV31HZNFX7DNWN0RD.bib",
+      "normalized_target": "./01KRQ81BNFV31HZNFX7DNWN0RD.bib",
+      "source": "generated",
+      "url": "./01KRQ81BNFV31HZNFX7DNWN0RD.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "e31793a3-c53d-40ab-b701-f0403bfb1f1e",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFV31HZNFX7DNWN0RD.csl.json",
+      "normalized_target": "./01KRQ81BNFV31HZNFX7DNWN0RD.csl.json",
+      "source": "generated",
+      "url": "./01KRQ81BNFV31HZNFX7DNWN0RD.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "b3d9d748-1937-4dee-95e1-40f03ba3cfbc",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1111/phin.12095",
+      "normalized_target": "10.1111/phin.12095",
+      "source": "generated",
+      "url": "https://doi.org/10.1111%2Fphin.12095",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

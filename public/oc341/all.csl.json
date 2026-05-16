@@ -52,6 +52,31 @@
     "volume": "21"
   },
   {
+    "container-title": "Philosophia",
+    "author": [
+      {
+        "given": "Robert Greenleaf",
+        "family": "Brice"
+      }
+    ],
+    "DOI": "10.1007/s11406-012-9385-2",
+    "type": "article-journal",
+    "id": "brice2013-mistakes-mental-disturbances",
+    "citation-key": "brice2013-mistakes-mental-disturbances",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "note": "Uses Wittgensteinian certainty in relation to basic moral certainty.",
+    "page": "477-487",
+    "title": "Mistakes and Mental Disturbances: Pleasants, Wittgenstein, and Basic Moral Certainty",
+    "volume": "41"
+  },
+  {
     "container-title": "Analytic Philosophy",
     "author": [
       {
@@ -126,6 +151,31 @@
     "volume": "6"
   },
   {
+    "container-title": "Philosophical Investigations",
+    "author": [
+      {
+        "given": "Giovanni",
+        "family": "Mion"
+      }
+    ],
+    "DOI": "10.1111/phin.12232",
+    "type": "article-journal",
+    "id": "mion2019-on-certainty-wittgenstein-einstein",
+    "citation-key": "mion2019-on-certainty-wittgenstein-einstein",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "note": "Connects Wittgenstein's response to scepticism in On Certainty with Einstein's response to the ether.",
+    "page": "163-170",
+    "title": "On Certainty: Wittgenstein and Einstein",
+    "volume": "42"
+  },
+  {
     "container-title": "Canadian Journal of Philosophy",
     "author": [
       {
@@ -149,6 +199,84 @@
     "title": "Hinge Epistemology? Limits and Prospects of a Prominent Formulation of Framework Views",
     "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EE447159544A5FFA59FA0C1784444AA1/S0045509125100234a.pdf/hinge_epistemology_limits_and_prospects_of_a_prominent_formulation_of_framework_views.pdf",
     "volume": "54"
+  },
+  {
+    "container-title": "Theoria",
+    "author": [
+      {
+        "given": "W. J. T.",
+        "family": "Mollema"
+      }
+    ],
+    "DOI": "10.1111/theo.12558",
+    "type": "article-journal",
+    "id": "mollema2024-on-certainty-left-wittgensteinianism",
+    "citation-key": "mollema2024-on-certainty-left-wittgensteinianism",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "Uses On Certainty and the riverbed analogy to discuss conceptual change.",
+    "page": "603-623",
+    "title": "On Certainty, Left Wittgensteinianism and Conceptual Change",
+    "volume": "90"
+  },
+  {
+    "author": [
+      {
+        "given": "Danièle",
+        "family": "Moyal-Sharrock"
+      },
+      {
+        "given": "Duncan",
+        "family": "Pritchard"
+      }
+    ],
+    "collection-title": "Elements in the Philosophy of Ludwig Wittgenstein",
+    "DOI": "10.1017/9781108946599",
+    "type": "book",
+    "id": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+    "citation-key": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+    "ISBN": "9781108931199",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "Overview of Wittgenstein's treatment of knowledge and certainty, including non-propositional/non-epistemic and propositional/epistemic readings.",
+    "publisher": "Cambridge University Press",
+    "title": "Wittgenstein on Knowledge and Certainty"
+  },
+  {
+    "container-title": "Philosophical Investigations",
+    "author": [
+      {
+        "given": "Luigi",
+        "family": "Perissinotto"
+      }
+    ],
+    "DOI": "10.1111/phin.12095",
+    "type": "article-journal",
+    "id": "perissinotto2015-how-long-earth-existed",
+    "citation-key": "perissinotto2015-how-long-earth-existed",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "note": "Discusses persuasion and world-picture in On Certainty through the contrast between Moore and the king.",
+    "page": "154-177",
+    "title": "How Long has the Earth Existed? Persuasion and World-Picture in Wittgenstein's On Certainty",
+    "volume": "39"
   },
   {
     "container-title": "KRITERION – Journal of Philosophy",
@@ -228,24 +356,23 @@
   {
     "author": [
       {
-        "given": "Ludwig",
-        "family": "Wittgenstein"
+        "given": "Akihiro",
+        "family": "Kameda"
       }
     ],
-    "container-title": "On Certainty",
-    "type": "chapter",
+    "type": "document",
     "id": "wittgenstein1969-certainty-341",
     "citation-key": "wittgenstein1969-certainty-341",
     "issued": {
       "date-parts": [
         [
-          1969
+          2026
         ]
       ]
     },
-    "note": "Target passage around which this dataset is organized.",
-    "publisher": "Basil Blackwell",
-    "title": "On Certainty, §341"
+    "note": "Collection overview for literature discussing On Certainty §341. The passage itself is represented as a locator on Wittgenstein's On Certainty, not as a bibliographic work.",
+    "publisher": "Akihiro Kameda",
+    "title": "OC §341 survey: literature on Wittgenstein's On Certainty §341"
   },
   {
     "author": [

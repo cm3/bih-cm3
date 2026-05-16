@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHC949T3SXJBEVASS0MD",
   "primary_id_property": "bih:hasDOI",
   "primary_id_value": "10.1017/epi.2021.40",
-  "contextual_description": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.",
+  "contextual_description": "OA version/metadata available via PhilArchive. Connects hinge epistemology with testimonial prejudice; cites OC §341.\n\nTags: oc341; hinge-epistemology; testimony;",
   "record_cache": {
     "title": "Prejudice in Testimonial Justification: A Hinge Account",
     "creators": [
@@ -87,7 +87,7 @@
   },
   "links": [
     {
-      "link_id": "90e4adfd-238e-4af0-82e3-46eba5b6d3d2",
+      "link_id": "8712375b-337c-4e91-ab4b-06300cf92885",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -101,7 +101,7 @@
       "note": null
     },
     {
-      "link_id": "d60406d8-25ce-470e-8672-4295d2ff7b1e",
+      "link_id": "626aa1a8-6bb0-4972-a09d-b8cde9ea157c",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -115,7 +115,7 @@
       "note": null
     },
     {
-      "link_id": "9fbb29b0-9ff2-468f-9560-31a93d35a562",
+      "link_id": "0cc593d6-e921-4e1c-a436-ba71f7e1e84e",
       "property": "bih:hasDOI",
       "label": null,
       "description": null,
@@ -129,7 +129,7 @@
       "note": null
     },
     {
-      "link_id": "ef00ff5e-68da-490a-8a11-23d491e79dd3",
+      "link_id": "085a34a6-7fbc-4402-b4b9-ee34db501c70",
       "property": "schema:url",
       "label": null,
       "description": null,

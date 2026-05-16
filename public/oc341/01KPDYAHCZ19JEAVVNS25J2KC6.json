@@ -3,7 +3,7 @@
   "hub_id": "bih:cm3/oc341/01KPDYAHCZ19JEAVVNS25J2KC6",
   "primary_id_property": "schema:url",
   "primary_id_value": "https://opac.ll.chiba-u.jp/da/curator/100541/S18834744-33-p019-YAM.pdf",
-  "contextual_description": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.",
+  "contextual_description": "Institutional OA PDF (Chiba University). Search snippet indicates explicit reference to OC 341; issue metadata not fully normalized here.\n\nTags: oc341; japanese;",
   "record_cache": {
     "title": "What is Wittgenstein's View of Knowledge?: An Analysis of the Context Dependency of Knowledge",
     "creators": [
@@ -77,7 +77,7 @@
   },
   "links": [
     {
-      "link_id": "a9ded5bd-e092-43b2-8ed5-3b119a657bc4",
+      "link_id": "ffd37b72-2948-4df6-af3e-00addfa62767",
       "property": "bih:hasBibTeX",
       "label": null,
       "description": null,
@@ -91,7 +91,7 @@
       "note": null
     },
     {
-      "link_id": "69787418-8276-457f-b15a-c649b9a0bde0",
+      "link_id": "60266ad5-c3cd-4d1e-bb52-1a832cf6b823",
       "property": "bih:hasCSLJSON",
       "label": null,
       "description": null,
@@ -105,7 +105,7 @@
       "note": null
     },
     {
-      "link_id": "e738d9a7-db60-44c6-9abd-60666835a338",
+      "link_id": "54a5304a-0f9b-4bdd-ba05-f5dbbb82f59d",
       "property": "schema:url",
       "label": null,
       "description": null,

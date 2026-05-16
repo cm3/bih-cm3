@@ -1,0 +1,138 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KRQ81BNFRPWMK347BBGAHEWF",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1017/9781108946599",
+  "contextual_description": "外部メモでは，hinge certainty を通常の知識命題へ同化しない読み，とくに非命題的・非認識的な確実性をめぐる現代 hinge 論の入口として位置づけている。Pritchard, Wright, Williams, Coliva などとの争点も整理対象になる。\n\nTags: oc341; oc342; hinge-epistemology; non-propositional; non-epistemic; pritchard; wright; williams; coliva;",
+  "record_cache": {
+    "title": "Wittgenstein on Knowledge and Certainty",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Moyal-Sharrock",
+        "given": "Danièle",
+        "literal": null
+      },
+      {
+        "role": "author",
+        "family": "Pritchard",
+        "given": "Duncan",
+        "literal": null
+      }
+    ],
+    "issued_year": 2024,
+    "issued_date": "2024",
+    "container_title": null,
+    "container_title_short": null,
+    "collection_title": "Elements in the Philosophy of Ludwig Wittgenstein",
+    "publisher": "Cambridge University Press",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Overview of Wittgenstein's treatment of knowledge and certainty, including non-propositional/non-epistemic and propositional/epistemic readings.",
+    "keywords": null,
+    "isbn": "9781108931199",
+    "issn": null,
+    "pmid": null,
+    "resource_type": "book",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+          "fields": {
+            "author": "Moyal-Sharrock, Dani{\\`e}le and Pritchard, Duncan",
+            "title": "Wittgenstein on Knowledge and Certainty",
+            "year": "2024",
+            "publisher": "Cambridge University Press",
+            "series": "Elements in the Philosophy of Ludwig Wittgenstein",
+            "doi": "10.1017/9781108946599",
+            "isbn": "9781108931199",
+            "note": "Overview of Wittgenstein's treatment of knowledge and certainty, including non-propositional/non-epistemic and propositional/epistemic readings.",
+            "ids": "MoyalSharrockPritchard2024WittgensteinKnowledgeCertainty"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "author": [
+            {
+              "given": "Danièle",
+              "family": "Moyal-Sharrock"
+            },
+            {
+              "given": "Duncan",
+              "family": "Pritchard"
+            }
+          ],
+          "collection-title": "Elements in the Philosophy of Ludwig Wittgenstein",
+          "DOI": "10.1017/9781108946599",
+          "type": "book",
+          "id": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+          "citation-key": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+          "ISBN": "9781108931199",
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "note": "Overview of Wittgenstein's treatment of knowledge and certainty, including non-propositional/non-epistemic and propositional/epistemic readings.",
+          "publisher": "Cambridge University Press",
+          "title": "Wittgenstein on Knowledge and Certainty"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "b68162a4-f9fb-4f52-bad1-8c07fe39d5d6",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFRPWMK347BBGAHEWF.bib",
+      "normalized_target": "./01KRQ81BNFRPWMK347BBGAHEWF.bib",
+      "source": "generated",
+      "url": "./01KRQ81BNFRPWMK347BBGAHEWF.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "c77660b0-3af3-4a93-8bc5-5a251c485123",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFRPWMK347BBGAHEWF.csl.json",
+      "normalized_target": "./01KRQ81BNFRPWMK347BBGAHEWF.csl.json",
+      "source": "generated",
+      "url": "./01KRQ81BNFRPWMK347BBGAHEWF.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "1762f106-be1d-475d-8cca-3cc2d3ef1e29",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1017/9781108946599",
+      "normalized_target": "10.1017/9781108946599",
+      "source": "generated",
+      "url": "https://doi.org/10.1017%2F9781108946599",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

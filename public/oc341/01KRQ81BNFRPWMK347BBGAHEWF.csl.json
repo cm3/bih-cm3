@@ -1,0 +1,28 @@
+{
+  "author": [
+    {
+      "given": "Danièle",
+      "family": "Moyal-Sharrock"
+    },
+    {
+      "given": "Duncan",
+      "family": "Pritchard"
+    }
+  ],
+  "collection-title": "Elements in the Philosophy of Ludwig Wittgenstein",
+  "DOI": "10.1017/9781108946599",
+  "type": "book",
+  "id": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+  "citation-key": "moyal-sharrock-pritchard2024-wittgenstein-knowledge-certainty",
+  "ISBN": "9781108931199",
+  "issued": {
+    "date-parts": [
+      [
+        2024
+      ]
+    ]
+  },
+  "note": "Overview of Wittgenstein's treatment of knowledge and certainty, including non-propositional/non-epistemic and propositional/epistemic readings.",
+  "publisher": "Cambridge University Press",
+  "title": "Wittgenstein on Knowledge and Certainty"
+}

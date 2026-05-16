@@ -1,0 +1,130 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KRQ81BNFTC6Z7ZZSFAR31FJV",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1111/theo.12558",
+  "contextual_description": "外部メモでは，OC §341 の hinge を一時的に硬化して探究を可能にするものとして読み，歴史的・実践的変化の中で再び流動化しうるものとして扱う文献として整理されている。§341 は固定的基礎だけでなく，概念変化を考えるための動的モデルにもなる。\n\nTags: oc341; conceptual-change; riverbed; left-wittgensteinianism; framework;",
+  "record_cache": {
+    "title": "On Certainty, Left Wittgensteinianism and Conceptual Change",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Mollema",
+        "given": "W. J. T.",
+        "literal": null
+      }
+    ],
+    "issued_year": 2024,
+    "issued_date": "2024",
+    "container_title": "Theoria",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "90",
+    "issue": "6",
+    "pages": "603-623",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Uses On Certainty and the riverbed analogy to discuss conceptual change.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "mollema2024-on-certainty-left-wittgensteinianism",
+          "fields": {
+            "author": "Mollema, W. J. T.",
+            "title": "On Certainty, Left Wittgensteinianism and Conceptual Change",
+            "journal": "Theoria",
+            "year": "2024",
+            "volume": "90",
+            "number": "6",
+            "pages": "603--623",
+            "doi": "10.1111/theo.12558",
+            "note": "Uses On Certainty and the riverbed analogy to discuss conceptual change.",
+            "ids": "Mollema2024OnCertaintyLeftWittgensteinianism"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Theoria",
+          "author": [
+            {
+              "given": "W. J. T.",
+              "family": "Mollema"
+            }
+          ],
+          "DOI": "10.1111/theo.12558",
+          "type": "article-journal",
+          "id": "mollema2024-on-certainty-left-wittgensteinianism",
+          "citation-key": "mollema2024-on-certainty-left-wittgensteinianism",
+          "issue": "6",
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "note": "Uses On Certainty and the riverbed analogy to discuss conceptual change.",
+          "page": "603-623",
+          "title": "On Certainty, Left Wittgensteinianism and Conceptual Change",
+          "volume": "90"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "deed1da8-e59d-45a2-8756-4b6ff0b6a9cd",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFTC6Z7ZZSFAR31FJV.bib",
+      "normalized_target": "./01KRQ81BNFTC6Z7ZZSFAR31FJV.bib",
+      "source": "generated",
+      "url": "./01KRQ81BNFTC6Z7ZZSFAR31FJV.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "c4c97ba9-a99a-4169-a975-ff9ae1e4edcb",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFTC6Z7ZZSFAR31FJV.csl.json",
+      "normalized_target": "./01KRQ81BNFTC6Z7ZZSFAR31FJV.csl.json",
+      "source": "generated",
+      "url": "./01KRQ81BNFTC6Z7ZZSFAR31FJV.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "707f599a-ffa2-458a-8bd0-efc0fdd49290",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1111/theo.12558",
+      "normalized_target": "10.1111/theo.12558",
+      "source": "generated",
+      "url": "https://doi.org/10.1111%2Ftheo.12558",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "container-title": "Philosophia",
+  "author": [
+    {
+      "given": "Robert Greenleaf",
+      "family": "Brice"
+    }
+  ],
+  "DOI": "10.1007/s11406-012-9385-2",
+  "type": "article-journal",
+  "id": "brice2013-mistakes-mental-disturbances",
+  "citation-key": "brice2013-mistakes-mental-disturbances",
+  "issue": "2",
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "note": "Uses Wittgensteinian certainty in relation to basic moral certainty.",
+  "page": "477-487",
+  "title": "Mistakes and Mental Disturbances: Pleasants, Wittgenstein, and Basic Moral Certainty",
+  "volume": "41"
+}

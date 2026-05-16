@@ -1,0 +1,130 @@
+{
+  "schema_version": "0.2.0",
+  "hub_id": "bih:cm3/oc341/01KRQ81BNFVF4N0MTYE73ZP43K",
+  "primary_id_property": "bih:hasDOI",
+  "primary_id_value": "10.1007/s11406-012-9385-2",
+  "contextual_description": "外部メモでは，死や殺害に関する基本的な道徳的確実性を，OC §341 の hinge と対応させる文献として位置づけている。§341 はここで，認識論だけでなく道徳的探究にも疑いから免除された背景条件があるかを考えるための入口になる。\n\nTags: oc341; moral-application; moral-certainty; hinge;",
+  "record_cache": {
+    "title": "Mistakes and Mental Disturbances: Pleasants, Wittgenstein, and Basic Moral Certainty",
+    "creators": [
+      {
+        "role": "author",
+        "family": "Brice",
+        "given": "Robert Greenleaf",
+        "literal": null
+      }
+    ],
+    "issued_year": 2013,
+    "issued_date": "2013",
+    "container_title": "Philosophia",
+    "container_title_short": null,
+    "collection_title": null,
+    "publisher": null,
+    "volume": "41",
+    "issue": "2",
+    "pages": "477-487",
+    "journal_abbreviation": null,
+    "language": null,
+    "abstract": null,
+    "note": "Uses Wittgensteinian certainty in relation to basic moral certainty.",
+    "keywords": null,
+    "isbn": null,
+    "issn": null,
+    "pmid": null,
+    "resource_type": "article-journal",
+    "source_records": [
+      {
+        "source": "source-bib",
+        "retrieved_at": null,
+        "record": {
+          "source_citation_key": "brice2013-mistakes-mental-disturbances",
+          "fields": {
+            "author": "Brice, Robert Greenleaf",
+            "title": "Mistakes and Mental Disturbances: Pleasants, Wittgenstein, and Basic Moral Certainty",
+            "journal": "Philosophia",
+            "year": "2013",
+            "volume": "41",
+            "number": "2",
+            "pages": "477--487",
+            "doi": "10.1007/s11406-012-9385-2",
+            "note": "Uses Wittgensteinian certainty in relation to basic moral certainty.",
+            "ids": "Brice2013MistakesMentalDisturbances"
+          }
+        }
+      },
+      {
+        "source": "citation-js-csl-json",
+        "retrieved_at": null,
+        "record": {
+          "container-title": "Philosophia",
+          "author": [
+            {
+              "given": "Robert Greenleaf",
+              "family": "Brice"
+            }
+          ],
+          "DOI": "10.1007/s11406-012-9385-2",
+          "type": "article-journal",
+          "id": "brice2013-mistakes-mental-disturbances",
+          "citation-key": "brice2013-mistakes-mental-disturbances",
+          "issue": "2",
+          "issued": {
+            "date-parts": [
+              [
+                2013
+              ]
+            ]
+          },
+          "note": "Uses Wittgensteinian certainty in relation to basic moral certainty.",
+          "page": "477-487",
+          "title": "Mistakes and Mental Disturbances: Pleasants, Wittgenstein, and Basic Moral Certainty",
+          "volume": "41"
+        }
+      }
+    ]
+  },
+  "links": [
+    {
+      "link_id": "6cf698e9-54e0-43a2-ab50-3a65928c44f0",
+      "property": "bih:hasBibTeX",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFVF4N0MTYE73ZP43K.bib",
+      "normalized_target": "./01KRQ81BNFVF4N0MTYE73ZP43K.bib",
+      "source": "generated",
+      "url": "./01KRQ81BNFVF4N0MTYE73ZP43K.bib",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "effe32d0-bff0-4f70-b0ed-fc0f82eefb2f",
+      "property": "bih:hasCSLJSON",
+      "label": null,
+      "description": null,
+      "target_type": "distribution",
+      "target_value": "./01KRQ81BNFVF4N0MTYE73ZP43K.csl.json",
+      "normalized_target": "./01KRQ81BNFVF4N0MTYE73ZP43K.csl.json",
+      "source": "generated",
+      "url": "./01KRQ81BNFVF4N0MTYE73ZP43K.csl.json",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    },
+    {
+      "link_id": "fc9f6a82-c68c-4157-b62f-6ed2b110be58",
+      "property": "bih:hasDOI",
+      "label": null,
+      "description": null,
+      "target_type": "identifier",
+      "target_value": "10.1007/s11406-012-9385-2",
+      "normalized_target": "10.1007/s11406-012-9385-2",
+      "source": "generated",
+      "url": "https://doi.org/10.1007%2Fs11406-012-9385-2",
+      "access_note": null,
+      "last_checked_at": null,
+      "note": null
+    }
+  ]
+}
